@@ -1,0 +1,66 @@
+=== PROGRESO DE CONSTRUCCIÓN DEL PEI ===
+Fecha inicio: 07/12/2025
+Última actualización: 07/12/2025 02:45
+
+[✓] FASE 1: Exploración completada
+[✓] FASE 1.5: Extracción de texto completada
+    - PDFs con texto nativo: 2 archivos (pdftotext)
+    - PDFs escaneados (OCR): 2 archivos (tesseract-ocr)
+    - DOCX extraídos: 3 archivos (unzip XML)
+[ ] FASE 1.6: Fragmentación - NO REQUERIDA (textos completos disponibles)
+[ ] FASE 2: Inventario - PENDIENTE CONFIRMACIÓN DEL USUARIO
+[ ] FASE 2.5: Estructura de referencia - PENDIENTE
+[ ] FASE 3.1: Capítulo I - PENDIENTE
+[ ] FASE 3.2: Capítulo II - PENDIENTE
+[ ] FASE 3.3: Capítulo III - PENDIENTE
+[ ] FASE 3.4: Capítulo IV - PENDIENTE
+[ ] FASE 3.5: Capítulo V - PENDIENTE
+[ ] FASE 3.6: Capítulo VI - PENDIENTE
+[ ] FASE 3.7: Capítulo VII - PENDIENTE
+[ ] FASE 4: Ensamblaje - PENDIENTE
+[ ] FASE 5: Generación final - PENDIENTE
+
+=== DOCUMENTOS PROCESADOS ===
+
+DOCUMENTOS ISER (FUENTES PRIMARIAS):
+✓ pei_2020.pdf → textos_extraidos/pei_2020.txt (148 KB)
+✓ PLAN-DE-DESARROLLO...pdf → textos_extraidos/PLAN_DE_DESARROLLO.txt (181 KB)
+✓ ACUERDO POLITICA DE FORMACION MULTIMODAL...docx → textos_extraidos/ACUERDO_POLITICA_FORMACION_MULTIMODAL.txt (80 KB)
+✓ ACUERDO SISTEMA DE INVESTIGACIÓN...docx → textos_extraidos/ACUERDO_SISTEMA_INVESTIGACION.txt (60 KB)
+✓ F-GJR-04-Acuerdo-v03 Sistema de Extensión...docx → textos_extraidos/ACUERDO_SISTEMA_EXTENSION.txt (102 KB)
+✓ acuerdo_005_04_julio.pdf → textos_extraidos/acuerdo_005_04_julio.txt (7.1 KB) [OCR]
+
+DOCUMENTOS REFERENCIA (OTRAS INSTITUCIONES):
+✓ acuerdo-consejo-directivo-14-del-08-de-agosto-de-2018.pdf → textos_extraidos/acuerdo_consejo_directivo_14.txt (104 KB) [OCR]
+  NOTA: Es el PEI del Politécnico Colombiano Jaime Isaza Cadavid - SOLO REFERENCIA DE ESTRUCTURA
+
+DOCUMENTOS EXCLUIDOS:
+✗ 2. PEI REDEFINICIÓN CICLOS PROPEDÉUTICOS (1).pdf - NO USAR (ciclos propedéuticos ≠ cambio carácter)
+✗ 796870544-politicas-curriculares-politecnico-colombiano-jaime-isaza-cadavid-2021.pdf - Muy grande (52MB)
+
+=== HALLAZGOS CLAVE ===
+
+1. NOMBRE NUEVO PROPUESTO: "Institución Universitaria Instituto Superior de Educación Rural – UNIRURAL"
+   (Ya aparece en los documentos de 2025)
+
+2. DOCUMENTOS YA ORIENTADOS A CAMBIO DE CARÁCTER:
+   - Política de Formación Multimodal (Oct 2025)
+   - Sistema de Investigación (Dic 2025)
+   - Sistema de Extensión (Dic 2025)
+
+3. RECTOR ACTUAL: José Javier Bustos Cortés
+   RECTOR ANTERIOR (PEI 2020): Mario Augusto Contreras Medina
+
+=== ESTRUCTURA DEL REPOSITORIO ===
+
+/home/user/ISER-PEI/
+├── textos_extraidos/          # 7 archivos de texto (~682 KB total)
+├── fragmentos_pdf/            # (no utilizado - textos completos disponibles)
+├── estructura_referencia/     # (pendiente)
+├── pei_construccion/
+│   ├── progreso.log          # Este archivo
+│   ├── capitulos/            # (vacío - pendiente)
+│   └── fuentes_por_capitulo/ # (vacío - pendiente)
+├── output/                    # (vacío - pendiente)
+├── anexos/                    # (vacío - pendiente)
+└── fuentes_consultadas.md     # Inventario completo

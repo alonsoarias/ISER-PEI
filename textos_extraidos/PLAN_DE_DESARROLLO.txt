@@ -1,0 +1,8065 @@
+PLAN DE DESARROLLO INSTITUCIONAL – MODIFICACIÓN
+Direccionamiento Estratégico y Planeación
+Octubre de 2024
+
+CONSEJO DIRECTIVO
+William Villamizar Laguado, Presidente - Gobernador Norte de Santander
+Rubén Darío Moreno Martínez, Delegado de la Ministerio de Educación Nacional
+Nelly Vera Vera, Representante del Sector Productivo
+Xiomara Gelvez Parada, Representante de los Egresados
+Carlos Rafael Villamizar Jáuregui, Representante de las Directivas Académicas
+Jorge Antonio Sequeda Serrano, Representante de los Docentes
+Luis Adrián Cardozo Mármol, Representante de los Estudiantes
+José Javier Bustos Cortés, Rector
+Gloria Yubid Coronado Sepúlveda, Secretaria
+
+CONSEJO ACADÉMICO
+José Javier Bustos Cortés, Presidente
+Mauricio Alfredo Zafra Aycardi, Vicerrector Académico
+Fabián Aristóbulo Rico Suárez, Decano Facultad de Ciencias Administrativas y
+Sociales
+Carlos Rafael Villamizar Jáuregui, Decano Facultad de Ingenierías e Informática
+Leydi Katherine García Pabón, Representante de los Coordinadores de
+Programa
+Jonathan Gamboa Cote, Representante de los estudiantes
+
+ACTUALIZACIÓN PDI 2024
+José Javier Bustos Cortés, Rector
+Mónica Enith Salanueva Abril, Profesional Especializada Direccionamiento
+Estratégico y Planeación
+Claudia Yaneth Peña Fernández, Profesora Tiempo Completo Ocasional
+Líderes de Procesos Institucionales
+Equipo de trabajo proceso de Direccionamiento Estratégico y Planeación
+
+Contenido
+1. PRESENTACIÓN INSTITUCIONAL............................................................................ 1
+2.
+
+PROYECTO EDUCATIVO INSTITUCIONAL – PEI .................................................... 3
+
+3.
+
+DIAGNÓSTICO INSTITUCIONAL ............................................................................... 4
+3.1 RESULTADOS PLAN DE DESARROLLO 2021 – 2030 A 31/08/2024 ................... 10
+3.1.1
+
+EJE 1 FORMACIÓN RURAL PARA EL DESARROLLO HUMANO............... 11
+
+3.1.2
+
+EJE 2 APOSTANDO POR LA EXTENSIÓN ................................................. 11
+
+3.1.3
+
+EJE 3 INVESTIGAR EN EL INSTITUTO....................................................... 12
+
+3.1.4
+
+EJE 4 BIENESTAR EN LA COMUNIDAD EDUCATIVA ................................ 12
+
+3.1.5
+
+EJE 5 GESTIÓN ESTRATÉGICA, ADMINISTRATIVA Y FINANCIERA ........ 12
+
+3.1.6 EJE 6 DESARROLLO DE LA INFRAESTRUCTURA FÍSICA, TECNOLÓGICA
+Y MEDIOS EDUCATIVOS ........................................................................................ 13
+3.2
+ARTICULACIÓN CON LAS POLÍTICAS PÚBLICAS Y LOS PLANES DE
+DESARROLLO............................................................................................................. 13
+3.2.1
+
+Plan Nacional de Desarrollo 2022 – 2026 ..................................................... 13
+
+3.2.2
+
+PLANES DE DESARROLLO DEPARTAMENTAL ........................................ 19
+
+3.2.2.1
+
+Norte de Santander:.............................................................................. 19
+
+3.2.2.2
+
+Bolívar: ................................................................................................. 21
+
+3.2.2.3
+
+Arauca: ................................................................................................. 23
+
+3.2.2.4
+
+Santander: ............................................................................................ 24
+
+3.2.2.5
+
+Cesar: ................................................................................................... 27
+
+3.2.2.6
+
+Magdalena: ........................................................................................... 28
+
+3.2.3
+
+REFERENTES EDUCATIVOS ..................................................................... 31
+
+3.2.3.1
+
+Acuerdo por lo superior 2034 ................................................................ 31
+
+3.2.3.2
+
+Acuerdo 02 de 2020.............................................................................. 33
+
+3.2.3.3
+Decreto 1330 de 2019 – por el cual se sustituye el capítulo 2 y se
+suprime el capítulo 7 del título 3 de la parte 5 del libro 2 del decreto 1075 de 2015 único reglamentario del sector educación ............................................................. 34
+3.2.3.4
+4
+
+Pacto por la educación 2050 ................................................................. 35
+
+PROPUESTA DE MODIFICACIÓN PLAN DE DESARROLLO INSTITUCIONAL...... 36
+4.1
+
+MARCO ESTRATÉGICO.................................................................................. 45
+
+4.1.1
+
+DIMENSIONES DEL DESARROLLO INSTITUCIONAL ................................ 45
+
+4.1.1.1
+
+Dimensión de formación ....................................................................... 46
+
+4.1.1.2
+
+Dimensión de Extensión ....................................................................... 47
+
+4.1.1.3
+
+Dimensión de investigación .................................................................. 47
+
+4.1.1.4
+
+Dimensión de bienestar ........................................................................ 48
+
+4.1.1.5
+
+Dimensión organizacional ..................................................................... 49
+
+4.1.2
+
+OBJETIVOS INSTITUCIONALES ................................................................. 50
+
+4.1.3
+
+PRINCIPIOS................................................................................................. 51
+
+4.1.4
+
+VALORES .................................................................................................... 52
+
+4.1.5
+
+MISIÓN ........................................................................................................ 52
+
+4.1.6
+
+VISIÓN ......................................................................................................... 53
+
+4.1.7
+
+OBJETIVOS ESTRATÉGICOS..................................................................... 53
+
+4.1.8
+
+EJES ESTRATÉGICOS................................................................................ 53
+
+4.1.8.1
+
+Formación Rural para el Desarrollo Humano ........................................ 53
+
+4.1.8.2
+
+Apostando por la Extensión .................................................................. 55
+
+4.1.8.3
+
+Investigar en el Instituto ........................................................................ 56
+
+4.1.8.4
+
+Bienestar en la comunidad educativa ................................................... 57
+
+4.1.8.5
+
+Gobernanza y Sostenibilidad Financiera ............................................... 59
+
+4.1.8.6
+
+Desarrollo de la infraestructura física, tecnológica y medios educativos 59
+
+4.1.9
+
+CUADRO DE MANDO INTEGRAL ............................................................... 62
+
+4.1.10
+CONTRIBUCIÓN DEL PLAN DE DESARROLLO INSTITUCIONAL A LOS
+OBJETIVOS DE DESARROLLO SOSTENIBLE ....................................................... 72
+4.2
+
+ESTRUCTURA FINANCIERA .......................................................................... 74
+
+4.3
+
+SEGUIMIENTO Y EVALUACIÓN ..................................................................... 80
+
+INTRODUCCIÓN
+El Plan de Desarrollo Institucional 2021 – 2030 “Hacia una sociedad rural y urbana, más
+justa, sostenible y equitativa” del Instituto Superior de Educación Rural – ISER se constituyó
+en la ruta que de manera colectiva trazó la institución para alcanzar las metas y objetivos
+estratégicos propuestos conforme a la resignificación del Proyecto Educativo Institucional
+en la vigencia 2020.
+Como institución de educación superior, el ISER enfrenta un sinnúmero de retos y desafíos
+propios de un contexto globalizado y cada vez más competitivo, es así como en la vigencia
+2023 se inicia un análisis para redefinir la institución por ciclos propedéuticos con el
+propósito de responder a las necesidades del entorno y en el marco de la estrategia de
+ampliación de cobertura en diversos territorios del país y alineado a las políticas públicas.
+Al cierre de la vigencia 2023 la institución asume de manera voluntaria la redefinición
+institucional por ciclos propedéuticos, lo que implica una reforma estatutaria, administrativa
+y académica, iniciando con el ajuste de su Estatuto General mediante Acuerdo No. 031 del
+19 de diciembre de 2023, situación que amerita redireccionar la planeación estratégica
+institucional de tal manera que responda a las apuestas académicas contenida en el
+Proyecto Educativo Institucional.
+En esa búsqueda constante de la calidad y el mejoramiento continuo, se han generado
+estrategias que permiten al Instituto fortalecer sus procesos académicos, investigativos,
+extensión y bienestar, así como su infraestructura física y tecnológica, con miras a la
+acreditación de programas y la acreditación institucional durante el próximo decenio.
+En este sentido, los ejes estratégicos que conforman este Plan de Desarrollo Institucional
+con visión a 2034 han sido pensados desde las directrices del Gobierno Nacional, la
+normatividad vigente y como una respuesta a los principales retos que plantea la región y
+el país.
+El ISER, a través de sus ejes y líneas estratégicas, apuesta por una institución redefinida
+por ciclos propedéuticos y comprometida con el desarrollo humano, es así, como este
+documento, junto con el Proyecto Educativo Institucional, se constituyen en la carta de
+navegación para la modernización y el fortalecimiento de los procesos misionales,
+estratégicos, de apoyo y de evaluación.
+
+1. PRESENTACIÓN INSTITUCIONAL
+El Instituto Superior de Educación Rural – ISER es creado con la expedición del Decreto
+Ley 2365 del 18 de septiembre de 1956, que otorga vida legal al Instituto de Educación
+Rural, con la impronta de ser una institución con carácter de “plantel piloto”. El Instituto
+asumió la tarea de atender las exigencias de una educación rural, para un país cuya
+población seguía siendo mayoritariamente rural y que demandaba propuestas educativas
+que no solo cualificasen el talento humano campesino, sino que también generase
+condiciones favorables para la modernización del campo colombiano y lograr mejoras en
+sus actividades productivas. El 24 de abril de 2010, el Ministerio de Educación Nacional,
+ejecuta el proceso de descentralización, que había sido autorizado por la Asamblea de
+Norte de Santander mediante Ordenanza 015 del 11 de agosto de 2009 y que convirtió al
+Instituto en un establecimiento de Educación Superior del orden departamental adscrito al
+departamento de Norte de Santander.
+El ISER es una Institución de Educación Superior, del orden departamental, establecimiento
+público, con personería jurídica, autonomía administrativa y patrimonio independiente,
+adscrito al Departamento Norte de Santander. El Instituto se encuentra ubicado en la Calle
+8 # 8 – 155, barrio Chapinero en la ciudad de Pamplona, Norte de Santander.
+La Institución está facultada legalmente para ofrecer programas de formación académica
+en disciplinas, profesiones y ocupaciones a nivel de pregrado y posgrado de naturaleza
+Técnica profesional y Tecnológica, descrita así:
+•
+
+Facultad de Ciencias Administrativas y Sociales
+✓
+✓
+✓
+✓
+✓
+✓
+
+•
+
+Tecnología en Gestión Empresarial (presencial) – Código SNIES 2063
+Tecnología en Gestión Empresarial (a distancia) – Código SNIES 106026
+Tecnología en Gestión Comunitaria – Pamplona – Código SNIES 104838
+Tecnología en Gestión Comunitaria – Cúcuta – Código SNIES 104838
+Tecnología en Gestión de Mercadeo – Código SNIES 105351
+Técnica Profesional en Seguridad y Salud en el Trabajo – Código SNIES 104374
+
+Facultad de Ingenierías e Informática
+✓
+✓
+✓
+✓
+
+Tecnología en Procesos Agroindustriales (presencial) – Código SNIES 104261
+Tecnología en Procesos Agroindustriales (a distancia) – Código SNIES 111135
+Tecnología en Gestión Industrial – Código SNIES 103716
+Tecnología en Gestión de Redes y Sistemas Teleinformáticos – Código SNIES
+10397
+
+1
+
+✓ Tecnología en Construcción de Obras Civiles – Código SNIES 116253
+✓ Tecnología en Producción Agropecuaria – Código SNIES 109587
+✓ Técnica profesional en procesos de seguridad y salud en el trabajo – Resolución
+Otro de los pilares fundamentales del Instituto es la Extensión a través de diferentes
+modalidades, entre ellas, la extensión académica mediante la cual el ISER ofrece
+programas y cursos de Educación continuada en diferentes áreas del conocimiento con el
+objetivo de abarcar las necesidades de la comunidad, así como la extensión social,
+extensión económica, graduados e internacionalización. En este sentido, durante los años
+2022 y 2023 la institución recibió resolución tanto de la Secretaría de Educación
+Departamental como de la Secretaría Municipal de Cúcuta para la oferta de programas de
+Educación para el Trabajo y el Desarrollo Humano – ETDH, de la siguiente manera:
+Secretaría de Educación Norte de Santander:
+•
+•
+•
+•
+•
+•
+•
+
+Técnico laboral por competencias Saneamiento Ambiental.
+Técnico laboral por competencias Auxiliar Administrativo y Nómina.
+Técnico laboral por competencias Trabajador Agropecuario.
+Técnico laboral por competencias Operador de Industrias Agroalimentarias.
+Técnico laboral por competencias Auxiliar en Desarrollo de Software.
+Técnico laboral por competencias en Informador Turístico.
+Técnico laboral por competencias Auxiliar de Obras Viales.
+
+Secretaría de Educación Municipal Cúcuta:
+•
+•
+•
+•
+•
+•
+•
+
+Técnico laboral por competencias Operador en Trabajador Agropecuario.
+Técnico laboral por competencias en Informador Turístico.
+Técnico laboral por competencias Auxiliar Administrativo y Nómina.
+Técnico laboral por competencias Saneamiento Ambiental.
+Técnico laboral por competencias Auxiliar de Obras Viales.
+Técnico laboral por competencias Operador de Industrias Agroalimentarias.
+Técnico laboral por competencias Auxiliar en Desarrollo de Software.
+
+En temas relacionados con la investigación, el ISER posee dos (2) grupos de investigación
+categorizados por MINCIENCIAS en B y C, a los cuales se encuentran adscritos estudiantes
+de manera activa. Desde el proceso misional del Investigación se han venido generando
+convocatorias internas para la presentación de proyectos, así como la participación en
+convocatorias externas, dentro de la cual se destaca el proyecto “Implementación
+laboratorio de calidad fisicoquímica de alimentos para el fortalecimiento competitivo y
+sostenible de las cadenas agroalimentarias del departamento de Norte de Santander”
+
+2
+
+identificado con código BPIN 2020000100343 y el cual fue financiado con recursos del
+Sistema General de Regalías.
+En el área de Bienestar Institucional, el ISER cuenta con diversas estrategias y programas
+de bienestar dirigidas a la comunidad institucional, entre los cuales se encuentran el apoyo
+académico (asesorías, estilos de aprendizaje, técnicas de estudio); seguro estudiantil;
+servicios de salud: consulta médica, asesoría psicológica, consulta odontológica (tele
+consulta; servicio de consejería); programa jóvenes en acción y renta joven; electivas de
+bienestar; selecciones deportivas; grupos culturales; seguimiento y acompañamiento
+estudiantil; servicio de residencias (en presencialidad); servicio de comedor estudiantil (en
+presencialidad); estímulos de educación y programas de bienestar sociolaboral. Se resalta,
+entre estos servicios, el de comedor estudiantil que tiene una capacidad para 140
+estudiantes, a los cuales se les subsidia hasta el 85% del valor de la alimentación, así como
+las residencias estudiantiles que tienen la posibilidad de albergar a 190 estudiantes, los
+cuales cuentan con servicio de lavandería y salas de estudio.
+Adicionalmente, toda la comunidad Iserista tiene acceso a la infraestructura física y
+tecnológica con los respectivos medios educativos del ISER para las diversas labores
+educativas, lúdicas y deportivas. Algunos de los espacios dispuestos para estas actividades
+son el centro de acondicionamiento físico, el centro deportivo, las canchas multifuncionales,
+las salas de estudio, la biblioteca y todas las zonas verdes dentro del campus.
+El Instituto cuenta con dos instalaciones para la realización de actividades de programas
+académicos en el campo, el primero es la granja La Rinconada, ubicada en la ciudad de
+Pamplona y la segunda es la hacienda La Caldera ubicada en el municipio de Mutiscua.
+Adicionalmente, actualmente se vienen desarrollando diferentes proyectos de investigación
+con enfoque rural por parte de estudiantes y docentes de la institución.
+
+2. PROYECTO EDUCATIVO INSTITUCIONAL – PEI
+El Instituto Superior de Educación Rural - ISER a través de los años ha venido
+consolidándose como la IES pública que le permite a los pobladores del mundo rural de las
+diferentes regiones del país acceder a la educación superior con pertinencia e impacto en
+los diferentes sectores sociales, culturales y productivos. Entendiendo como oferta las
+posibilidades para que las personas puedan tener diferentes ingresos a las trayectorias
+educativas presentes en los territorios. Es así, que los intereses en los procesos de
+regionalización y ruralización en los diferentes contextos de interés de la institución
+presenten características de movilidad, flexibilidad, permanencia y formación para toda la
+vida.
+
+3
+
+La comunidad académica Iserista desde la discusión de la Resignificación del Proyecto
+Educativo Institucional del año 2020 ha manifestado como apuesta el permitir que la
+población rural, los estudiantes, los graduados y el sector productivo articulen modelos
+pedagógicos y educativos con el sistema de educación superior, que conlleven a fortalecer
+las capacidades.
+Estas prospectivas han permitido que la Institución inicie el rediseño de una serie de
+políticas académicas, administrativas y de gestión pública, orientadas a ofertar programas
+académicos por ciclos propedéuticos, que le brinden al talento humano presentes en las
+ruralidades, generar procesos académicos, de extensión, investigación y bienestar;
+integrados con los sectores educativos, productivos y sociales en su contexto.
+La redefinición Institucional por ciclos propedéuticos permitirá fortalecer las trayectorias
+educativas y estructurar un nuevo camino para universalizar la educación como
+dinamizador del desarrollo humano y de los ecosistemas rurales.
+
+3. DIAGNÓSTICO INSTITUCIONAL
+Durante la vigencia 2023 la institución inicia una planificación de cambios a partir del Plan
+Nacional de Desarrollo 2022 – 2026 “Colombia Potencia Mundial de la Vida” y basado en
+las estrategias del Rector elegido para el periodo 2023 – 2027; dichos cambios
+comprendieron la ampliación de cobertura en educación superior conforme a la estrategia
+del Gobierno Nacional, lo que implicó la creación de 16 centros tutoriales aprobados
+mediante Acuerdo No. 002 de 2023, en lo que se denominó el proyecto de Regionalización,
+conforme al siguiente detalle:
+DEPARTAMENTO DE NORTE DE SANTANDER
+SUBREGIÓN
+Centro
+Norte
+Occidente
+Oriente – Metropolitana
+Suroriente
+Suroccidente
+
+MUNICIPIO
+Salazar de Las Palmas
+El Tarra
+Sardinata
+Tibú
+Ocaña
+Cúcuta
+Toledo
+Pamplona
+
+CATEGORÍA CONFORME
+AL DNP*
+Rural Disperso
+PDET - Rural Disperso
+PDET - Rural Disperso
+PDET – Intermedio
+Ciudad
+Ciudad Capital
+Rural Disperso
+Intermedio
+
+DEPARTAMENTO DE BOLÍVAR
+
+4
+
+SUBREGIÓN
+Magdalena Medio
+
+MUNICIPIO
+Santa Rosa del Sur
+San Pablo
+
+CATEGORÍA CONFORME
+AL DNP
+PDET
+Rural – PDET
+
+DEPARTAMENTO DE ARAUCA
+SUBREGIÓN
+
+MUNICIPIO
+Tame
+Saravena
+Arauca
+DEPARTAMENTO DE SANTANDER
+
+Sarare
+Sabana
+SUBREGIÓN
+
+MUNICIPIO
+
+García Rovira
+Málaga
+Vélez
+Vélez
+Yariguies
+San Vicente de Chucuri
+*Categoría según Censo poblacional 2018.
+
+CATEGORÍA CONFORME
+AL DNP
+PDET – Intermedio
+PDET – Intermedio
+Intermedio
+CATEGORÍA CONFORME
+AL DNP
+Rural
+Rural
+Intermedio
+
+Asimismo, la institución realizó el proceso de creación y modificación de registros
+calificados con el fin de lograr esa ampliación de cobertura en los centros tutoriales
+autorizados por el Consejo Directivo:
+
+5
+
+Posteriormente, durante la vigencia 2024 se han expedido dos (2) acuerdos más para la
+creación de los centros tutoriales, Acuerdo No. 002 del 20 de marzo y Acuerdo No. 018 del
+2 de octubre; asimismo, se solicitó la autorización para la obtención de registros calificados
+nuevos en los programas de Técnica Profesional el Procesos de Seguridad y Salud en el
+Trabajo, Tecnología en Deportes y Tecnología en Sistemas de Generación de Energías
+Renovables.
+Por otro lado, aprovechando las oportunidades del contexto externo, la institución logró la
+modificación del Estatuto General con el fin de redefinirse por ciclos propedéuticos, proceso
+que se encuentra en curso mediante la modificación de la normatividad, la actualización del
+PEI y del Plan de Desarrollo Institucional con el fin de presentar la solicitud al Ministerio de
+Educación Nacional.
+La institución ha analizado su contexto interno y externo mediante una herramienta
+denominada “Matriz de Contexto Interno y Externo”, en la cual se analizaron los siguientes
+factores:
+✓ A nivel interno: Estratégico, Tecnología, Talento Humano, Competitivo, Financiero,
+Comunicación Interna, Procesos, Seguridad de la Información, Ambiental y Energía.
+✓ A nivel externo: Económico y Financiero, Políticos/Legales, Socioculturales y
+Demográficos, Tecnológicos, Ambientales y Seguridad de la Información.
+A continuación, el resultado del análisis realizado:
+
+CONTEXTO
+
+INTERNO
+
+Pueden generar Riesgos
+
+Pueden generar Oportunidades
+
+D
+
+Debilidades
+
+F
+
+1
+
+Normatividad
+interna
+desactualizada
+respecto
+al
+contexto de la institución y que dé 1
+respuesta a las necesidades de
+sus grupos de valor e interés.
+
+Fortalezas
+Fortalecimiento
+de
+las
+alianzas
+estratégicas, las cuales son importantes
+para el desarrollo de procesos de
+formación y prácticas, fomentar el ciclo
+profesional de los estudiantes, el
+desarrollo de procesos de investigación,
+extensión, intercambio de profesores,
+internacionalización,
+bienestar,
+y
+fortalecimiento de las competencias de la
+comunidad académica en general.
+
+6
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+Actualmente se cuenta con misión,
+visión, objetivos institucionales
+definidos en el PEI y el Plan de
+Desarrollo
+Institucional,
+consultados
+a
+todos
+los
+estamentos institucionales. Sin
+embargo, la Alta Dirección ha
+definido
+la
+necesidad
+de
+implementación de los ciclos
+propedéuticos, concebidos como
+una forma para que los programas
+académicos se pueden organizar
+por niveles formativos y títulos,
+además de otros planes y
+proyectos
+estratégicos,
+que
+conllevan
+a
+la
+redefinición
+institucional.
+Estructura orgánica poco flexible y
+que
+no
+responde
+a
+las
+necesidades del entorno, así como
+una limitada planta de personal
+para responder a las apuestas
+institucionales.
+Baja inversión en proyectos I+D+i,
+principalmente debido a la falta de
+adjudicación de los recursos
+necesarios para su desarrollo.
+El Instituto cuenta con una
+infraestructura
+tecnológica
+pendiente de actualización que
+permita prestar los procesos
+institucionales
+de
+manera
+oportuna
+y
+pertinente,
+principalmente en materia de
+comunicación.
+El Instituto cuenta con sistemas de
+información y herramientas TIC
+que
+permiten
+mantener
+la
+integridad de la información sin
+embargo, aún existen debilidades
+en la definición de políticas y
+lineamientos TIC pertinentes.
+El nivel de rotación del personal en
+la institución es alto, esto debido
+principalmente a que alrededor del
+51% de las personas vinculadas
+son contratistas y su periodo de
+permanencia oscila entre los 1 y 3
+años.
+
+2
+
+3
+
+4
+
+Ampliación del portafolio de servicios
+institucional mediante la creación de
+nuevos programas académicos en
+pregrado y en ETDH así como la venta de
+servicios.
+
+Relacionamiento con organismos y/o
+entidades internacionales, a través de
+convenios o alianzas, que beneficien los
+procesos formativos, de investigación,
+bienestar, extensión y en general, de la
+comunidad académica en general.
+Capacidad Directiva que se da mediante
+la gestión de diferentes alianzas,
+proyectos y consecución de recursos
+para la institución.
+
+5
+
+Procesos
+misionales
+que
+buscan
+impactar la ruralidad, principalmente,
+generando una estrategia que nos
+conlleve al cambio de institución técnica y
+tecnológica hacia una redefinida por
+ciclos propedéuticos.
+
+6
+
+Proceso de planeación ajustado a las
+necesidades de la institución, mejorando
+la cultura de la planeación y ejecución de
+políticas,
+programas
+y
+proyectos
+institucionales, alineados con el Plan de
+Desarrollo Institucional.
+
+7
+
+Equipo de trabajo comprometido y con las
+competencias idóneas para el desarrollo
+y cumplimiento misional de la institución.
+
+7
+
+8
+
+9
+
+10
+
+A
+1
+
+EXTERNO
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Actualmente, el Instituto cuenta
+con un Plan Rectoral que busca
+fortalecer el sector rural, plan que
+requiere de inversiones que
+potencien la capacidad académico 8
+- administrativa, recursos que se
+deben buscar en las diferentes
+entidades
+de
+gobierno
+departamental y nacional.
+La institución no cuenta con
+herramientas tecnológicas que
+permitan una adecuada y oportuna
+9
+disponibilidad de la información
+por parte de los grupos de valor e
+interés.
+
+Desarrollo de proyectos estratégicos que
+den respuesta a las necesidades
+identificadas del mercado, fomentando la
+innovación del portafolio de servicios
+institucional.
+
+La institución realiza comunicación
+permanente con los grupos de valor e
+interés, la cual se da a través de los
+canales dispuestos por el Instituto tales
+como PQRSD, Rendición de Cuentas,
+entre otros espacios de comunicación.
+La institución cuenta con un Sistema de
+Poca
+disponibilidad
+de 10 Gestión de la Calidad certificado bajo la
+NTC ISO 9001:2015.
+infraestructura física, tecnológica y
+medios educativos para atender la
+Institución habilitada como Entidad
+demanda proyectada.
+11 Prestadora de Servicios de Extensión
+Agropecuaria.
+Amenazas
+O Oportunidades
+Los cambios constantes en la
+Los requisitos legales actuales permiten
+normatividad afectan el desarrollo
+regionalizar la educación rural, lo que se
+1
+de los procesos e impactan en el
+convierte en una oportunidad para
+crecimiento de la institución.
+ampliar la oferta educativa
+Conflictos
+armados
+en
+los
+La política de gratuidad en la educación
+territorios en donde pretende
+superior, así como la estrategia de
+llegar la institución con la 2 ampliación de cobertura del gobierno
+estrategia de ampliación de
+nacional, pueden contribuir a la
+cobertura.
+expansión de la institución.
+Fenómenos
+climáticos
+que
+Convocatorias por parte de diferentes
+pueden afectar el desarrollo de los
+entidades del Gobierno Nacional para
+procesos formativos provocando 3
+optar por financiación de proyectos de
+interrupciones en el calendario
+inversión.
+académico
+Acceso a los recursos del Sistema
+Incertidumbre económica que
+General de Regalías para la financiación
+puede afectar la permanencia de 4
+de proyectos de inversión con impacto
+los estudiantes en la institución
+social.
+Inclusión de estrategias en los planes de
+Alta competencia por parte de
+desarrollo territoriales para el acceso,
+instituciones públicas que prestan 5
+permanencia y graduación de los
+los mismos servicios
+estudiantes.
+La implementación de la estrategia de la
+Alta competencia por parte de
+Paz Total permitirá la cobertura de la
+instituciones públicas que prestan 6
+institución a territorios históricamente
+los mismos servicios
+afectados por la violencia.
+
+8
+
+7
+
+7
+
+Distribución inequitativa por parte 8
+del Ministerio de Educación
+Nacional para financiar las
+estrategias de ampliación de
+cobertura
+9
+
+Establecimiento de alianzas mediante
+convenios con instituciones públicas y
+privadas con el fin de desarrollar
+diferentes tipos de proyectos y
+estrategias
+Herramientas
+digitales
+como
+la
+inteligencia artificial y nuevos sistemas de
+información para mejorar la gestión de la
+información en la institución
+Políticas de inclusión y criterios
+diferenciales de admisión con el fin de
+impactar
+a
+grupos
+poblacionales
+priorizados
+
+De acuerdo con el diagnóstico realizado, a nivel interno se puede deducir que la institución
+durante la última vigencia ha venido fortaleciendo las alianzas estratégicas con diferentes
+entidades tanto públicas como privadas conforme al relacionamiento dado desde la alta
+dirección con el propósito de contribuir al desarrollo de la misión institucional; se observa
+también como fortaleza la ampliación de la oferta de servicios a partir de la creación de
+centros tutoriales así como programas académicos en la modalidad a distancia y programas
+de Educación para el Trabajo y el Desarrollo Humano – ETDH y la habilitación de la
+institución como EPSEA con el fin de prestar asistencia técnica, consultoría y asesoría en
+diferentes áreas. A partir de la modificación del Estatuto General en el mes de diciembre
+de 2023 como institución redefinida por ciclos propedéuticos se traza la base para actualizar
+los demás lineamientos normativos tales como Estatuto Profesoral, Reglamento
+Académico, Proyecto Educativo Institucional, Sistemas Misionales y por supuesto el Plan
+de Desarrollo Institucional con el fin de dar respuesta a las apuestas institucionales en el
+marco de la ampliación de cobertura.
+Durante las vigencias 2021 y 2022 la institución recibió condiciones de calidad institucional
+para los lugares de desarrollo Pamplona y Cúcuta por parte del Ministerio de Educación
+Nacional, esto indica que el ISER a partir de su Sistema de Gestión de la Calidad certificado
+bajo la NTC ISO 9001:2015 y del Sistema Interno de Aseguramiento de la Calidad está
+comprometido con la mejora continua de sus procesos respondiendo a las necesidades y
+expectativas de sus grupos de valor e interés, sin embargo, conforme al diagnóstico
+realizado es importante fortalecer los sistemas de información y de gestión documental con
+el fin de salvaguardar la gestión del conocimiento al interior de la institución así como la
+integridad, disponibilidad y confiabilidad de la información.
+A partir de la expedición del Plan Nacional de Desarrollo 2022 – 2026 “Colombia Potencia
+Mundial de la Vida”, se vio la oportunidad de ampliar la cobertura con el fin de contribuir a
+las metas que a nivel nacional se trazó el gobierno, sin embargo, la institución para ejecutar
+dicha estrategia requiere fortalecer la infraestructura física, tecnológica y los medios
+
+9
+
+educativos con el fin de garantizar la prestación del servicio en términos de oportunidad y
+calidad, esto se logrará de acuerdo con la distribución que se realice por parte del MEN
+para el fortalecimiento de la base presupuestal y aumento de los recursos para inversión;
+por otro lado, es imperativo el incremento de la planta de personal tanto profesoral como
+administrativa con el fin de dar respuesta a estas apuestas institucionales, ya que producto
+de los estudios realizados se ha evidenciado sobrecarga laboral.
+Finalmente, la institución de acuerdo con la misión y visión trazadas tiene como enfoque la
+ruralidad, es decir, el llegar a los territorios que históricamente han sido marginados y que
+requieren de trayectorias educativas completas con el fin de garantizar el acceso a
+educación superior de las poblaciones vulnerables, sin embargo, se enfrenta a situaciones
+que podrían constituirse como una amenaza potencial tales como el conflicto armado en
+regiones como el Catatumbo, Sur de Bolívar y Arauca, es por ello que, los avances que
+pueda tener el gobierno nacional frente a la política de paz total garantizarán de alguna
+manera la presencia de la institución en dichas regiones.
+3.1 RESULTADOS PLAN DE DESARROLLO 2021 – 2030 A 31/08/2024
+El Plan de Desarrollo Institucional 2021 – 2030 aprobado mediante acuerdo No. 019 del 12
+de julio de 2021 ha sido objeto de seguimiento por parte del proceso de Direccionamiento
+Estratégico y Planeación y evaluado al interior del Consejo Directivo de la institución. Con
+corte a 31 de agosto de 2024, el PDI 2021 – 2030 presentó el siguiente resultado
+acumulado:
+AÑO
+DISTRIBUCIONES % ANUAL
+PROYECTADO
+CUMPLIMIENTO META %
+ACUMULADO PROYECTADO
+CUMPLIMIENTO REAL ANUAL PDI
+CUMPLIMIENTO REAL FRENTE AL
+PESO ASIGNADA PARA CADA
+VIGENCIA
+CUMPLIMIENTO ACUMULADO
+TOTAL REAL
+
+2021
+
+2022
+
+2023
+
+2024 (agosto)
+
+5%
+
+11%
+
+11%
+
+11%
+
+5%
+
+16%
+
+27%
+
+38%
+
+83%
+
+70%
+
+73%
+
+40%
+
+4,17%
+
+7,70%
+
+8,03%
+
+4,37%
+
+4,17%
+
+11,9%
+
+19,9%
+
+24,3%
+
+Al cierre de 2023 la meta proyectada de cumplimiento del PDI acumulada era del 27% frente
+al 100% a cumplir a 2030, sin embargo, de acuerdo con los avances registrados y la
+medición realizada el cumplimiento real acumulado fue del 19,9%, es decir, un cumplimiento
+del 70% frente a lo planificado. Para el seguimiento parcial a corte de 31/08/2024 se
+10
+
+evidencia un avance para la vigencia del 40%, lo que aumenta el acumulado del PDI a un
+24.3%.
+A continuación, los resultados acumulados por eje estratégico:
+
+Histórico ejecución PDI
+(2021-2024)
+120%
+100%
+100%
+80%
+60%
+
+67%
+46%
+
+68% 68%
+
+50%
+
+40%
+
+100%
+
+92%
+85% 83%
+
+88%
+
+83%
+
+84%
+
+74%
+
+91%
+81%
+
+83%
+64%
+
+61%
+50%
+
+48%
+41%
+
+40%
+
+70%73%
+
+40%
+
+27%
+11%
+
+20%
+0%
+Eje 1 Formación Rural
+para el Desarrollo
+Humano
+
+Eje 2 Apostando por la
+Extensión
+
+Eje 3 Investigar en el
+Instituto
+
+Eje 4 Bienestar en la
+Comunidad Educativa
+
+2021 (segundo semestre)
+
+2022
+
+2023
+
+Eje 5 Gestión
+estratégica,
+administrativa y
+financiera
+
+Eje 6 Desarrollo de la
+infraestructura física,
+tecnológica y medios
+educativos
+
+TOTAL
+CUMPLIMIENTO POR
+AÑO
+
+2024 (agosto)
+
+Fuente: Direccionamiento Estratégico y Planeación
+
+3.1.1
+
+EJE 1 FORMACIÓN RURAL PARA EL DESARROLLO HUMANO
+
+Durante el periodo 2021 (segundo semestre) – 2024 (agosto), se logró avanzar en este eje
+en estrategias como la actualización curricular de los programas académicos, la
+autoevaluación de programas académicos, capacitaciones a profesores conforme al plan
+de formación y capacitación profesoral, la oferta de programas académicos en educación
+superior y ETDH, la ampliación de cobertura mediante la creación de centros tutoriales así
+como la oferta de programas en modalidad a distancia, el inicio de la ruta de acreditación
+con la presentación de las condiciones iniciales del programa de Tecnología en Gestión de
+Redes y Sistemas Teleinformáticos y el incremento de la cobertura en educación superior.
+3.1.2
+
+EJE 2 APOSTANDO POR LA EXTENSIÓN
+
+En este eje se han tenido resultados importantes respecto a lo planeado principalmente por
+acciones como los cursos de educación continuada; los proyectos solidarios ejecutados con
+la participación de estudiantes y profesores con el fin de impactar a las comunidades
+solucionando las problemáticas sociales; se consolidó la venta de servicios de consultoría
+
+11
+
+y asesoría a través de habilitación de la institución por parte de la Agencia de Desarrollo
+Rural como Entidad Prestador de Servicios de Extensión Agropecuaria – EPSEA; se logró
+la gestión de convenios para el desarrollo de prácticas profesionales así como para la
+cooperación con diferentes entidades; en materia de internacionalización se lograron
+movilidades entrantes y salientes, así como el contar con asistentes de idiomas en convenio
+con el ICETEX.
+3.1.3
+
+EJE 3 INVESTIGAR EN EL INSTITUTO
+
+En este eje se lograron avances en cuanto a la investigación formativa vinculando a los
+estudiantes a los diferentes semilleros de investigación; la categorización de dos (2) grupos
+de investigación clasificados en B y C por MINCIENCIAS y la participación en diferentes
+proyectos de investigación, así como la realización de eventos como el Congreso Nacional
+de Evaluación, Calidad y Acreditación en Educación Superior con la participación de
+diferentes instituciones e invitados nacionales e internacionales. Asimismo, se logró la
+participación de la institución como aliado en diferentes convocatorias realizas por
+MINCIENCIAS.
+3.1.4
+
+EJE 4 BIENESTAR EN LA COMUNIDAD EDUCATIVA
+
+Bajo este eje se lograron desarrollar actividades tendientes a garantizar la permanencia y
+graduación de los estudiantes mediante el fomento de la promoción y prevención en salud,
+deportes, cultura y recreación; se garantizó el servicio de residencias para los estudiantes
+caracterizados y provenientes de municipios diferentes a Pamplona, así como el
+otorgamiento de subsidio de alimentación a estudiantes en vulnerabilidad socioeconómica.
+Durante la época de pandemia, la institución asignó recursos para la adquisición de planes
+de datos para que los estudiantes que lo requerían pudieran desarrollar su proceso
+formativo con apoyo de las Tecnologías de la Información y Comunicación. Por otro lado,
+es importante destacar que el personal profesoral, administrativo y de apoyo a la gestión se
+benefició de las actividades desarrolladas en el marco del plan de bienestar social laboral,
+estímulos e incentivos.
+3.1.5
+
+EJE 5 GESTIÓN ESTRATÉGICA, ADMINISTRATIVA Y FINANCIERA
+
+En este eje se realizaron actividades tales como avances en la implementación del Modelo
+Integrado de Planeación y Gestión de acuerdo con los lineamientos del DAFP lo que llevó
+a la institución a obtener un índice de desempeño institucional del 67.9, adicionalmente se
+lograron fortalecer las estrategias de comunicación permitiendo tener más seguidores en
+las diferentes redes sociales así como la mejora en el índice de Transparencia y Acceso a
+12
+
+la Información. Por otro lado, se logró realizar el estudio de cargas laborales como insumo
+para la propuesta de rediseño institucional en el marco de la actualización normativa. En
+cuanto a los sistemas de gestión, se logró mantener la certificación del Sistema de Gestión
+de la Calidad bajo la NTC ISO 9001:2015.
+3.1.6
+
+EJE 6 DESARROLLO DE LA INFRAESTRUCTURA FÍSICA, TECNOLÓGICA Y
+MEDIOS EDUCATIVOS
+
+Este eje comprende las actividades de infraestructura física, infraestructura tecnológica y
+medios educativos con el fin de garantizar la prestación del servicio en términos de calidad.
+Se destacan los avances en la modernización de la infraestructura física mediante la
+instalación y puesta en marcha de quioscos con paneles solares; así como la instalación de
+una cubierta fotovoltaica en el bloque de residencias; la construcción del edificio de archivo;
+la adecuación de la sala de profesores, planta de procesos agroindustriales, carpintería,
+hangar y baterías sanitarias; adicionalmente, se logró la dotación de mobiliario para la sala
+de profesores y oficina de aseguramiento interno de la calidad; adecuación y dotación del
+laboratorio de calidad físico química con recursos del sistema general de regalías; en
+materia de medios educativos se logró la adquisición de simuladores, pantallas digitales,
+libros digitales, bases de datos, dotación del laboratorio de mercadeo, adquisición de
+equipos para el laboratorio de redes, compra de maquinaria agrícola para el programa de
+Tecnología en Producción Agropecuaria, y finalmente, en cuanto a la infraestructura
+tecnológica, se logró mejorar la cobertura y acceso a las redes de internet, así como la
+disponibilidad de diferentes plataformas tecnológicas.
+3.2 ARTICULACIÓN CON LAS POLÍTICAS PÚBLICAS Y LOS PLANES DE
+DESARROLLO
+3.2.1
+
+Plan Nacional de Desarrollo 2022 – 2026
+
+En el contexto nacional, el Plan Nacional de Desarrollo 2022 – 2026 “Colombia Potencia
+Mundial de la Vida” cuyo objetivo es “…sentar las bases para que el país se convierta en
+un líder de la protección de la vida a partir de la construcción de un nuevo contrato social
+que propicie la superación de injusticias y exclusiones históricas, la no repetición del
+conflicto, el cambio de nuestro relacionamiento con el ambiente y una transformación
+productiva sustentada en el conocimiento y en armonía con la naturaleza. Este proceso
+debe desembocar en la paz total, entendida como la búsqueda de una oportunidad para
+que todos podamos vivir una vida digna, basada en la justicia; es decir, en una cultura de
+la paz que reconoce el valor excelso de la vida en todas sus formas y que garantiza el
+cuidado de la casa común”. En este sentido el PND 2022 – 2026 plantea cinco (5) ejes de
+transformación: 1. Ordenamiento del territorio alrededor del agua, 2. Seguridad humana y
+justicia social, 3. Derecho humano a la alimentación, 4. Transformación productiva,
+internacionalización y acción climática, 5. Convergencia regional. Adicionalmente, también
+
+13
+
+se proponen cuatro (4) ejes transversales: 1. Paz total, 2. Los actores diferenciales para el
+cambio, 3. Estabilidad macroeconómica, 4. Política exterior con enfoque de género.
+
+Fuente: Plan Nacional de Desarrollo 2022 – 2026
+
+En cuanto al eje de transformación “Ordenamiento del territorio alrededor del agua”, se
+proponen 6 catalizadores, los cuales se presentan a continuación:
+
+Fuente: Plan Nacional de Desarrollo 2022 – 2026
+
+14
+
+En cuanto al catalizador de Justicia Ambiental y gobernanza inclusiva, se propone la
+implementación del Acuerdo de Escazú, entre otras cosas, mediante el desarrollo de un
+Programa Nacional de Educación Ambiental enfocada a las regiones priorizadas de mayor
+conflictividad y con enfoque diferencial. Por otro lado, en el catalizador Capacidades de los
+gobiernos locales y las comunidades para la toma de decisiones de ordenamiento y
+planificación territorial, se plantea el empoderamiento de los gobiernos locales y sus
+comunidades a través del uso de mediciones de desempeño de las entidades territoriales
+como criterio para la focalización de asistencia técnica y asignación de recursos financieros.
+En el eje de transformación “Seguridad humana y justicia social”, se priorizan tres (3)
+iniciativas a desarrollar en el cuatrienio; la primera está enfocada en los habilitadores que
+potencian la seguridad humana, la segunda en la superación de privaciones básicas y la
+tercera en la expansión de capacidades. Dentro de los habilitadores que potencian la
+seguridad humana, se encuentra la creación del Sistema Nacional de Igualdad y Equidad
+(SNIE), el cual tendrá como objetivo la formulación y ejecución de políticas para promover
+la eliminación de desigualdades económicas, políticas y sociales, impulsando el derecho a
+la igualdad, no discriminación y no regresividad. Por otra parte, en educación, “…se
+implementará un nuevo plan de infraestructura educativa que orientará los recursos y
+esfuerzos desde distintos actores para la reducción de rezagos de la infraestructura física
+y tecnológica en la educación preescolar, básica, media y superior, especialmente en zonas
+rurales y con un enfoque territorial”. Respecto al habilitador superación de privaciones
+básicas, se plantea la estrategia denominada Educación de calidad para reducir la
+desigualdad, “…a través de estrategias de acceso y permanencia. La educación de calidad
+estará centrada en la formación y desarrollo de la profesión docente, y en el fortalecimiento
+pedagógico, curricular y de ambientes de aprendizaje. La apuesta es por una educación
+humanista, incluyente, antirracista e intercultural”; a partir de esta estrategia la educación
+superior se concibe con un derecho económico, social y cultural para la realización humana
+y se prevé la gratuidad en la matrícula de educación superior así como el fomento al acceso
+con la creación de 500 mil nuevos cupos priorizando el ingreso a jóvenes de contextos
+vulnerables, municipios PDET y ruralidad dispersa, para ello, las IES contarán con la
+asignación de los recursos financieros adicionales a la base presupuestal los cuales serán
+asignados con criterios de cierre de brechas y llegada a los territorios. Finalmente, en
+cuanto al habilitador expansión de capacidades, las estrategias están enfocadas hacia el
+bienestar físico, mental y social de la población, la garantía del disfrute y ejercicio de los
+derechos culturales para la vida y la paz, el derecho al deporte, la recreación y la actividad
+física para la convivencia y la paz mediante la estructuración de un modelo pedagógico
+diferencial de acuerdo a las particularidades de los territorios, la educación, formación y
+reconversión laboral como respuesta al cambio climático consolidando el Sistema Nacional
+de Cualificaciones, asimismo, se consolidará el Sistema de Educación Superior Colombiano
+como un “…ecosistema de educación superior pública que tenga vínculos con el Sistema
+Nacional de Ciencia, Tecnología e Innovación, con miras a fomentar la formación y
+
+15
+
+vinculación de talento para atender las perspectivas y necesidades de investigación. Se
+partirá del fomento a la oferta en áreas estratégicas, generando una mayor interacción de
+la IES con los sectores productivo, social y cultural, promoviendo esquemas de formación
+como lo es la modalidad dual; el Marco Nacional de Cualificaciones se priorizará como un
+instrumento clave para la oferta de programas en la educación posmedia, en este sentido
+se contará con un modelo de educación posmedia que articule programas que puedan ser
+ofertados desde la media con los de la educación superior, la Educación para el Trabajo y
+el Desarrollo Humano (ETDH) y la de la formación para el trabajo”… Por otro lado, se
+realizará una Reconceptualización del sistema de aseguramiento de la calidad de la
+educación superior para mejorar la gestión en términos de otorgamiento de registros
+calificados, acreditación en alta calidad y convalidación de títulos. En cuanto a la
+democratización del conocimiento, se aprovechará la propiedad intelectual y el
+reconocimiento de los saberes tradicionales, mediante estrategias como apoyo a derechos
+de autor y conexos, apropiación social del conocimiento.
+Frente al eje de transformación Derecho humano a la alimentación, desde el PND se
+identificaron siete (7) catalizadores para el desarrollo de estrategias:
+
+Fuente: Plan Nacional de Desarrollo 2022 – 2026
+
+En cuanto a la transformación del sector agropecuario para producir más y mejores
+alimentos, se prevé el desarrollo de cadenas productivas agropecuarias y agroindustriales
+
+16
+
+adaptación y/o adopción de tecnologías para el desarrollo sostenible, que cuente con la
+participación de las comunidades, enfatizando en la transferencia de conocimiento, así
+como el fortalecimiento del SNIA y modelos productivos agropecuarios a partir de procesos
+de investigación y desarrollo.
+En el eje de Transformación productiva, internacionalización y acción climática se proponen
+los siguientes catalizadores:
+
+Fuente: Plan Nacional de Desarrollo 2022 – 2026
+
+Respecto a la transición energética el Gobierno Nacional impulsará la incorporación de
+nuevas fuentes de generación de energía eléctrica a partir de FNCER, ajustando e
+implementando las hojas de ruta del hidrógeno y de la energía eólica costa afuera.
+Adicionalmente, se priorizarán esfuerzos y recursos en investigación e innovación alrededor
+de misiones estratégicas en: (a) Bioeconomía, ecosistemas naturales y territorios
+sostenibles; (b) Derecho Humano a la Alimentación; (c) energía eficiente, sostenible y
+asequible; (d) autonomía sanitaria y bienestar social; y (e) paz y ciudadanía. Habrá un
+marco de inversión en investigación y desarrollo (I+D). Se impulsarán programas
+institucionales para el fortalecimiento de infraestructuras de investigación, desarrollo
+tecnológico e innovación y la dinamización de actores del Sistema Nacional de Ciencia,
+Tecnología e Innovación (SNCTI) con el propósito de aumentar la calidad e impacto del
+conocimiento en la sociedad. Se enfatizará en el desarrollo sostenible del turismo, Se
+aprovechará la vocación forestal de los suelos y el aprovechamiento sostenible de los
+bosques naturales.
+
+17
+
+Finalmente, en cuanto al eje de transformación Convergencia Regional, se proponen ocho
+(8) catalizadores:
+
+Fuente: Plan Nacional de Desarrollo 2022 – 2026
+
+Dentro de esta convergencia regional se pretende la transformación productiva de las
+regiones, se desarrollarán estrategias para la transformación y fortalecimiento de las
+cadenas productivas regionales, a partir de CTI e internacionalización. Adicionalmente, la
+lucha contra la corrupción en entidades públicas se realizará en articulación con la
+ciudadanía, se ejecutarán acciones para el seguimiento y evaluación de la contratación
+pública; por otra parte, se fortalecerán las entidades públicas territoriales y nacionales
+mejorando la eficiencia institucional y generando valor público mediante políticas como la
+planeación estratégica, asesoría y asistencia técnica territorial, innovación en la gestión
+pública, gestión del conocimiento, desarrollo de competencias de los servidores públicos,
+fortalecimiento del gobierno digital así como la participación democrática de la ciudadanía.
+Dentro del PND 2022 – 2026 se trazan también líneas de inversión estratégicas en cada
+uno de los departamentos del país, en así, como en el ámbito de educación superior,
+encontramos los siguientes proyectos, en algunas de las regiones en donde el ISER
+proyecta hacer presencia mediante la creación de centros tutoriales y programas en
+modalidad a distancia:
+
+18
+
+•
+•
+•
+•
+
+Arauca: Complejo educativo de educación superior pública en la región PDET Arauca;
+Universidad Rural de Tame.
+Bolívar: Complejo educativo del sur – norte del departamento de Bolívar; Construcción,
+dotación y operación de la Universidad del Sur de Bolívar.
+Cesar: Nueva sede, multicampus o complejo educativo de educación superior pública
+de La Jagua centro del Cesar.
+Norte de Santander: Universidad del Catatumbo.
+
+El Plan Nacional de Desarrollo 2022 – 2026 se convierte en una oportunidad para la
+institución ya que a través de los ejes de transformación se puede lograr una ampliación de
+cobertura en términos de oportunidad y calidad, priorizando a los jóvenes de contextos
+rurales, asimismo, a través de la oferta de los demás servicios misionales como extensión,
+investigación y bienestar se puede lograr una articulación con las diferentes entidades del
+orden territorial y nacional con el propósito de desarrollar proyectos que beneficien a
+diferentes grupos poblacionales. Por otra parte, la institución realizará un proceso de
+redefinición institucional por ciclos propedéuticos en el marco de la transformación del
+Sistema de Aseguramiento de la Calidad en la Educación Superior. De esta manera, la
+institución mediante los ejes estratégicos del PDI logrará articular sus esfuerzos con las
+estrategias que a nivel nacional se han trazado.
+3.2.2
+
+PLANES DE DESARROLLO DEPARTAMENTAL
+
+Con el propósito de realizar un análisis frente a las oportunidades de desarrollo de la
+institución, se han tomado como base los planes de desarrollo de los departamentos de
+Norte de Santander, Bolívar, Arauca, Santander, Cesar y Magdalena para el periodo 2024
+– 2027, esto enmarcado en la estrategia de regionalización y ampliación de cobertura
+iniciada en la vigencia 2023, encontrando los siguientes resultados:
+3.2.2.1
+
+Norte de Santander:
+
+Uno de los referentes más importantes para la planeación del Plan de Desarrollo
+Institucional es el Plan de Desarrollo Departamental de Norte de Santander 2024 – 2027
+denominado “Norte Territorio de Paz”, el cual está fundamentado en cuatro (4) líneas
+estratégicas: 1) Desarrollo económico, sostenible y competitivo, 2) Inclusión y protección
+social, 3) Seguridad y paz, 4) Buen gobierno y como soporte de estas líneas se tiene la
+estrategia de Construcción de paz.
+Dentro de las líneas estratégicas establecidas en el Plan de Desarrollo Departamental, es
+importante para el ISER la potencialización de acciones orientadas al desarrollo de sus
+procesos misionales como lo son la formación, la extensión, la investigación y el bienestar;
+
+19
+
+en este sentido, desde en la Línea Estratégica 1: desarrollo económico sostenible y
+competitividad, se plantea el desarrollo empresarial en articulación con las Instituciones de
+Educación Superior mediante alianzas productivas para la creación, fortalecimiento y
+crecimiento de las empresas del departamento. En esta línea estratégica se concentran los
+programas de Desarrollo Empresarial y Emprendimiento, Turismo, Frontera como
+oportunidad de desarrollo, Campo más productivo, Infraestructura para la Competitividad,
+TIC – CTeI, Minería, Electrificación, Gas, Hidrocarburos, Agua Potable y Saneamiento
+Básico; el ISER como Entidad Prestadora de Servicios de Extensión Agropecuaria –
+EPSEA, está facultado para realizar asistencia técnica a los productores y campesino así
+como servicios de consultoría en temas como turismo y emprendimiento. Por otro lado, es
+clave para el departamento el desarrollo turístico sostenible, estrategia bajo la cual la
+institución puede intervenir mediante la asesoría y consultoría en formulación de planes de
+desarrollo turístico, así como la creación un programa en el nivel TyT y en programas de
+ETDH, adicionalmente, la institución cuenta con un proyecto que puede contribuir a esta
+estrategia como lo es el Parque Temático Agropecuario La Rinconada y la Hacienda La
+Caldera Camilo Daza.
+Respecto a la Línea Estratégica 2 Inclusión y protección social, una de las apuestas del
+gobierno departamental está enfocada a la educación de calidad, incluyente y universal, a
+través de estrategias como la articulación con diferentes instituciones para que la formación
+técnica, tecnológica y universitaria llegue a las zonas rurales, dicha estrategia es
+fundamental para el ISER ya que a través del proyecto de regionalización y ampliación de
+la oferta educativa se priorizan municipios rurales y PDET del departamento, asimismo, el
+gobierno local se compromete a seguir avanzando en la política de gratuidad mediante el
+otorgamiento de becas de las cuales han sido beneficiarios estudiantes de la institución y
+se establecerán apoyos en transporte gratuito para estudiantes en educación superior,
+estrategia que beneficiará a estudiantes del entorno rural garantizando su permanencia.
+Desde el plan se prevé el fomento al deporte y la recreación mediante la promoción de
+encuentros deportivos de talla internacional, el apoyo a la formalización y funcionamiento
+de escuelas de formación deportiva con asistencia técnica, implementación deportiva y
+capacitación, así como el apoyo a deportistas, estrategias bajo las cuales la institución
+puede articularse a través del proceso misional de Bienestar Institucional en su dimensión
+deportiva y recreativa así como con la creación del programa Tecnología en Gestión
+Deportiva. En cuanto a la cultura se establece un compromiso por fomentar la protección
+y divulgación de expresiones de cultura de paz a través del apoyo a proyectos de
+investigación, creación, formación y producción de productos y/o proyectos artísticos y/o
+culturales. Respecto a la protección integral de los nortesantandereanos, desde el gobierno
+departamental se proponen estrategias para el desarrollo integral de los jóvenes en
+acciones como la promoción de la salud sexual y reproductiva, la salud mental y la
+prevención en el consumos del tabaco y sustancias psicoactivas, el apoyo mediante el
+otorgamiento de capital semilla para emprendimientos en territorios de difícil acceso y la
+
+20
+
+gestión de homologación de programas técnicos y tecnológicos de jóvenes que trabajan en
+el departamento graduados en Venezuela, sin duda, la institución tiene un compromiso por
+garantizar un bienestar integral de sus estudiantes, garantizando el acceso, permanencia y
+graduación en términos de igualdad, inclusión, diversidad étnica y cultural, equidad de
+género y vinculando a los diferentes grupos poblacionales. Sin duda alguna, una de las
+apuestas de mayor importancia para la institución tiene que ver con el impulso en la
+construcción de la Universidad de Catatumbo, teniendo en cuenta que se vienen
+implementando estrategias para la ampliación de la cobertura en municipios de la subregión
+del Catatumbo tales como El Tarra, Tibú, Sardinata y Ocaña.
+En la Línea Estratégica 3 Seguridad y paz, se proponen estrategias como la seguridad
+ambiental a través de la conservación, preservación y recuperación de áreas ambientales
+estratégicas, así como la seguridad del agua mediante la gestión de una nueva delimitación
+de páramos desde el territorio junto con la implementación de alternativas de producción
+para las comunidades afectadas por la delimitación del páramo y la capacitación y
+formación a los habitantes del páramo frente al cuidado de los mismos; bajo estas
+estrategias la institución a través de la EPSEA y sus programas académicos puede generar
+proyectos de asistencia técnica y capacitación con el fin de reducir los impactos ambientales
+en el departamento y generar una mayor productividad en la economía campesina.
+Respecto a la Línea Estratégica 4 Buen Gobierno, el gobierno departamental centra sus
+esfuerzos en la implementación del Modelo Integrado de Planeación y Gestión – MIPG a
+través de sus siete (7) dimensiones y políticas de gestión institucional; en este sentido, el
+ISER como entidad territorial adscrita al Departamento Norte de Santander avanzará en la
+consolidación de este modelo representado mediante los resultados del índice de
+desempeño institucional que anualmente se evalúa a través del FURAG. El plan de
+desarrollo contempla entre otros programas, el fortalecimiento de los entes territoriales y la
+formulación y seguimientos de proyectos de inversión, iniciativas de las cuales la institución
+puede beneficiarse de manera directa.
+3.2.2.2
+
+Bolívar:
+
+En el Plan de Desarrollo del departamento de Bolívar para el periodo 2024 – 2027
+denominado “Bolívar me enamora”, se establecen cinco (5) líneas estratégicas y una línea
+transversal bajo las cuales el gobierno departamental desarrollará su accionar:
+1. Bolívar me enamora con crecimiento económico y oportunidades de empleo para
+todos.
+2. Bolívar me enamora con justicia social, cierre de brechas y calidad de vida para
+todos.
+
+21
+
+3. Bolívar me enamora verde y sostenible, transición energética y gestión ambiental
+de excelencia.
+4. Bolívar me enamora con seguridad y convivencia ciudadana.
+5. Bolívar me enamora con institucionalidad fuerte, transparencia como base de una
+buena gestión.
+6. Bolívar me enamora con paz, atención a víctimas y reconciliación (línea transversal).
+Dentro de los principios del plan de desarrollo departamental “Bolívar me enamora 20242027” y en relación con el plan de desarrollo institucional es importante resaltar la
+importancia y propósito de la transformación de la vida de las personas y el crecimiento
+económico y de empleo para el progreso y oportunidades de la comunidad así como la
+igualdad y equidad de género en la ampliación de cobertura de la educación rural en los
+diferentes programas a ofertar desde lo técnico, tecnológico y profesional, además, se
+deben tener en cuenta las actividades de fortalecimiento de áreas como la ciencia,
+innovación y tecnología, que pueden ser abordadas por el instituto a través de la formación,
+extensión, investigación y bienestar.
+Por otro lado, es necesario tener en cuenta aspectos relacionados con el turismo y cómo
+desde el componente rural se pueden generar aportes desde los programas académicos,
+educación continuada y educación para el trabajo y el desarrollo humano EDTH del instituto.
+Teniendo como primer eje en el plan de desarrollo departamental el crecimiento económico
+y oportunidad de empleo para todos, el instituto puede articularse con estas estrategias a
+través de una educación pertinente conforme a las necesidades de los sectores económicos
+y sociales para apalancar el desarrollo humano y social mediante procesos de investigación
+y extensión.
+Por otra parte, es muy importante su el eje de transición energética, para un departamento
+líder en uso de energías renovables; desde la academia como institución aportaremos
+formación y educación en un programa relacionado con generación en energías renovables
+que permita fortalecer los conocimientos y habilidades de las comunidades en el territorio.
+Trabajaremos de la mano en el Turismo y la Cultura, como un apoyo a la diversidad y al
+diálogo intercultural, siendo incluyentes y exaltando las culturas propias de la región, con el
+fin de preservar la tradición y apoyar diferentes poblaciones que haga parte de la comunidad
+o que se beneficie de las acciones del instituto, haciendo énfasis que turismo es uno de los
+sectores de mayor potencial para jalonar el desarrollo socioeconómico y social del
+departamento, por lo que, generar diseños curriculares sobre este aspecto sería pertinente
+para la región.
+
+22
+
+En el aspecto de salud, se deben contemplar temas como la generación de programas de
+estilos de vida saludable, el deporte y la recreación, la gestión social o comunitaria incluidos
+dentro de la ejecución completa del Sistema de Seguridad e higiene industrial.
+Otro aspecto importante que articulamos con el Plan de Desarrollo de Bolívar es la
+Educación por ciclos propedéuticos, en acompañamiento de las personas en su formación
+flexible, y complementaria, con ello también ofertaremos Educación para el Trabajo y
+Desarrollo Humano ETDH que complementa, actualiza y forma en aspectos académicos o
+laborales y conduce a la obtención de certificados de aptitud ocupacional.
+3.2.2.3
+
+Arauca:
+
+El Plan Participativo de Desarrollo Departamental de Arauca 2024 – 2027, se convierte en
+una oportunidad para que la institución pueda desarrollar la ampliación de cobertura en este
+territorio entendiendo que se ha venido avanzando en la elaboración de estudios de
+pertinencia para la oferta de programas de educación superior y ETDH; en este sentido el
+departamento centra sus esfuerzos en los pilares de desarrollo productivo, competitivo y
+sostenible, la igualdad de oportunidades para Arauca y el buen gobierno.
+Como parte del pilar desarrollo productivo, competitivo y sostenible se han trazado
+estrategias relacionadas con el desarrollo productivo, competitivo y sostenible, la
+generación de empleo y formación para el trabajo, la industria, comercio y turismo, las
+tecnologías de la información y la comunicación y ciencia tecnología e innovación y los
+recursos naturales, sostenibilidad ambiental, ecosistemas estratégicos y gestión del riesgo.
+Partiendo de estas iniciativas y de acuerdo con las metas previstas para el cuatrienio el
+instituto como Entidad Prestadora de Servicios de Extensión Agropecuaria, puede generar
+servicios para fortalecer las capacidades de los productores agrícolas en temas como BPA,
+BPG, BPM y a través de la oferta de educación continuada puede generar los conocimientos
+prácticos para el desarrollo de unidades productivas y emprendimientos de la región.
+Por otro lado, la generación de empleo y formación para el trabajo pueden articularse con
+la formación en ETDH, así como con educación continuada logrando aportar a las metas
+específicas de personas formadas en educación informal. En cuanto a la industria, comercio
+y turismo, el departamento de Arauca tiene como necesidad el fortalecimiento empresarial,
+buenas prácticas ambientales, estratégicas de mercado, entre otros con el propósito de
+consolidar a la región en un atractivo turístico y de esta manera reactivar la economía local;
+bajo esta necesidad el instituto podría centrar su oferta servicios de consultoría para la
+formulación de planes de desarrollo turísticos y asimismo, podría pensarse en desarrollar
+una oferta pertinente en educación superior. En el ámbito de la CTeI, el departamento
+propende por el fomento del desarrollo de aplicaciones, software y contenidos para impulsar
+la apropiación de las Tecnologías de la Información y las Comunicaciones (TIC), estrategia
+que la institución podría suplir a partir de la formación en programas TyT como Tecnología
+en Gestión de Redes y Sistemas Teleinformáticos. Finalmente, en el eje de recursos
+naturales, sostenibilidad ambiental, ecosistemas estratégicos y gestión del riesgo busca
+
+23
+
+entre otras cosas promover la generación de información técnica orientada a la protección
+ambiental, bienestar y protección animal, que de acuerdo con la oferta institucional actual
+el programa de Tecnología en Protección y Recuperación de Ecosistemas Forestales se
+convierte en una oportunidad para que los jóvenes de la región se formen con miras a
+resolver las problemáticas del territorio.
+Finalmente, respecto al pilar Igualdad de oportunidades para todos, el gobierno
+departamental busca cerrar las brechas educativas tanto en términos de aumentar la oferta
+de programas académicos pertinentes en educación acordes con las necesidades de la
+región, como de implementar estrategias que incentiven el acceso y la permanencia de los
+estudiantes en la educación superior con el fin de cerrar las brechas de desigualdad y
+mejorar los indicadores de competitividad, en este sentido, la institución mediante la
+suscripción de convenios podrá generar nuevos cupos en educación superior con
+programas pertinentes y de calidad.
+3.2.2.4
+
+Santander:
+
+En el Plan de Desarrollo 2024 - 2027 denominado “Es tiempo de Santander”, se consignan
+los fines, visión, apuestas y ejes estratégicos, que el Instituto Superior de Educación Rural
+- ISER debe tener en cuenta dentro de sus acciones de fortalecimiento, alineando el Plan
+de Desarrollo Institucional con estos objetivos departamentales, que permita realizar
+aportes pertinentes y oportunos en cumplimiento de las metas, planes y proyectos
+propuestos.
+El Plan de Desarrollo 2024 – 2027 “Es tiempo de Santander” contempla las estrategias y
+orientaciones generales en materia de políticas públicas, señalando metas y prioridades en
+la acción gubernamental. En articulación con el Plan Nacional de Desarrollo y los Objetivos
+de Desarrollo Sostenible, plantea metas específicas en la acción estratégica de Educación,
+identifica la necesidad de desarrollar estrategias orientadas a la ampliación del acceso a la
+educación técnica, tecnológica y profesional, incluyendo poblaciones vulnerables y/o
+diversas con enfoque diferencial y cultural, además de la formalización de convenios para
+la articulación de la educación superior en las Instituciones Educativas.
+En este sentido, las iniciativas contempladas en el Plan de Desarrollo buscan brindar
+oportunidades para todas las personas, desde la educación, la salud, la cultura y el deporte,
+la inclusión, el desarrollo agropecuario, la ciencia, tecnología, innovación y el desarrollo
+empresarial.
+Una de las apuestas prioritarias en la construcción progresista de la comunidad
+santandereana es la equidad, campo donde justamente el Instituto Superior de Educación
+Rural – ISER puede contribuir con el fortalecimiento de programas sectoriales de
+especialización y soﬁsticación de los productos agrícolas sembrados en minifundios
+alrededor del departamento, acciones que permitan, entre otros, diseñar programas de
+
+24
+
+empleabilidad y empresarismo que contribuyan con el desarrollo económico y empresarial
+de la región.
+Dentro de los lineamientos del Plan de Desarrollo de Santander, es prioritario para el
+Instituto Superior de Educación Rural - ISER contribuir al cumplimiento de las acciones
+estratégicas relacionadas con el sector de la Educación, las cuales conlleven al
+fortalecimiento del acceso y permanencia de adolescentes y jóvenes a la educación técnica
+y universitaria a través de la ejecución de programas académicos innovadores que permitan
+fortalecer la calidad y cobertura educativa de los estudiantes del sector rural mediante el
+desarrollo de un sistema de formación agrícola y agroindustrial, que se ajuste a las
+necesidades de las provincias del departamento e incentive la tecniﬁcación del
+conocimiento requerido para atender las diversas vocaciones productivas de cada
+municipio. Asimismo, el Plan de Desarrollo contempla la necesidad de incentivar el
+desarrollo de programas de innovación educativa con enfoque científico en educación
+técnica, tecnológica y profesional, los cuales contribuirán a la generación de nuevas
+soluciones que beneficien y fortalezcan las relaciones con los diversos sectores
+productivos.
+En esta acción estratégica “Es tiempo de la Educación”, el Instituto Superior de Educación
+Rural – ISER puede contribuir con el adelanto de estrategias que permitan incentivar el
+desarrollo de programas de innovación educativa con enfoque científico en educación de la
+media vocacional, técnica, tecnológica y profesional, a través de programas académicos
+pertinentes para cada región del departamento, que permitan incrementar los índices de
+productividad de los sectores agropecuarios, especialmente, así como la formación y
+entrenamiento para adultos mayores santandereanos a través de programas de educación
+continuada y/o ETDH que incrementen sus capacidades y buenas prácticas en los sectores
+beneficiados.
+Igualmente, el Instituto Superior de Educación Rural – ISER, alineado con la acción
+estratégica de “Infraestructura educativa mejorada”, puede ofertar servicios de educación y
+formación, en sus diferentes niveles, que permitan desarrollar los proyectos relacionados
+con la inmersión tecnológica en bilingüismo y educación virtual para el trabajo.
+En esta misma acción estratégica “Es tiempo de la Educación”, es prioritario gestionar las
+alianzas y/o convenios necesarios y suficientes con la Secretaría de Educación
+Departamental y las Instituciones Educativas que permita fortalecer la educación media
+técnica, para que los estudiantes puedan transitar hacia la educación superior en ambientes
+de aprendizaje adecuados e innovadores.
+Dentro del alcance de la acción estratégica denominada “Es tiempo del Deporte y la
+Recreación”, el Instituto Superior de Educación Rural – ISER puede contribuir con el
+fortalecimiento de los programas de intervención en deporte y recreación en los diversos
+municipios del departamento, a través de la ejecución de la oferta académica definida en
+
+25
+
+pro de fomentar el deporte y la recreación como estrategias que contribuyan a la generación
+de estilos de vida saludables y el patrocinio y fomento de la práctica deportiva en sus
+diferentes disciplinas y niveles.
+Con la ejecución de programas académicos relacionados con la gestión y construcción de
+obras civiles el Instituto Superior de Educación Rural – ISER puede contribuir con el diseño
+y formulación de proyectos que permitan gestionar los recursos necesarios para crear un
+modelo sostenible de diseño, pavimentación y recuperación de las vías terciarias, las cuales
+faciliten el tránsito de personas y mercancías en todos los municipios del departamento,
+estrategias que pueden dar cumplimiento a la acción estratégica “Es Tiempo de la Vivienda,
+la Ciudad y el Territorio”.
+Con relación a la acción estratégica de “Es Tiempo del Comercio, la Industria y el Turismo”,
+dentro de la estrategia gestionar el desarrollo de una sociedad mixta (público-privada) para
+fortalecer los circuitos turísticos, generando infraestructura a partir de los atractivos
+turísticos naturales y artificiales de nuestro departamento, el Instituto Superior de Educación
+Rural – ISER puede ofertar programas académicos que permitan fortalecer la práctica del
+ecoturismo que, además de contribuir al cuidado y protección de los ecosistemas, permita
+desarrollar conocimientos hacia una sostenibilidad de los recursos naturales y la alta
+biodiversidad con la que cuenta la región.
+El Plan de Desarrollo 2024 -2027 busca, dentro de la acción estratégica “Es Tiempo de la
+Agricultura y el Desarrollo Rural”, gestionar los recursos y alianzas interinstitucionales
+necesarias para apoyar los procesos de renovación de cultivos, compras justas de insumos
+y aumento de la productividad en productos críticos como el café, cacao, caña panelera,
+cítricos, palma, piña, caucho, yuca y maíz tradicional, entre otros cultivos permanentes y
+transitorios del departamento, para los cuales el Instituto Superior de Educación Rural –
+ISER cuenta con una oferta académica suficiente y alineada con la gestión y producción
+agrícola, así como con programas académicos relacionados con el campo de la
+agroindustria, los cuales permitirán el desarrollo de procesos agrícolas alineados con los
+avances tecnológicos que beneficien al agro, las buenas prácticas agrícolas que potencien
+y protejan la salud de nuestra población campesina y la sostenibilidad y cuidado del medio
+ambiente y el desarrollo de procesos de producción, industrialización y comercialización de
+productos agrícolas propios del departamento, los cuales incrementen los índices
+económicos de este sector.
+En esta misma acción estratégica, es primordial que el Instituto Superior de Educación
+Rural – ISER pueda aportar en el desarrollo de programas de educación para el trabajo
+donde cuenta con una amplia oferta académica relacionada, primordialmente, con el sector
+agropecuario, agroindustrial y seguridad y salud en el trabajo.
+Igualmente, desde el Instituto Superior de Educación Rural – ISER como Entidad
+Prestadora del Servicio de Extensión Agropecuaria – EPSEA, se pueden articular esfuerzos
+
+26
+
+para la prestación del servicio de extensión agropecuaria, con el objetivo de gestionar el
+desarrollo de capacidades de los productores agropecuarios del departamento, así como
+su acceso al conocimiento y a nuevas tecnologías que contribuyan a la sostenibilidad de su
+producción y a la mejora de la calidad de vida de la comunidad santandereana.
+Con relación a la acción estratégica “Es Tiempo del Ambiente y el Desarrollo Sostenible”,
+el Instituto Superior de Educación Rural – ISER con la oferta de servicios académicos, de
+extensión e investigación puede contribuir al desarrollo de procesos de gestión ambiental
+urbana en los municipios y provincias que representan el mayor riesgo en salud humana y
+vulnerabilidad del ecosistema natural en el departamento.
+3.2.2.5
+
+Cesar:
+
+El Plan de Desarrollo Departamental “Gobernando el Cesar imparable” para el periodo 2024
+– 2027 apuesta a la producción de bienes y servicios que requieren los pobladores del
+departamento con el propósito de mejorar su calidad de vida a partir del cierre de brechas
+sociales y económicas, la diversificación del sistema productivo del departamento, la
+convivencia en un territorio mejor ocupado, seguro y sostenible; en este sentido se han
+trazado cuatro (4) pilares: Cesar moderno, eficiente y transparente; Cesar innovador
+cumpliendo sueños; Cesar humano, tejido con bienestar social y Cesar seguro y confiable.
+A partir del análisis del territorio y teniendo en cuenta que el departamento del Cesar está
+priorizado por la institución para la ampliación de cobertura, se pueden generar
+oportunidades desde pilar Cesar innovado cumpliendo sueños, específicamente en lo
+relacionado con el ecosistema empresarial, mediante la capacitación y formación de
+emprendedores, así como la prestación de servicios de consultoría que permitan desarrollar
+capacidades técnicas en los sectores agropecuarios y agroindustriales así como la
+generación de proyectos de investigación y extensión pertinentes con el entorno. El
+departamento también centra sus esfuerzos en la transición energética mediante la
+construcción de proyectos de autogeneración y consumo de energía eléctrica a partir de
+fuentes no convencionales de energías renovables, situación que puede ser aprovechada
+por la institución para desarrollar la oferta de programas relacionado con dicha temática,
+entendiendo que en dicho departamento es necesaria la mano de obra calificada en este
+sector por la creciente instalación de parques solares. Otra estrategia prevista es el
+desarrollo del turismo sostenible, iniciativa que brinda oportunidades para la institución para
+desarrollar programas académicos y de ETDH en esta área así como prestar asistencia
+técnica en la formulación de planes de desarrollo turístico a través de la EPSEA. En cuanto
+al tema ambiental y la acción climática, mediante programas como la Tecnología en
+Procesos de Recuperación de Ecosistemas Forestales se pueden generar proyectos de
+investigación y extensión con el propósito de responder a las necesidades del entorno.
+En cuanto al pilar Cesar humano, tejido con bienestar social contempla la educación de
+calidad así como la permanencia, la excelencia y la inclusión de diferentes comunidades a
+
+27
+
+este derecho mediante estrategias como apoyos financieros para la permanencia en
+educación superior, en este sentido, la institución puede ofertar diferentes programas
+académicos tanto en educación superior como en ETDH con el propósito de mejorar los
+indicadores previstos en el plan de desarrollo departamental, los cuales están enfocado
+hacia el tránsito inmediato a la educación superior.
+3.2.2.6
+
+Magdalena:
+
+El Plan de Desarrollo 2024 – 2027 “12+1 Ruta del cambio para superar la pobreza”
+contempla las estrategias y orientaciones generales en materia de políticas públicas,
+señalando metas y prioridades en la acción gubernamental. En articulación con el Plan
+Nacional de Desarrollo y los Objetivos de Desarrollo Sostenible, plantea metas específicas
+en la acción estratégica de Educación, identifica la necesidad de desarrollar estrategias
+orientadas a la ampliación del acceso a la educación técnica, tecnológica y superior,
+incluyendo poblaciones vulnerables y/o diversas con enfoque diferencial y cultural, además
+de la formalización de convenios para la incorporación de la educación superior en las
+Instituciones Educativas.
+En este sentido, las iniciativas contempladas en el Plan de Desarrollo buscan brindar
+oportunidades para todas las personas, desde el fortalecimiento de la educación y la
+promoción de la salud, hasta la preservación de la cultura y el fomento del deporte.
+Una de las acciones prioritarias en la construcción progresista de la comunidad
+magdalenense es la equidad, campo donde justamente el Instituto Superior de Educación
+Rural – ISER puede contribuir con el desarrollo de programas de formación de
+especialización y soﬁsticación de los productos agrícolas sembrados alrededor del
+departamento, acciones que permitan, entre otros, realizar el acompañamiento técnico de
+transición hacia una agricultura sostenible que respete la biodiversidad y los ciclos
+naturales, la promoción prácticas agrícolas responsables que eviten el uso excesivo de
+pesticidas y fertilizantes químicos, lo que incentive la siembra de cultivos nativos y la
+diversificación de las cosechas, estrategia que permite dar cumplimiento a la acción
+denominada Fomento de la Agricultura Sostenible.
+Igualmente, dentro de la acción estratégica Plan Departamental de Extensión Agropecuaria
+– PDEA, el Instituto Superior de Educación Rural – ISER puede ofertar programas de
+formación técnica, tecnológica, profesional, educación continuada y programas de
+Educación para el Trabajo y el Desarrollo Humano que apoye la extensión rural continua a
+campesinos, pequeños y medianos agricultores y ganaderos en temas de producción
+agrícola y pecuaria, sanidad de cultivos y cuidado animal, principalmente.
+Dentro de los lineamientos del Plan de Desarrollo de Magdalena, es prioritario para el
+Instituto Superior de Educación Rural - ISER contribuir al cumplimiento de las acciones
+estratégicas relacionadas con el ítem de la Educación, las cuales conlleven a asegurar una
+28
+
+educación inclusiva, equitativa y de calidad a través de la ejecución de programas
+académicos innovadores que permitan fortalecer estos aspectos educativos de los
+estudiantes, del sector rural principalmente, mediante el desarrollo de un sistema de
+formación que aporte al programa "Magdalena sin Analfabetismo", que se ajuste a las
+necesidades de las provincias del departamento e incentive la tecniﬁcación del
+conocimiento requerido para atender las diversas vocaciones productivas de cada
+municipio. Asimismo, el Plan de Desarrollo contempla la necesidad de incentivar el
+desarrollo de programas de innovación educativa con enfoque científico en educación
+técnica, tecnológica y profesional, los cuales contribuirán a la generación de nuevas
+soluciones que beneficien y fortalezcan las relaciones con los diversos sectores
+productivos.
+En esta acción estratégica de la Educación, el Instituto Superior de Educación Rural – ISER
+puede contribuir con el adelanto de estrategias que permitan incentivar el desarrollo de
+programas de innovación educativa con enfoque científico en educación de la media
+vocacional, técnica, tecnológica y profesional, a través de programas académicos
+pertinentes para cada región del departamento, que permitan incrementar los índices de
+productividad de los sectores agropecuarios, especialmente, así como la formación y
+entrenamiento para adultos mayores santanderinos a través de programas de educación
+continuada y/o ETDH que incrementen sus capacidades y buenas prácticas en los sectores
+beneficiados.
+Igualmente, el Instituto Superior de Educación Rural – ISER, alineado con la acción
+estratégica de Educación Ambiental, puede ofertar servicios de educación continuada y
+ETDH, principalmente, que permita alcanzar la cobertura de educación ambiental en
+escuelas y comunidades para concienciar sobre la importancia de la conservación del
+medio ambiente y la protección de los recursos naturales, lo cual permita formar ciudadanos
+comprometidos con la sostenibilidad y el respeto a la naturaleza.
+En esta misma acción estratégica de la Educación, es prioritario gestionar las alianzas y/o
+convenios necesarios y suficientes con la Secretaría de Educación Departamental y las
+Instituciones Educativas que permita fortalecer la educación media técnica, para que los
+estudiantes puedan transitar hacia la educación superior en ambientes de aprendizaje
+adecuados e innovadores.
+Dentro del alcance de la acción estratégica denominada Deporte como Factor de Mejora
+en la Calidad de Vida y Generador de Oportunidades, el Instituto Superior de Educación
+Rural – ISER puede contribuir con el fortalecimiento de los programas de intervención en
+deporte y recreación en los diversos municipios del departamento, a través de la ejecución
+de la oferta académica definida en pro de fomentar el deporte y la recreación como
+estrategias que contribuyan a la generación de estilos de vida saludables y el patrocinio y
+fomento de la práctica deportiva en sus diferentes disciplinas y niveles.
+
+29
+
+Con la ejecución de programas académicos relacionados con la gestión y construcción de
+obras civiles el Instituto Superior de Educación Rural – ISER puede contribuir con el diseño
+y formulación de proyectos que permitan gestionar los recursos necesarios para crear un
+modelo sostenible de diseño , pavimentación y recuperación de las vías terciarias, las
+cuales faciliten el tránsito de personas y mercancías en todos los municipios del
+departamento, estrategias que pueden dar cumplimiento a la acción estratégica de
+Infraestructura y Conectividad.
+Con relación a la acción estratégica de Fomento del Turismo Sostenible, el Instituto
+Superior de Educación Rural – ISER puede ofertar programas académicos que permitan
+fortalecer la práctica del ecoturismo que, además de contribuir al cuidado y protección de
+los ecosistemas, permita desarrollar conocimientos hacia una sostenibilidad de los recursos
+naturales y la alta biodiversidad con la que cuenta la región.
+El Plan de Desarrollo plantea una acción estratégica denominada Desarrollo de
+Comunidades Locales, para la cual el Instituto Superior de Educación Rural – ISER puede
+ofertar programas de formación alineados con la gestión comunitaria, desde donde se
+pueden formular proyectos que permitan beneficien directamente a las comunidades
+locales, generando empleo y oportunidades económicas para sus habitantes y, que
+articulada con la estrategia de Fomento del Turismo Sostenible permita participar,
+igualmente, en el desarrollo turístico del departamento.
+El Plan de Desarrollo 2024 -2027 busca, dentro del eje estratégico de desarrollo económico
+sustentable para la inclusión y la convergencia en el Magdalena, el Instituto Superior de
+Educación Rural – ISER cuenta con una oferta académica suficiente y alineada con la
+gestión y producción agrícola, así como con programas académicos relacionados con el
+campo de la agroindustria, los cuales permitirán el desarrollo de procesos agrícolas
+alineados con los avances tecnológicos que beneficien al agro, las buenas prácticas
+agrícolas que potencien y protejan la salud de nuestra población campesina y la
+sostenibilidad y cuidado del medio ambiente y el desarrollo de procesos de producción,
+industrialización y comercialización de productos agrícolas propios del departamento, los
+cuales incrementen los índices económicos de este sector.
+En esta misma acción estratégica, es primordial que el Instituto Superior de Educación
+Rural – ISER pueda aportar en el desarrollo de programas de educación para el trabajo
+donde cuenta con una amplia oferta académica relacionada, primordialmente, con el sector
+agropecuario, agroindustrial y seguridad y salud en el trabajo.
+Con relación a las acciones estratégicas de Inclusión Productiva - Centros Cambia para la
+Vida Digna y Magdalena Vuelve a Sembrar, el Instituto Superior de Educación Rural – ISER
+con la oferta de servicios académicos, de extensión e investigación puede contribuir al
+desarrollo de procesos de gestión ambiental urbana en los municipios y provincias que
+representan el mayor riesgo en salud humana y vulnerabilidad del ecosistema natural en el
+
+30
+
+departamento. Adicionalmente, a través de esta oferta de servicios, se pueden desarrollar
+programas de educación continuada y/o ETDH que permitan adquirir los conocimientos
+necesarios para la formulación y desarrollo de proyectos de emprendimiento que permitan
+dar cumplimiento a las metas y objetivos departamentales.
+Con relación al objetivo que pretende aumentar el acceso al conocimiento, tecnologías,
+productos y servicios de apoyo para mejorar sus capacidades productivas a través de la
+prestación del servicio público de Extensión Agropecuaria, el Instituto Superior de
+Educación Rural – ISER con la oferta de servicios académicos de extensión puede
+contribuir al desarrollo de procesos de extensión agropecuaria en los municipios y
+provincias priorizados en el departamento, así como a través de la Entidad Prestadora del
+Servicio de Extensión Agropecuaria – EPSEA, se pueden articular esfuerzos para la
+prestación del servicio de extensión agropecuaria, con el objetivo de gestionar el desarrollo
+de capacidades de los productores agropecuarios del departamento, así como su acceso
+al conocimiento y a nuevas tecnologías que contribuyan a la sostenibilidad de su producción
+y a la mejora de la calidad de vida de la comunidad en general.
+
+3.2.3
+3.2.3.1
+
+REFERENTES EDUCATIVOS
+Acuerdo por lo superior 2034
+
+El Consejo Nacional de Educación Superior – CESU, presentó al país el documento
+'Acuerdo por lo Superior - 2034: propuesta de Política Pública para la excelencia de la
+educación superior en Colombia, en el escenario de la Paz´, con el cual se establecen lo
+que requiere el país en esta materia para las próximas dos décadas.
+Dentro de esta política pública, se definen diez (10) grandes temas entre los cuales se
+destacan:
+1. La educación inclusiva, desde donde el Instituto Superior de Educación Rural – ISER
+ha venido fomentando la equidad y el acceso a la educación superior a todas la
+comunidades del país, sin importar su raza, religión, descendencia, cultura, entre otros
+aspectos, que pretenden que más y más colombianos podamos profesionalizarnos;
+para ello, el Instituto, además de las políticas públicas en vigencia, desarrolla ejercicios
+de articulación con entidades públicas y privadas, a través de convenios y/o alianzas
+estrategias, con el propósito de garantizar los apoyos socioeconómicos que fomenten
+el ingreso a la educación superior.
+2. Calidad y pertinencia, para lo cual el Instituto Superior de Educación Rural – ISER
+fortalece sus programas de formación a través de los procesos de autoevaluación y
+
+31
+
+acreditación de alta calidad, mejorando los diferentes factores de calidad descritos que
+potencien el alcance de resultados de aprendizaje y los conocimientos y habilidades de
+nuestros estudiantes y graduados; así mismo, con relación a la pertinencia, el Instituto
+Superior de Educación Rural – ISER ha fomentado alianzas y/o convenios con
+instituciones públicas y privadas con el fin de definir una oferta de servicios que apoye
+y fortalezca la productividad y competitividad de las regiones.
+3. Investigación (ciencia, tecnología e innovación), el Instituto Superior de Educación Rural
+– ISER desde el proceso misional de Investigación, fomenta la generación de nuevos
+conocimientos a través del desarrollo de proyectos de investigación que buscan crear
+nuevas soluciones para el sector productivo, especialmente, el sector agropecuario, con
+el propósito de implementar buenas prácticas que además que aporten al incremento
+de los índices de productividad, permita el cuidado y protección de los recursos
+naturales.
+4. Regionalización, para los cual el Instituto Superior de Educación Rural – ISER ha
+desplegado una estrategia de ampliación de cobertura que permita a la institución
+ofertar sus servicios en otros municipios y departamentos de nuestro país, que además
+de beneficiar el acceso a la educación superior, permite impactar la productividad
+específica de cada una de las regiones atendidas, a través de la definición de iniciativas
+regionales concertadas con los grupos de valor e interés.
+5. La articulación de la educación media con la educación superior y la formación para el
+trabajo y el desarrollo humano (ETDH): hacia un sistema de educación terciaria, aspecto
+que el Instituto Superior de Educación Rural – ISER aborda desde la oferta de
+programas de educación continuada y los programas de formación para el trabajo y el
+desarrollo humano en el marco nacional de cualificaciones y un sistema universal de
+créditos homologables que, como producto de una gran concertación nacional entre los
+Ministerios de Educación y de Trabajo, así como el SENA, las IES y las IETDH, entre
+otras, permitan tener protocolos estandarizados de reconocimiento de aprendizajes,
+formales y no formales, que favorezcan la movilidad entre niveles y sistemas de
+formación, y entre estos y el entorno laboral, entre otros aspectos.
+6. Comunidad universitaria y bienestar, para lo cual el Instituto Superior de Educación
+Rural – ISER desde el proceso de Bienestar Institucional desarrolla políticas y
+programas teniendo en cuenta criterios de universalidad, equidad, transversalidad,
+sostenibilidad, reciprocidad, conectividad, y pertinencia que permita fomentar la
+formación de personas con visión ética, con sentido de lo público y con capacidad para
+la convivencia, sin desconocer que es una tarea que se inicia en la familia y que continúa
+en los diferentes espacios de socialización de los seres humanos.
+7. Nuevas modalidades educativas, donde el Instituto Superior de Educación Rural –
+ISER, de acuerdo con la normatividad colombiana, oferta programas académicos:
+presencial, que ha sido la más tradicional y numerosa, a distancia (tradicional), como
+
+32
+
+se identifica en el SNIES y en el Decreto 1330 de 2019 y, virtual o a distancia (virtual).
+Adicionalmente, teniendo en cuenta las nuevas tendencias de la educación, el Instituto
+viene diseñando una oferta académica virtual, donde prioriza el proceso de
+actualización de los profesores del sistema de educación superior en nuevas
+tecnologías y pedagogías mediadas por la virtualidad.
+8. La internacionalización, para lo cual el Instituto Superior de Educación Rural – ISER ha
+definido una política de Internacionalización, la cual pretende la armonización de
+estructuras curriculares que permita acumulación y transferencia de créditos
+académicos, así como legibilidad de las titulaciones, y que facilite la homologación de
+estudios y la convalidación de títulos, la movilidad nacional e internacional, el desarrollo
+de dobles titulaciones, y la articulación del sector educativo con el mundo del trabajo,
+priorizando aquellas áreas del conocimiento y sectores identificados como
+fundamentales para el país.
+9. La estructura y gobernanza del sistema, donde el Instituto Superior de Educación Rural
+– ISER viene dando cumplimiento a la normatividad legal vigente, promoviendo los
+índices de calidad de la educación, la pertinencia de su oferta académica, el impacto
+sobre los territorios y el fomento de acceso a la educación superior como base principal
+del desarrollo socioeconómico del país.
+10. Sostenibilidad financiera del sistema, donde el Instituto Superior de Educación Rural –
+ISER administra los recursos otorgados, los cuales deben orientarse a promover que
+más colombianos tengan la oportunidad de acceso al conocimiento, a la ciencia, a la
+tecnología y a la cultura con un modelo de financiamiento que equilibre los recursos
+existentes con las necesidades de formación de calidad que demanda la sociedad en
+su búsqueda de mayor equidad, bienestar y desarrollo.
+3.2.3.2
+
+Acuerdo 02 de 2020
+
+El Acuerdo 02 de 2020, por el cual el Consejo Nacional de Educación Superior - CESU
+actualiza el modelo de acreditación en alta calidad, fue creado para garantizar a la sociedad
+que los programas académicos y las instituciones de educación superior acreditados
+ofrecen el servicio público de educación con altos niveles de calidad.
+La acreditación es el reconocimiento de la alta calidad que otorga el Ministerio de Educación
+Nacional a los programas académicos y a las instituciones que cumplen con los más altos
+criterios de calidad y que realizan sus propósitos y objetivos, teniendo en cuenta la
+naturaleza jurídica, identidad, misión, tipología, niveles de formación y modalidades.
+Justamente, el Instituto Superior de Educación Rural – ISER viene articulando por medio
+de políticas y procesos diseñados con el propósito de asegurar la calidad de la institución y
+
+33
+
+de los programas académicos ofertados, promoviendo los procesos de autoevaluación,
+autorregulación y mejoramiento de sus labores formativas, académicas, docentes,
+científicas, culturales y de extensión, contribuyendo al avance y fortalecimiento de la
+comunidad y sus resultados académicos, bajo principios de equidad, diversidad, inclusión
+y sostenibilidad.
+Para el Instituto Superior de Educación Rural – ISER, la acreditación permite que exista
+una mejora continua de los programas académicos para alcanzar los parámetros de calidad
+nacional e internacional. Los programas académicos acreditados son competitivos y
+permiten una formación académica completa, actualizada y que se adapte a las demandas
+actuales del mercado laboral.
+3.2.3.3
+
+Decreto 1330 de 2019 – por el cual se sustituye el capítulo 2 y se suprime
+el capítulo 7 del título 3 de la parte 5 del libro 2 del decreto 1075 de 2015 único reglamentario del sector educación
+
+El Decreto 1330 de 2019 busca regular los procesos de registro calificado y calidad
+académica de las Instituciones de Educación Superior - IES, para consolidar una visión de
+calidad que responda a las demandas sociales, culturales y ambientales, en la cual se
+reconoce la diversidad de las Instituciones de Educación Superior, su naturaleza y sus
+objetivos institucionales de forma diferenciada, armonizando el modelo de aseguramiento
+que tiene el país con estándares internacionales.
+El Decreto promueve la oferta de programas académicos en las modalidades presencial, a
+distancia, virtual, dual (titulación conjunta IES - empresa) a partir de metodologías
+apropiadas a las necesidades poblacionales y territoriales, que incorpora la valoración de
+las condiciones mínimas de calidad de la institución y de los programas académicos de
+manera independiente en el proceso de Registro Calificado, donde se evalúan, además, de
+las capacidades y procesos, los resultados académicos que relacionan el aprendizaje de
+los estudiantes. En este aspecto, el Instituto Superior de Educación Rural – ISER viene
+implementando una estrategia de renovación de programas académicos requeridos por los
+grupos de valor e interés, además de la ampliación de la oferta académica en las diferentes
+modalidades (presencial, a distancia, virtual, dual), con el propósito de ampliar la cobertura
+y reconocimiento institucional a lo largo y ancho de nuestro territorio.
+El Decreto se relaciona, adicionalmente, con la formación para la investigación, para que
+los programas incorporen a los estudiantes en dichas prácticas de acuerdo con el nivel
+educativo en el cual adelantan sus estudios, ya sea universitario, técnico profesional o
+tecnológico, según la naturaleza de la institución y el uso de las Tecnologías de la
+Información y las Comunicaciones, TIC. En este factor, el Instituto Superior de Educación
+Rural – ISER está fortaleciendo, a través del proceso de Investigación, la formulación y
+ejecución de proyectos de investigación que permita a nuestros estudiantes investigadore
+
+34
+
+fortalecer sus conocimientos y generar nuevos conocimientos y/o soluciones que beneficien
+a los sectores productivos que atiende la institución.
+Finalmente, el Decreto además contempla la proyección en los territorios, un asunto en el
+cual el Instituto Superior de Educación Rural – ISER ya tiene un camino recorrido, por
+cuanto orienta su accionar a través de la creación de Centros Tutoriales, un propósito
+misional contenido en el Plan de Desarrollo Institucional.
+
+3.2.3.4
+
+Pacto por la educación 2050
+
+Con la firma del Pacto por la Educación a 2050 Norte de Santander busca ejecutar un nuevo
+modelo educativo para el departamento gracias a la vinculación de diferentes actores como
+sector privado, sector público y entes internacionales.
+En el marco de esta estrategia se han priorizado temas de acceso a la educación en zonas
+remotas rurales, brechas y recursos para garantizar la educación. Adicionalmente, se ha
+definido como pertinente la articulación del Estado con la academia con el fin de
+diagnosticar las necesidades que deben ser atendidas de manera coordinada, a través de
+lineamientos públicos que contengan planes, programas y proyectos encaminados a las
+poblaciones en múltiples entornos, tanto urbanos como rurales.
+La justificación de este modelo educativo lleva a considerar que las determinaciones en
+esta área de inversión social, no se toman de manera vertical desde el Gobierno Nacional,
+sino que, por el contrario, el territorio construirá su propia línea base de caracterización que
+le facilitará proponer alternativas de solución, a partir del verdadero contexto en donde
+recaerán las acciones socioeducativas.
+De ahí la necesidad de articular esfuerzos Estado - academia, que, en este caso, está
+representada por el Instituto Superior de Educación Rural - ISER, con el propósito de
+avanzar hacia la investigación detallada de las características que requiere una propuesta
+educativa integral, que mejore las condiciones de vida de las nuevas generaciones.
+Por lo tanto, de una articulación entre el gobierno departamental y la academia, es viable
+que se pueda establecer una política pública educativa, a partir de una caracterización del
+territorio; desde sus propios actores locales, con las capacidades para reconocer las causas
+y consecuencias de las problemáticas sociales que inciden en la fragilidad educativa que
+se pueda percibir en el departamento, para transformar dichas situaciones de crisis en
+oportunidades que lleven a implementar nuevos planes y modelos más participativos en
+doble vía, buscando recuperar las potencialidades que tienen las nuevas generaciones que
+esperan alcanzar mejores estándares en calidad educativa.
+
+35
+
+Esta política pública educativa es el resultado de un gran acuerdo social, alrededor de una
+visión de largo plazo de la educación como principal agente de cambio para construir una
+sociedad más justa, equitativa e incluyente, respetuosa de la naturaleza y en paz que
+requiere nuestro departamento.
+De esta manera se logrará construir una “Región Educadora” que se proyecta al 2050, a
+partir del reconocimiento de nuestra diversidad territorial, de su gente, historia, cultura y de
+la riqueza natural, teniendo en cuenta las problemáticas que están enfrentando estos
+territorios, pero al mismo tiempo, resaltando sus potencialidades y colocando toda esta
+riqueza al servicio de la educación que necesitan sus pobladores.
+Para el cumplimiento de esta política pública, el Instituto Superior de Educación Rural –
+ISER cuenta con una oferta de servicios desde la formación, la extensión, la investigación
+y el bienestar institucional, procesos con los cuales se pretende incrementar la cobertura,
+calidad y pertinencia de los programas académicos y demás servicios ofertados por parte
+del Instituto, los cuales responden a las necesidades reales de los sectores productivos y
+entidades público privadas con las cuales se mantiene un vínculo o alianza estratégica.
+Esta estrategia institucional en el cumplimiento de la nueva política pública permitirá
+abordar los grandes desafíos globales en un momento en el que estamos asistiendo a un
+cambio civilizatorio, incorporando a la comunidad educativa a ese movimiento para
+desempeñar un papel relevante y dar respuesta a los nuevos retos que enfrentamos
+(cambio climático, disrupción tecnológica, cambios económicos y sociales).
+4
+
+PROPUESTA DE MODIFICACIÓN PLAN DE DESARROLLO INSTITUCIONAL
+
+Basados en los referentes educativos y las políticas públicas del nivel nacional así como
+las propuestas de gobierno de los diferentes territorios analizados para el próximo cuatrienio
+y a nivel interno el Acuerdo No. 031 del 19 de diciembre de 2023 “Por el cual se adopta una
+reforma al Estatuto General del Instituto Superior de Educación Rural en Institución
+redefinida por ciclos propedéuticos”, se presenta la modificación del Plan de Desarrollo
+Institucional 2021 – 2030, conforme a los objetivos, principios y valores decretados por la
+institución así como su visión al año 2034, esto teniendo en cuenta el referente Acuerdo por
+lo Superior 2034 y con miras a lograr la acreditación institucional de alta calidad.
+Es importante resaltar, que dicha modificación guarda relación con las necesidades y
+expectativas de los grupos de valor de la institución recogidas en las consultas temáticas
+aplicadas en su momento para la elaboración del Plan de Desarrollo Institucional 2021 –
+2030, las cuales se presentan a continuación:
+
+36
+
+De acuerdo con la consulta temática realizada a los estudiantes, se pudo obtener que
+algunos de los servicios y programas con los que cuenta actualmente el ISER que deben
+seguir preservandose son Bienestar institucional, Apoyo psicosocial y residencias
+estudiantiles, los cuales, son de gran importancia para este grupo de interes, ya que estan
+relacionadas con las necesidades que esta población que han surgido a partir de la
+pandemia; por otro lado, los programas con menor puntaje obtenido fueron el apoyo a la
+virtualidad y la oferta de formación, educación continuada y extensión, ya que son aspectos
+que requieren de una mayor visibilidad en la institución para motivar la continuidad
+académica y la adaptación a nuevas formas de aprendizaje.
+Para el grupo de profesoral, los servicios y programas que deben mantenerse son la Oferta
+de formación, educación continuada y extensión, Bienestar institucional Apoyo a la
+virtualidad y Semilleros de investigación, ya que estos aspectos deben estar focalizados
+hacia la generación de una educación de alta calidad; los servicios con menor interés por
+parte de este grupo de valor, fueron Apoyo psicosocial y Comedor estudiantil, ya que son
+componentes que no estan contemplados dentro de su alcance.
+Para el personal administrativo, los servicios y programas que consideran que deben
+preservarse son la Oferta de formación, educación continuada y extensión y Apoyo a la
+virtualidad, ya que deben potencializarse para la generación de crecimiento de la institución;
+dentro de los aspectos con menor interés por parte de este grupo, fueron Apoyo psicosocial,
+Residencias estudiantiles y Semilleros de investigación, ya que son servicios que no se
+encuentran en las funciones o conocimientos de esta población.
+
+37
+
+El sector productivo evidenció su gran interés por servicios como el Bienestar Institucional
+y la Oferta de formación, educación continuada y extensión, los cuales sirven como
+opciones de formación que puede ser aprovechada para el mejoramiento de las
+competencias de su fuerza laboral; el resto de servicios no son de importancia para este
+grupo de interés. Cabe resaltar que se puede dar impulso al servicio de los semilleros de
+investigación a través de alianzas estratégicas conel sector productivo para la realización
+de impactos y desarrollos que permitan el mejoramiento de procesos, productos, servicios,
+entre otros.
+Al grupo de Graduados, les interesa el mantanimiento de servicios y programas tales como
+Bienestar Institucional y la Oferta de formación, educación continuada y extensión, ya que
+son aspectos que les puede permitir conservar el apoyo por parte de la institución y el
+fortalecimiento de habilidades y competencias para tener un crecimiento profesional; el
+resto de servicios no es de interés por parte de esta población, pero, se puede integrar el
+apoyo psicosocial como eje de equilibrio que les permita tener un respaldo de parte del
+ISER en tiempos de pandemia.
+Por parte de Decanos y Coordinadores de programas, los servicios con mayor interés como
+Bienestar Institucional, la Oferta de formación, educación continuada y extensión y Apoyo
+a la virtualidad, ya que son aspectos que representan retos para la generación de una
+educación integral, por lo que se requieren de acciones que fortalezcan estas temáticas;
+los demás servicios no son relevantes para este grupo de interés.
+Para los líderes de procesos, es necesario mantener y preservar servicios y programas
+tales como Bienestar Institucional y la Oferta de formación, educación continuada y
+extensión, ya que se debe garantizar el cumplimiento de derechos y de necesidades de la
+Comunidad Educativa y se requiere expandir el alcance y la participación del ISER en la
+educación local, regional y nacional; los demás servicios no son de gran interés para esta
+problación.
+
+38
+
+Dentro de las metas a alcanzar en el 2030, los estudiantes consideran que es de gran
+importancia de crear programas académicos de pregrado y posgrado por parte del ISER,
+así como la generación de convenios con empresas y otras instituciones, además, de
+ampliar y modernizar la infraestructura y laboratorios; esto evidencia que este grupo se
+encuentra interesado en dar continuidad a su formación con la institución en caso de
+apuntar a estas necesidades. Aunque para este grupo de interés no es relevante la
+realización de proyectos enfocados a la ruralidad y el fortalecimiento del emprendimiento,
+es un reto para el ISER motivar a la Comunidad Educativa a involucrarse y ser partícipes
+del desarrollo de zonas rurales y de la creación de sus propias empresas.
+Para los profesores es relevante la ampliación en nueva oferta de programas académicos
+TyT, la acreditación de programas y los proyectos enfocados hacia la ruralidad, ya que esto
+permitiría que la institución obtenga mayor reconocimiento y se posicione a nivel local,
+regional o nacional; a pesar de no tener interés en el desarrollo de programas de pregrado
+y posgrado o en el fortalecimiento del emprendimiento, es importante motivar a esta
+población hacia la integración de nuevas oportunidades de formación que le permitan al
+ISER la consolidación como una institución con diversidad educativa y con programas que
+apuntan a las necesidades de sectores productivos y de la comunidad en general.
+El personal administrativo considera que se debe apuntar a la ampliación en nueva oferta
+de programas académicos TyT, la acreditación de programas y la generación de convenios
+con empresas y otras instituciones, ya que esto permitiría brindar mejores oportunidades
+
+39
+
+para la Comunidad Educativa; para este grupo de interés no consideran importante el
+fortalecimiento del emprendimiento.
+Para el sector productivo es importante el fortalecimiento del emprendimiento, la generación
+de convenios con empresas y otras instituciones y los proyectos enfocados hacia la
+ruralidad, ya que estos requieren de un aporte de la academia hacia la construcción de
+saberes que permitan la mejora continua de la economía; no consideran relevante
+desarrollar metas como los programas de pregrado y posgrado, la ampliación de programas
+académicos TyT o la ampliación y modernización de la infraestructura y laboratorios, pero
+es importante que reconozcan la importancia de la mejora de la institución para brindar
+personas más capacitadas y con mejores recursos para el desarrollo de conocimiento
+aplicado.
+En el caso de los graduados, consideran la necesidad de crear programas académicos de
+pregrado y posgrado por parte del ISER, los proyectos enfocados a la ruralidad y la
+acreditación de los programas, ya que se evidencia el interés por continuar perteneciendo
+a la institución, pero contando con nuevas opciones y con garantías de reconocimiento y
+calidad de la educación; para este grupo es de poco interés la creación de convenios, la
+ampliación y modernización de la infraestructura y laboratorios o el fortalecimiento del
+emprendimiento, pero es relevante que en caso de dar continuidad académica, estos
+parámetros les puede permitir adquirir mejores conocimientos y prepararse mejor de
+manera práctica.
+En el caso de los Decanos y Coordinadores de programa, es importante apuntar a metas
+como la ampliación y modernización de la infraestructura y laboratorios, la acreditación de
+los programas, la generación de convenios con empresas y otras instituciones, ya que esto
+le puede dar una perspectiva multidisciplinaria, práctica y colaborativa, que permita la
+producción de soluciones a problemáticas de la sociedad; este grupo de interés no
+considera como metas a 2030 la creación de programas académicos de pregrado y
+posgrado por parte del ISER, la generación de proyectos enfocados a la ruralidad o el
+fortalecimiento del emprendimiento, por lo que es necesario motivar a estos directivos hacia
+el crecimiento de la institución.
+Por último, a los líderes de procesos les interesa que la institución le apunte a la ampliación
+de programas académicos TyT, la ampliación y modernización de la infraestructura y
+laboratorios y la acreditación de los programas, como formas de consolidación del ISER
+ante la Comunidad Educativa y la sociedad; por otro lado, aspectos como la generación de
+convenios con empresas y otras instituciones y el fortalecimiento del emprendimiento no
+son tan relevantes, pero pueden ser gestionados como estrategia para brindar integralidad
+y respaldo a todos los diferentes grupos de interés.
+
+40
+
+Finalmente, durante al cierre de la vigencia 2023 se realizó un análisis institucional para
+cada uno de los grupos de valor interés a partir de las encuestas de satisfacción aplicadas
+y conforme a los servicios ofrecidos por la institución, lo cual fue plasmado en la siguiente
+matriz:
+
+Estudiantes
+
+5
+
+¿ES PERTINENTE?
+
+CATEGORÍA
+DEL GRUPO
+DE VALOR O
+GRUPO DE
+INTERÉS
+
+¿Cuánto influye en el
+desempeño institucional?
+
+Calificación de la Pertinencia
+del Grupo de Valor y/o Grupo de
+Interés
+
+PERTINENTE
+
+Requisito de los Grupos de Valor y/o Grupos de
+Interés y estrategia(s) para cumplirlas
+
+REQUISITO DEL
+GRUPO DE VALOR
+Y/O GRUPO DE
+INTERÉS
+(¿Qué ha decido
+satisfacer?)
+
+ESTRATEGIA
+(¿Cómo se va a dar
+cumplimiento al
+requisito?)
+
+Educación con calidad
+
+Inversión de mejoramiento
+de la Infraestructura Física
+
+Ampliar convenios y
+Ampliar
+escenarios
+de
+posibilidades para el
+prácticas académicas y
+desarrollo de prácticas
+profesionales
+empresariales
+Gestionar la ampliación de
+Apoyo
+para
+el los
+apoyos
+desarrollo académico
+socioeconómicos
+a
+estudiantes priorizados
+Actividades
+lúdico- Programar acciones lúdicodeportivas
+para
+el deportivas que fomenten el
+desarrollo integral de desarrollo integral de la
+los estudiantes
+comunidad estudiantil
+Desplegar
+política
+de
+Fomento
+para
+el Investigación Institucional
+beneficio
+de
+la
+desarrollo de proyectos en
+generación
+de
+nuevos
+de Investigación
+conocimientos
+Desarrollar proyectos que
+Movilidad académica
+fomenten
+la
+movilidad
+académica de estudiantes
+Incluir
+temáticas
+Empleo
+y curriculares
+relacionadas
+Emprendimiento
+con el Empleo y el
+Emprendimiento
+Gestionar convenios para el
+Empleo
+y
+fomento del empleo y el
+Emprendimiento
+emprendimiento
+
+41
+
+Fortalecimiento
+habilidades
+competencias
+
+Graduados
+
+5
+
+PERTINENTE
+
+de
+y
+
+Acceso a oportunidades
+de empleo
+
+Acceso
+Emprendimiento
+
+al
+
+Desarrollo de nuevas
+ideas
+Fortalecimiento
+habilidades
+competencias
+Desarrollo
+capacidades
+conocimientos
+
+Sector
+Productivo
+
+5
+
+PERTINENTE
+
+Profesores
+
+5
+
+PERTINENTE
+
+Definir oferta de formación,
+en
+sus
+diferentes
+modalidades, que fomentan
+el
+desarrollo
+de
+las
+competencias
+de
+los
+graduados
+Crear la bolsa de empleo
+que
+permite
+ofertar
+necesidades
+de
+profesionales del sector
+productivo
+Fomentar convenios para la
+definición y ejecución de
+planes de negocio
+Definir convocatorias de
+investigación
+para
+el
+desarrollo de proyectos de
+innovación
+
+de
+Oferta
+de
+y
+educativas
+
+trayectorias
+
+de Oferta de bienes y servicios
+y orientados a las cadenas
+productivas
+Oferta
+de
+estrategias
+Transferencia
+dinamizadoras
+para
+la
+tecnológica
+y
+de
+articulación de redes de
+innovación
+colaboración
+Proveer
+profesionales
+Profesionales
+competentes
+para
+el
+competentes para el
+desarrollo de prácticas
+desarrollo de prácticas
+profesionales
+Articulación academia - Diseñar
+políticas
+de
+empresa - estado - intervención
+comunitaria,
+territorio
+territorial y cultural
+Necesidades
+de Coordinar
+acciones de
+posicionamiento de la mercado para la oferta de
+oferta de productos / servicios de las empresas
+servicios
+asociadas
+Apoyo en el desarrollo Fomentar la gestión del
+de mecanismos de conocimiento
+para
+protección
+para
+la responder a necesidades y
+sostenibilidad
+oportunidades
+Definir plan de formación
+profesoral requerido para el
+Capacitación
+fortalecimiento
+de
+sus
+permanente
+competencias
+
+42
+
+Sector Social y
+Cultural
+
+5
+
+PERTINENTE
+
+Dotar los espacios de
+Mejoramiento de la desarrollo académico de los
+infraestructura física y elementos y herramientas
+medios educativos
+requeridas para el proceso
+formativo
+Ajustar responsabilidad Asignar PRA a profesores
+académica
+a
+los del Instituto para el fomento
+procesos de extensión de
+proyectos
+de
+e investigación
+investigación y/o extensión
+Ampliar actividades de Definir
+cronograma
+de
+Bienestar donde se acciones de Bienestar para
+incluya a los profesores el desarrollo profesoral
+Realizar
+estudios
+de
+Acceso a la educación pertinencia para definir
+superior
+oferta
+de
+servicios
+requeridos
+Diseñar
+políticas
+de
+Acompañamiento
+y
+intervención
+comunitaria,
+asistencia técnica
+territorial y cultural
+Fomentar desarrollo de
+Desarrollo
+de
+los proyectos de investigación
+que
+fortalezcan
+los
+territorios
+territorios
+Desarrollar acciones que
+Conservar cultura de
+fomenten
+el
+desarrollo
+los territorios
+cultural de los territorios
+Desarrollo de proyectos Articular el desarrollo de
+solidarios
+que proyectos
+solidarios
+fortalezcan las regiones pertinentes
+
+De acuerdo con la información recolectada, los grupos de valor e interés de la institución,
+tienen como necesidades la educación de calidad, el contar con espacios adecuados para
+la formación integral, el fortalecimiento de actividades de internacionalización así como
+culturales, el fortalecimiento de los procesos de extensión e investigación con el fin de
+promover proyectos que contribuyan a la solución de problemáticas que afectan a las
+comunidades de los diferentes territorios, asimismo, es importante fortalecer las estrategias
+de acceso, permanencia y graduación y potenciar los servicios adicionales ofertados por la
+institución como asistencia técnica, asesorías y consultorías.
+Por otro lado, en la vigencia 2023 la institución inicia con el proceso para la redefinición por
+ciclos propedéuticos, de lo cual ya se tienen avances en cuanto a la reforma normativa, por
+lo que, se hace necesario ajustar la misión institucional de acuerdo con esta apuesta
+institucional. La propuesta de misión y visión son las siguientes:
+
+43
+
+Misión: “Desarrollar con calidad y pertinencia como institución redefinida por ciclos
+propedéuticos procesos formativos, de extensión, investigación y bienestar que
+cualifiquen el talento humano a través de trayectorias educativas que contribuyan tanto
+a la generación de cambios en su contexto de actuación como a la consolidación de una
+sociedad pacífica, justa, democrática e incluyente, atendiendo la propuesta del Desarrollo
+Humano”.
+Visión: “En el año 2034 el Instituto Superior de Educación Rural – ISER redefinido por
+ciclos propedéuticos, será reconocido en el oriente colombiano como una institución
+acreditada, incluyente y líder en la formación técnica, tecnológica y profesional con un
+enfoque del desarrollo humano que apuesta por la ruralidad”
+Dicha propuesta ha sido sometida a consideración de los grupos de valor de la institución
+(estudiantes, profesores, administrativos, graduados y sector productivo) logrando los
+siguientes resultados:
+
+GRUPO DE VALOR
+
+PREGUNTA 1: Está de acuerdo
+con ajustar la misión institucional
+de la siguiente manera:
+“Desarrollar con calidad y
+PREGUNTA 3: Está de acuerdo
+pertinencia como institución
+con ajustar la visión institucional
+PREGUNTA 4:
+redefinida por ciclos
+de la siguiente manera: “En el
+Considera que
+propedéuticos procesos
+año 2034 el Instituto Superior de
+la visión
+PREGUNTA 2:
+formativos, de extensión,
+Educación Rural – ISER redefinido
+contiene las
+Considera que la misión
+investigación y bienestar que
+por ciclos propedéuticos, será
+apuestas que
+propuesta se ajusta a la
+cualifiquen el talento humano a
+reconocido en el oriente
+como grupo de
+identidad rural que ha
+través de trayectorias educativas
+colombiano como una institución
+valor espera
+caracterizado a la
+que contribuyan tanto a la
+acreditada, incluyente y líder en
+que la
+institución
+generación de cambios en su
+la formación técnica,
+institución logre
+contexto de actuación como a la
+tecnológica y profesional con un
+en un largo
+consolidación de una sociedad
+enfoque del desarrollo humano
+plazo
+pacífica, justa, democrática e
+que apuesta por la ruralidad”
+incluyente, atendiendo la
+propuesta del Desarrollo
+Humano”
+SI
+
+NO
+
+SI
+
+NO
+
+SI
+
+NO
+
+SI
+
+NO
+
+ESTUDIANTES
+
+98,05%
+
+1,95%
+
+96,75%
+
+3,25%
+
+96,10%
+
+3,90%
+
+98,05% 1,95%
+
+PROFESORES
+
+97,22%
+
+2,78%
+
+97,22%
+
+2,78%
+
+98,61%
+
+1,39%
+
+98,61% 1,39%
+
+ADMINISTRATIVOS
+
+100%
+
+0%
+
+100%
+
+0%
+
+100%
+
+0%
+
+97,67% 2,33%
+
+GRADUADOS
+
+100%
+
+0%
+
+100%
+
+0%
+
+100%
+
+0%
+
+100%
+
+0%
+
+SECTOR
+PRODUCTIVO
+
+100%
+
+0%
+
+100%
+
+0%
+
+100%
+
+0%
+
+100%
+
+0%
+
+44
+
+De acuerdo con lo anterior se puede concluir que la totalidad de los grupos de valor están
+de acuerdo con el ajuste de la misión y visión obteniendo resultados de aceptación por
+encima del 96%; esta propuesta será incluida dentro de la actualización del Proyecto
+Educativo Institucional – PEI, para el proceso de redefinición por ciclos propedéuticos.
+
+4.1 MARCO ESTRATÉGICO
+4.1.1
+
+DIMENSIONES DEL DESARROLLO INSTITUCIONAL
+
+La Educación es reconocida como un derecho, el cual impacta en el desarrollo social y
+económico de los países, ya que se considera como un motor de movilidad social, equidad
+y fortalecimiento de las instituciones; es por ello, que el Plan Decenal de Educación 20162026, el Plan Especial de Educación Rural y el documento de la UNESCO “Pensar más allá
+de los límites: Perspectivas sobre los futuros de la Educación Superior hasta 2050”,
+sirvieron como referentes teóricos para el establecimiento de las dimensiones de Desarrollo
+Institucional. Adicionalmente, se tomó como base el Proyecto Educativo Institucional
+resignificado en la vigencia 2020 y actualizado para el proceso de Redefinición por Ciclos
+
+45
+
+Propedéuticos, para la establecer la estructura de las dimensiones del desarrollo
+institucional, las cuales se definen a continuación:
+4.1.1.1
+
+Dimensión de formación
+
+La definición de la dimensión de formación surge desde uno de los desafíos propuestos en
+el Plan Decenal de Educación 2016-2026, en el que se afirma el establecimiento de
+lineamientos curriculares generales, pertinentes y flexibles; por lo que hace un llamado a la
+institución de cumplir con la expectativa de los colombianos relacionada con la proyección
+del país al 2026 por contar con una educación basada en la profesionalización, aprendizaje
+continuo, formación y valoración social que permita el desarrollo humano de los ciudadanos.
+Esto a su vez cumple con el lineamiento estratégico de Plan Decenal, en el que se debe
+formar individuos con pensamiento crítico, creativo, curioso, con valores y actitudes éticas,
+respecto a la heterogeneidad y diversidad, en el que se logre involucrar a la persona como
+eje activo y participativo de la solución de las problemáticas de la sociedad.
+Desde el Plan Especial de Educación Rural, esta dimensión está contemplada como
+elemento para el cierre de brechas en acceso y calidad a la educación, de tal manera que
+se garantice brindar oportunidad para diferentes tipos de poblaciones, que logren tener un
+impacto significativo en la productividad y desarrollo económico de las regiones rurales.
+Desde la UNESCO, se tuvo en cuenta la necesidad de no sólo fijar las acciones hacia los
+estudiantes sino tener en cuenta a profesores y personal administrativo, de tal forma, que
+se logre la construcción de programas académicos flexibles e inclusivos, volviendo le
+educación como parte de cada proyecto de vida, en el que se permita tener más libertad
+para explorar y demostrar un resultado coherente del aprendizaje, ajustado hacia la
+identificación y fomento de habilidades, competencias y conocimientos garantizando
+trayectorias continuas y completas.
+Por otra parte, el Acuerdo por lo Superior 2034 plantea algunos aspectos fundamentales
+para proyectar un sistema de educación superior con perspectiva a largo plazo, dentro de
+lo cual se contempla la calidad y pertinencia de las instituciones de educación superior, que
+para el caso específico de la institución está dado a través del Sistema Interno de
+Aseguramiento de la Calidad bajo el cual se coordinan los procesos de autoevaluación,
+evaluación y mejoramiento continuo. Asimismo, la regionalización ha sido una apuesta
+institucional con el propósito de ampliar las condiciones de acceso a la educación superior
+en zonas que históricamente han sufrido el conflicto armado o el abandono estatal, la
+regionalización se convierte en un proyecto bandera para la institución que sumado a la
+articulación de la educación media con la educación superior, le permitirá a la institución
+garantizar trayectorias educativas continuas y completas, a través de programas de
+Educación para el Trabajo y el Desarrollo Humano, programas de educación superior del
+nivel técnico y tecnológico y a nivel profesional en una institución redefinida por ciclos
+
+46
+
+propedéuticos. Finalmente, la institución apuesta por renovar su oferta académica
+pertinente y de calidad a través de nuevas modalidades educativas, como la educación a
+distancia, virtual, dual e híbrida.
+4.1.1.2
+
+Dimensión de Extensión
+
+Esta dimensión nace como resultado de observar uno de los desafíos del Plan Decenal de
+Educación 2016-2026, en el que tiene el reto nacional de dar prioridad al desarrollo de la
+población rural desde la educación, por lo que se hace necesario cumplir con uno de sus
+lineamientos estratégicos relacionados con la profundización del conocimiento en zonas
+rurales, sus poblaciones y sus contextos ecológicos, con el fin de contribuir al desarrollo
+social y económico del país. Se hace necesario cumplir con una de las expectativas de los
+colombianos como es llevar a la educación hacia la pertinencia y la respuesta a los
+requerimientos laborales regionales, donde se articule la vocación productiva con la mejora
+de la calidad de vida de todos los ciudadanos.
+El Plan Especial de Educación Rural, hace énfasis en el impacto que se puede realizar en
+entornos rurales a través de la educación, de tal forma que se pueda brindar no sólo
+desarrollo económico, sino que se pueda obtener retornos positivos a inversiones, equidad
+y justicia social, ya que, al orientar a jóvenes y adultos hacia el aprendizaje de calidad, se
+pueda reducir cifras como la que presenta la criminalidad.
+En cuanto al Acuerdo por lo Superior 2034, se define la internacionalización como una
+estrategia articuladora para el desarrollo de una sociedad del conocimiento y de los
+procesos de globalización, en este sentido, la institución debe avanzar frente a la gestión
+de la internacionalización, la movilidad académica internacional, la participación en redes
+para la generación de alianzas e intercambios de experiencias, la internacionalización del
+currículo y la internacionalización de la investigación.
+Es relevante que el ISER se transforme en una institución que lidere el cambio y contribuya
+de forma significativa a la construcción de soluciones, comenzando con su principio de
+educación rural, la cual tiene grandes oportunidades de convertirse en una de las insignias
+de la educación en Colombia y esto se relaciona a lo que expresa la UNESCO en su
+documento “Pensar más allá de los límites: Perspectivas sobre los futuros de la Educación
+Superior hasta 2050”.
+4.1.1.3
+
+Dimensión de investigación
+
+El ISER se ajusta a uno de los desafíos del Plan Decenal de Educación 2016-2026, donde
+se busca fomentar la investigación basada en la generación de conocimiento en todos los
+niveles de educación, por lo que se hace necesario el fortalecimiento de este aspecto a
+partir de una dimensión, en la que se busque cumplir con parámetros determinados por la
+47
+
+UNESCO como es la producción de saberes orientados hacia el bien común, el trabajo en
+conjunto con personas, grupos, comunidades locales y globales e instituciones
+internacionales que brinden pensamientos multidisciplinarios e interdisciplinarios, que
+desafíen las desigualdades de conocimientos e innovación.
+En el Plan Especial de Educación Rural, se tiene en cuenta la posibilidad de crear alianzas
+entre el Gobierno e instituciones, para la producción académica, en donde el ISER debe
+destacarse gracias a su objeto principal que es la educación rural; por ende, es necesario
+que el instituto se destaque por su calidad investigativa orientada a entornos rurales, cuyos
+conocimientos sirvan como pilar para el desarrollo sostenible del campo colombiano.
+Por otro lado y alineado a la Acuerdo por lo Superior 2034 la institución a través del Proyecto
+Educativo Institucional – PEI con el fin de tener influencia en la transformación social de su
+entorno apuesta por una posibilidad de concebir la ciencia desde lo social permitiéndole
+transformarse y a su vez, ser un agente en las comunidades que favorezca ese cambio
+social desde su interior mediante técnicas, métodos y procedimientos, en la medida de lo
+posible, inter – multi y transdisciplinares que partan de la acción-reflexión de los integrantes
+de dichas comunidades.
+Es necesario resaltar que Colombia se caracteriza por tener personas con grandes
+habilidades cognitivas y por su carácter innovador, por lo que debe ser direccionado hacia
+la creación de proyectos investigativos que respondan a las demandas actuales de las
+comunidades y se transformen en ejes del cambio para el desarrollo local, regional y
+nacional.
+4.1.1.4
+
+Dimensión de bienestar
+
+El ISER tiene la responsabilidad de cumplir con el segundo principio orientador del Plan
+Decenal de Educación 2016-2026, en el que se debe impulsar el desarrollo humano,
+involucrando las dimensiones económica, social, ambiental, científica y cultural del país, de
+tal manera que logre brindar integralidad, sostenibilidad y equidad a la educación. El
+derecho a la educación asume el modelo de cuatro dimensiones o el esquema de 4-A,
+planteado por Katarina Tomasevski para la ONU al ser corresponsables para garantizar la
+asequibilidad, la accesibilidad, la aceptabilidad y la adaptabilidad. Es por ello, que desde
+esta dimensión se buscará cumplir con la necesidad de la comunidad educativa, además
+de transformar la institución en una organización incluyente que tenga en cuenta a los
+grupos priorizados según INES, entre los que se encuentran las personas con
+discapacidad, grupo étnicos y la comunidad LGTBI, y así evitando cualquier forma de
+marginación y exclusión.
+
+48
+
+En el Plan Especial de Educación Rural se exalta la importancia de brindar a los ciudadanos
+la infraestructura y los requerimientos necesarios para una educación de calidad, de tal
+manera que se garantice el bienestar total de cada uno de los integrantes de la institución.
+Desde el punto de vista de la UNESCO, se busca la promoción del bienestar, el cual se
+fundamente en la justicia, solidaridad y garantía de los derechos humanos, actuando de
+manera ética, responsable y sostenible.
+Por otro lado, el institución asume los postulados de la política de bienestar para las IES de
+ASCUN, la cual establece que la cual establece que el bienestar es una “función de carácter
+estratégico y transversal que comprende las políticas institucionales, los procesos y
+prácticas, así como la cultura institucional que promueven la corresponsabilidad para el
+pleno desarrollo de las capacidades humanas de los actores que conviven en el contexto
+de la vida institucional para favorecer la formación integral y la construcción de comunidad".
+4.1.1.5
+
+Dimensión organizacional
+
+Desde la dimensión organizacional, se busca enfrentar el desafío del Plan Decenal de
+Educación 2016-2026, en el que se requiere el establecimiento de lineamientos curriculares
+pertinentes y flexibles, de tal manera que se cumpla con las expectativas de los
+colombianos de contar con una infraestructura del sistema educativo de calidad, inclusivo
+y transversal a las nuevas tecnologías de la información y las comunicaciones, por lo que
+se hace necesario que el ISER cuente con los recursos y el talento humano pertinente para
+brindar programas académicos oportunos, con profesores altamente calificados que
+incentivan el pensamiento crítico, la construcción de proyectos de vida, la investigación, la
+tecnología de forma adecuada y el aporte social a las comunidades.
+Desde el punto de vista expuesto en el Plan Especial de Educación Rural, es importante
+tener en cuenta la contratación y potencialización de docentes, para la consolidación de un
+Talento Humano calificado, el cual, debe ser orientado al cumplimiento de directrices
+administrativas, curriculares y pedagógicas diseñadas por el Ministerio de Educación
+Nacional para las zonas rurales, de tal forma que sean ejes fundamentales para la
+transformación de las realidades socioeducativas de los territorios.
+En el aspecto organizacional, el ISER requiere de un fortalecimiento de sus procesos y de
+su infraestructura física y tecnológica, con el propósito de brindar las herramientas
+necesarias a toda la comunidad educativa para el desarrollo de conocimiento destinado
+para el bien común, cumpliendo además con los requisitos normativos que le permitan
+lograr una adecuada gestión institucional generando valor público en sus actuaciones y
+cumpliendo con las necesidades y expectativas de sus grupos de valor e interés.
+
+49
+
+4.1.2
+
+OBJETIVOS INSTITUCIONALES
+
+a. Ser una institución en cuya visión y misión se visibilice una apuesta clara y bien
+definida por la educación rural y el desarrollo de su territorio.
+b. Ofrecer programas de educación superior en pregrado en los niveles técnico
+profesional, tecnológico y profesional por ciclos propedéuticos y de postgrado en
+sus campos de interés.
+c. Ofrecer programas de Educación para el Trabajo y el Desarrollo Humano (ETDH)
+que le permitan a la población complementar, actualizar, suplir conocimientos y
+formarse en aspectos académicos o laborales.
+d. Promover el enriquecimiento del quehacer institucional cualificando su compromiso
+y su responsabilidad social con el desarrollo local, regional y nacional, con
+perspectiva global para el desempeño de los actores de la comunidad mediante
+estrategias de inter y multiculturalidad.
+e. Crear un ambiente óptimo para el desarrollo de la investigación, mediante el
+estímulo a la conformación de grupos investigación, semilleros, grupos de estudio y
+el espacio para el debate científico e intelectual.
+f. Articular su presencia y acción con los entornos en los cuales ejerce su influencia
+ofertando, con pertinencia y calidad, prácticas académicas y profesionales,
+programas de educación continua, proyectos de extensión solidaria, servicios
+sociales, así como, el desarrollo de convenios y acuerdos de cooperación
+interinstitucional en los ámbitos nacional e internacional.
+g. Ofertar con un enfoque de pertinencia y calidad de servicios de consultoría,
+asesoría, asistencia técnica, capacitación, la oferta de servicios profesionales o
+técnicos de acuerdo con las áreas de estudio de los programas académicos y la
+venta de otros servicios institucionales a sus grupos de interés en el ámbito local,
+regional y nacional.
+h. Generar políticas, componentes, estrategias y herramientas institucionales que
+atiendan tanto el desafío de facilitar el acceso a la educación como de los procesos
+de inclusión social y educativa mediante espacios que propicien el fortalecimiento
+del ser personal y del ser social.
+i. Promover la corresponsabilidad para el pleno desarrollo de las capacidades
+humanas de los actores que conviven en el contexto de la vida institucional para
+favorecer la formación integral y la construcción de comunidad.
+j. Cualificar el talento humano de la institución apoyando procesos de
+profesionalización y capacitación en las diferentes ramas del saber,
+independientemente de su vinculación.
+k. Desarrollar una política y unas prácticas organizacionales que no solo den
+coherencia y unidad al funcionamiento institucional, sino que también garanticen un
+ambiente de trabajo respetuoso, digno y de reconocimiento.
+
+50
+
+4.1.3
+
+PRINCIPIOS
+
+Autonomía, el Instituto desarrolla su misión con el pleno y responsable uso de la
+autonomía que la ley concede, tanto para su gobierno como para el desarrollo de sus
+propósitos misionales.
+Integridad, la institución desarrollará y honrará sus compromisos misionales con
+calidad, coherencia, transparencia y respeto.
+Pertinencia, los compromisos misionales responderán a las expectativas del contexto,
+con un claro sentido de la oportunidad, la relevancia y la conveniencia.
+Inclusión, la política y la filosofía institucional se caracterizará por reconocer y asumir
+la diversidad, como algo inherente a la condición humana y, en consecuencia, propiciará
+la real y efectiva participación de todos los actores sociales.
+Equidad, las diversas actuaciones, procedimientos y decisiones institucionales se
+caracterizarán por el adecuado reconocimiento y respeto de las diferencias individuales.
+Bioeticidad, el quehacer institucional considerará en todas sus actuaciones el debido
+respeto y reconocimiento de las diferentes expresiones de vida y su, consiguiente,
+protección y cuidado.
+Sostenibilidad, la institución mantendrá una política de manejo de sus diversos
+recursos de tal manera que se asegure su permanente renovación y continuidad.
+Regionalización. La institución apoya la dinamización productiva y económica de las
+diferentes regiones del país, ofreciendo una educación superior de calidad que articula
+las funciones de docencia, investigación, extensión y proyección social.
+Internacionalización. Enfoque transversal al quehacer de institución que amplía el
+horizonte intercultural y a nivel de apertura, extendiendo las funciones institucionales en
+las construcciones espacios para y en el contexto local y global.
+Responsabilidad social. La institución implementa las políticas establecidas por el
+orden nacional, asumiendo con el más alto sentido de la responsabilidad, el
+cumplimiento de sus deberes y compromisos a la igualdad de oportunidades, la
+inclusión social y productiva del sector rural y los más vulnerables de la sociedad.
+
+51
+
+4.1.4
+
+VALORES
+
+Responsabilidad, el Instituto asumirá el pleno cumplimiento de sus obligaciones y
+compromisos consciente del impacto y el resultado esperado en su contexto.
+Solidaridad, el instituto y su talento humano de acuerdo con sus posibilidades se unirán
+y colaborarán mutuamente como un todo en pro del bienestar de los sujetos, los grupos
+y las comunidades.
+Justicia, su acción estará enmarcada en la imparcialidad garantizando los derechos de
+las personas, con equidad, igualdad y sin discriminación.
+Honestidad, su actuación estará enmarcada con fundamento en la verdad, cumpliendo
+sus deberes con transparencia y rectitud, favoreciendo el interés general sobre el
+particular.
+Compromiso, sus actores serán conscientes de la importancia de su rol en la
+comunidad educativa y estarán dispuestos a comprender y resolver las necesidades
+con las que interactúa.
+Respeto, en sus diferentes actuaciones y relaciones el Instituto siempre tendrá y
+manifestará un especial reconocimiento, valoración y trato de manera digna a todas las
+personas de los diferentes sujetos e instituciones sin importar su condición.
+Diligencia, en sus actividades y servicios, el talento humano cumplirá con los deberes,
+funciones y responsabilidades asignadas de la mejor manera posible, con atención,
+prontitud, destreza y eficiencia, para así optimizar el uso de los recursos.
+4.1.5
+
+MISIÓN
+
+Desarrollar con calidad y pertinencia procesos formativos, de extensión, investigación y
+bienestar que cualifiquen mediante trayectorias educativas el talento humano y contribuyan
+tanto a la generación de cambios en su contexto de actuación como a la consolidación de
+una sociedad pacífica, justa, democrática e incluyente, atendiendo la propuesta del
+Desarrollo Humano.
+
+52
+
+4.1.6
+
+VISIÓN
+
+En el año 2034 el Instituto Superior de Educación Rural-ISER redefinido por ciclos
+propedéuticos, será reconocido en el oriente colombiano como una institución acreditada,
+incluyente y líder en la formación técnica, tecnológica y profesional, con un enfoque del
+desarrollo humano que apuesta por la ruralidad.
+4.1.7
+
+OBJETIVOS ESTRATÉGICOS
+
+a. Fortalecer el enfoque de los procesos misionales hacia la educación rural y el desarrollo
+del territorio.
+b. Dimensionar el quehacer institucional en la búsqueda de la acreditación de alta calidad.
+c. Posicionar al Instituto Superior de Educación Rural en programas académicos de
+formación técnica profesional, tecnológica y profesional y en la educación para el trabajo
+y el desarrollo humano a nivel local, regional y nacional.
+4.1.8
+
+EJES ESTRATÉGICOS
+
+De acuerdo con la información recopilada en el trabajo colaborativo en donde se vincularon
+los diferentes grupos de valor, y partiendo de la Misión, la Visión y el Proyecto Educativo
+Institucional, se redefinen los siguientes ejes para el Plan de Desarrollo Institucional “Hacia
+una sociedad rural y urbana más justa, sostenible y equitativa”:
+1.
+2.
+3.
+4.
+5.
+6.
+4.1.8.1
+
+Formación Rural para el Desarrollo Humano
+Apostando por la Extensión
+Investigar en el Instituto
+Bienestar en la Comunidad Educativa
+Gobernanza y Sostenibilidad Financiera
+Desarrollo de la infraestructura física, tecnológica y medios educativos
+Formación Rural para el Desarrollo Humano
+
+Este eje estratégico tiene como objetivo principal establecer los lineamientos que le
+permitan al instituto posicionarse a nivel local, regional y nacional como una institución que
+apuesta por la ruralidad con un enfoque del desarrollo humano, a través de procesos
+formativos mediante la estrategia de ciclos propedéuticos y la articulación de la educación
+
+53
+
+media con la educación superior, consolidar la acreditación institucional a partir de la oferta
+de programas que sean pertinentes con las necesidades del entorno actualizado con
+respecto a las tendencias curriculares, logrando cualificar a los profesores en sus
+respectivas áreas de conocimiento y promoviendo una cultura permanente de
+autoevaluación y mejoramiento continuo. Para ello, se han estructurado las siguientes
+líneas estratégicas:
+
+LÍNEA ESTRATÉGICA
+
+OBJETIVO
+
+Línea Estratégica 1: Fortalecimiento del
+Sistema Interno de Aseguramiento de la
+Calidad
+
+Fortalecer la cultura de la autoevaluación
+institucional
+y
+de
+programas,
+propendiendo por la mejora continua y la
+alta calidad académica en articulación con
+los sistemas de gestión institucional y las
+funciones misionales y de apoyo.
+
+Línea Estratégica 2: Regionalización
+
+Ofertar programas a nivel técnico
+profesional, tecnológico, profesional por
+ciclos propedéuticos y de Educación para
+el Trabajo y el Desarrollo Humano así
+como implementar estrategias para la
+articulación de la educación media con la
+educación superior en diferentes territorios
+del país en el marco de la ampliación de
+cobertura y conforme las necesidades de
+los territorios.
+
+Línea
+Estratégica
+profesoral
+
+Cualificar el personal profesoral de la
+institución
+apoyando
+procesos
+de
+capacitación en las diferentes ramas del
+saber, en correspondencia con los
+objetivos institucionales.
+
+3:
+
+Capacitación
+
+Línea Estratégica 4: Actualización y
+modernización curricular
+
+Integrar en los programas académicos los
+sistemas de clasificación internacional y
+nacionales en lo educativo y ocupacional
+para su diseño y desarrollo curricular.
+
+54
+
+4.1.8.2
+
+Apostando por la Extensión
+
+Bajo este eje estratégico la institución promoverá las relaciones de interacción e integración
+gracias a la articulación de sus actores internos y externos con la dinámica social,
+productiva, creativa y cultural de su contexto destinados a la difusión de conocimiento, al
+intercambio de experiencias, así como las actividades de servicio tendientes a dar
+respuesta a las necesidades, problemáticas y expectativas del entorno, para el desarrollo
+de lo expuesto anteriormente se establecieron las siguientes líneas estratégicas que
+corresponden a las modalidades de extensión institucional:
+
+LÍNEA ESTRATÉGICA
+
+OBJETIVO
+
+Línea Estratégica 5: Extensión Académica
+
+Desplegar la capacidad institucional para
+interactuar con otras Instituciones con el
+fin de enriquecer la misión e impactar los
+requerimientos formativos, académicos,
+científicos, culturales y de extensión en un
+contexto altamente cambiante, a través de
+programas como prácticas y educación
+continuada.
+
+Línea Estratégica 6: Extensión Social
+
+Presentar propuestas y actuar sobre las
+necesidades, problemas y expectativas
+del entorno social, comunitario y regional,
+sin obtener beneficios económicos para la
+Institución, pero si beneficios intangibles,
+académicos y culturales para enriquecer el
+quehacer académico de la misma y su
+entorno mediante el servicio social y los
+proyectos solidarios.
+
+Línea Estratégica 7: Graduados
+
+Promover al interior de la institución la
+inserción laboral de los graduados, el
+seguimiento de su desempeño en las
+actividades profesionales y académicas,
+así como, el aprendizaje a lo largo de la
+vida y su experiencia en la dinámica
+institucional mediante su participación y
+representación en los diferentes órganos
+de gobierno.
+
+55
+
+Línea Estratégica 8: Internacionalización
+
+4.1.8.3
+
+Establecer
+estrategias
+y
+acciones
+conjuntas desarrolladas por la Institución
+mediante
+la
+inserción
+con
+las
+comunidades nacionales y extranjeras,
+que benefician el desempeño de sus
+actores
+en
+un
+contexto
+global.
+Adicionalmente, en concordancia con su
+naturaleza como institución tecnológica, la
+productividad
+académica
+de
+los
+profesores debe estar relacionada, con el
+desarrollo tecnológico y la innovación para
+la solución de problemas de su entorno.
+
+Investigar en el Instituto
+
+El propósito de este eje es consolidar la cultura de la investigación conducente tanto a la
+generación, apropiación, circulación y transferencia de conocimiento como al
+emprendimiento e innovación, con impacto en la sociedad local, regional, nacional e
+internacional, mediante el estímulo al fortalecimiento de grupos de investigación, semilleros,
+grupos de estudio y el espacio para el debate científico e intelectual. En consecuencia, se
+han definido las siguientes líneas estratégicas:
+LÍNEA ESTRATÉGICA
+
+Línea Estratégica
+Investigación
+
+9:
+
+Línea Estratégica 10:
+investigación formativa
+
+Gestión
+
+OBJETIVO
+
+de
+
+Desarrollar
+
+la
+
+la
+
+Conformación,
+fortalecimiento
+y
+consolidación de grupos de investigación
+reconocidos en el ámbito nacional los
+cuales lideran la circulación y divulgación
+científica institucional acordes con las
+normas de propiedad intelectual y una
+apuesta por el desarrollo humano
+sostenible.
+Formar en investigación a los estudiantes,
+profesores, graduados y administrativos a
+través de semilleros de investigación,
+grupos de estudio, programas de
+cualificación que conduzcan a los mismos
+a observar, cuestionarse, experimentar,
+asociarse, trabajar en equipo y dar
+
+56
+
+mejoramiento continuo a procesos o
+productos para la solución de problemas,
+necesidades
+y
+expectativas
+que
+demandan los sectores productivos y de
+servicios en el ámbito institucional, local,
+regional y global.
+
+Línea
+Estratégica
+11:
+Producción
+académica, científica y tecnológica
+
+4.1.8.4
+
+Formular, orientar, dirigir, coordinar,
+ejecutar
+e
+implementar
+actividades,
+proyectos
+y
+programas de investigación y
+extensión interdisciplinarios de
+acción
+estratégica
+para
+el
+desarrollo institucional local y
+regional,
+en
+convenio
+con
+entidades públicas y privadas del
+territorio.
+
+Bienestar en la comunidad educativa
+
+El objetivo de este eje es promover la corresponsabilidad para el pleno desarrollo de las
+capacidades humanas de los actores que conviven en el contexto de la vida institucional
+para favorecer la formación integral y la construcción de comunidad a partir del enfoque del
+desarrollo humano abordando dimensiones complementarias a las académicas las cuales
+descansan en el sistema de bienestar institucional; en este sentido, el bienestar propende
+por la educación con un enfoque de derechos con elementos para su garantía como la
+asequibilidad, accesibilidad, aceptabilidad y adaptabilidad. Conforme lo anterior, se han
+definido las siguientes líneas estratégicas:
+LÍNEA ESTRATÉGICA
+
+OBJETIVO
+
+Línea Estratégica 12: Salud integral
+
+Propender por la salud integral de la
+comunidad institucional con la atención de
+emergencias, la previsión, la prevención y
+asistencia.
+
+Línea Estratégica 13: Actividad Física
+
+Generar espacios de recreación y fomento
+de la práctica del deporte en lo recreativo,
+lo formativo y lo representativo para el
+fomento de valores como la amistad, el
+
+57
+
+juego limpio, el trabajo en equipo,
+disciplina,
+respeto,
+liderazgo
+y
+autocuidado y habilidades para el
+desarrollo de relaciones interpersonales
+adecuadas.
+
+Línea
+Estratégica
+Educativa
+
+14:
+
+Orientación
+
+Acompañar a los estudiantes en su
+proceso de formación, mediante el
+desarrollo de estrategias que le permitan
+un desempeño académico óptimo y el
+logro de un aprendizaje significativo. De
+igual manera, aporta la apropiación de
+conocimiento
+a
+profesores
+y
+administrativos articulándose con los
+planes de capacitación.
+
+Línea Estratégica 15: Habilidades para la
+vida
+
+Diseñar e implementar estrategias
+orientadas a promover habilidades y
+competencias relacionadas con el
+autoconocimiento, el establecimiento de
+relaciones interpersonales, comunicación
+asertiva y liderazgo. Así mismo desde
+esta dimensión, se busca contribuir al
+desarrollo del pensamiento crítico y
+capacidad de reflexión.
+
+Línea Estratégica 16: Permanencia
+
+Optimizar la calidad de vida de los
+estudiantes durante su proceso de
+formación a través de la implementación
+de acciones de acompañamiento definidas
+en la política de permanencia y graduación
+vigente así como desarrollar acciones de
+acompañamiento que aporten al bienestar
+integral de profesores y funcionarios a
+través del programa de bienestar
+sociolaboral.
+
+Línea Estratégica 17: Artes y cultura
+
+Propender por el fomento de aptitudes
+artísticas y culturales en los estudiantes,
+profesores, administrativos y graduados,
+mediante un conjunto de actividades que
+
+58
+
+se desarrollan las áreas formativas,
+recreativas y representativas.
+
+Línea
+Estratégica
+socioeconómica
+
+4.1.8.5
+
+18:
+
+Promoción
+
+Promover el mejoramiento de la calidad de
+vida de estudiantes, profesores y
+administrativos
+mediante
+estrategias
+socioformativas, subsidios, alianzas y
+convenios
+interadministrativos,
+entre
+otros.
+
+Gobernanza y Sostenibilidad Financiera
+
+Este eje tiene como objetivo incentivar a la comunidad Iserista en el fortalecimiento de la
+capacidad institucional, que le permitan al ISER desarrollar su misión y visión mediante
+buenas prácticas del buen gobierno, la gestión de la calidad y la sostenibilidad financiera
+permitiendo fortalecer la confianza ciudadana y la legitimidad. Se definen las siguientes
+líneas estratégicas para la ejecución de este eje estratégico:
+LÍNEA ESTRATÉGICA
+
+OBJETIVO
+
+Línea Estratégica 19: Gestión del
+desempeño institucional
+
+Fortalecer
+la
+gestión
+institucional
+generando valor público mediante la
+satisfacción de las necesidades y
+expectativas de los grupos de valor e
+interés
+promoviendo
+el
+desarrollo
+sostenible y la interacción entre procesos
+bajos los principios de transparencia y
+buen gobierno, ejerciendo el control en las
+actividades realizadas por la institución.
+
+Línea Estratégica 20: Estrategia de
+comunicación y posicionamiento
+institucional
+
+Establecer las dinámicas de difusión sobre
+el ser y el quehacer institucional mediante
+acciones de comunicación tendientes al
+posicionamiento de la imagen y
+fortalecimiento
+de
+la
+identidad
+institucional.
+
+4.1.8.6
+
+Desarrollo de la infraestructura física, tecnológica y medios educativos
+
+59
+
+El propósito de este eje es dar soporte a los procesos misionales gestionando
+adecuadamente los recursos físicos, tecnológicos y los medios educativos conforme a las
+necesidades institucionales y de programa:
+LÍNEA ESTRATÉGICA
+
+OBJETIVO
+
+Línea Estratégica 21: Infraestructura
+Física
+
+Garantizar
+la
+infraestructura
+física
+suficiente para el desarrollo de las
+funciones académicas y administrativas de
+los programas académicos y en general de
+la institución y realizar seguimiento a su
+cumplimiento.
+
+Línea Estratégica 22: Infraestructura
+Tecnológica
+
+Garantizar la disponibilidad, acceso, uso y
+capacitación
+de
+la
+infraestructura
+tecnológica con el propósito de atender los
+requerimientos de las labores misionales y
+demás actividades institucionales y
+realizar seguimiento a su cumplimiento.
+
+Línea Estratégica 23: Medios Educativos
+
+Garantizar la disponibilidad, acceso, uso y
+capacitación de los ambientes físicos y/o
+virtuales de aprendizaje que incorporan
+equipos,
+mobiliario,
+plataformas
+tecnológicas, sistemas informáticos o los
+que hagan sus veces, recursos
+bibliográficos físicos y digitales, bases de
+datos, recursos de aprendizaje e
+información, entre otros, que atiendan las
+labores misionales e institucionales y
+realizar seguimiento a su cumplimiento.
+
+60
+
+61
+
+4.1.9
+
+EJE ESTRATÉGICO
+
+LÍNEA
+ESTRATÉGICA
+
+PROGRAMA
+
+Programa 1:
+Cultura de la
+autoevaluación y
+registros calificados
+
+EJE ESTRATÉGICO
+1: FORMACIÓN
+RURAL PARA EL
+DESARROLLO
+HUMANO
+
+Línea Estratégica
+1: Fortalecimiento
+del Sistema Interno
+de Aseguramiento
+de la Calidad
+
+Programa 2:
+Acreditación en
+Alta Calidad
+
+CUADRO DE MANDO INTEGRAL
+
+LÍNEA
+BASE
+
+INDICADOR
+
+METAS
+2025
+
+2026
+
+2027
+
+2028
+
+2029
+
+2030
+
+2031
+
+2032
+
+2033
+
+2034
+
+Programas
+autoevaluados
+
+6
+
+3
+
+4
+
+6
+
+3
+
+6
+
+4
+
+3
+
+6
+
+4
+
+3
+
+Autoevaluación
+institucional
+desarrollada
+
+2
+
+0
+
+2
+
+0
+
+2
+
+0
+
+2
+
+0
+
+0
+
+2
+
+0
+
+Registros
+calificados
+renovados
+
+2
+
+0
+
+0
+
+1
+
+0
+
+4
+
+3
+
+4
+
+0
+
+4
+
+0
+
+Programas
+con
+concepto favorable
+de
+condiciones
+iniciales
+de
+acreditación por el
+CNA
+
+1
+
+3
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Programas
+con
+autoevaluación con
+fines
+de
+acreditación
+
+0
+
+1
+
+3
+
+1
+
+3
+
+1
+
+3
+
+1
+
+3
+
+1
+
+3
+
+Programas
+acreditados en alta
+calidad
+
+0
+
+0
+
+1
+
+3
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Condiciones
+iniciales
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+de
+
+RESPONSABLES
+Programas
+académicos
+Gestión
+de
+Aseguramiento
+Interno
+de
+la
+Calidad
+Gestión
+de
+Aseguramiento
+Interno
+de
+la
+Calidad - Procesos
+institucionales
+Programas
+académicos
+Gestión
+de
+Aseguramiento
+Interno
+de
+la
+Calidad
+Programas
+académicos
+Gestión
+de
+Aseguramiento
+Interno
+de
+la
+Calidad
+Programas
+académicos
+Gestión
+de
+Aseguramiento
+Interno
+de
+la
+Calidad
+Programas
+académicos
+Gestión
+de
+Aseguramiento
+Interno
+de
+la
+Calidad
+Gestión
+de
+Aseguramiento
+Interno
+de
+la
+
+62
+
+acreditación
+institucional
+
+Programa 3:
+Seguimiento y
+evaluación
+continua del SIAC
+
+Autoevaluación
+institucional
+con
+fines
+de
+acreditación
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+0
+
+Acreditación
+institucional en alta
+calidad
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+Valor agregado de
+los
+programas
+académicos
+
+3
+
+4
+
+5
+
+5
+
+3
+
+5
+
+6
+
+5
+
+3
+
+5
+
+3
+
+Línea Estratégica
+2: Regionalización
+
+Proceso
+Formación
+
+de
+
+Programas
+académicos
+Gestión
+Aseguramiento
+Interno
+de
+Calidad
+Programas
+académicos
+Gestión
+Aseguramiento
+Interno
+de
+Calidad
+Proceso
+Gestión
+Recursos
+Financieros
+
+Promedio
+de
+ejecución de planes
+de
+mejoramiento
+institucional
+
+50%
+
+Promedio
+de
+ejecución de los
+planes
+de
+mejoramiento
+de
+los
+programas
+académicos
+
+50%
+
+Costeo semestral
+de los programas
+académicos
+
+0
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+92%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+Proceso
+Formación
+
+de
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Proceso
+Formación
+
+de
+
+Porcentaje
+programas
+resultados
+aprendizaje
+evaluados
+Programa 4:
+Articulación de la
+educación media
+con la superior y
+con la formación
+para el trabajo EMEF
+
+Calidad - Procesos
+institucionales
+Gestión
+de
+Aseguramiento
+Interno
+de
+la
+Calidad - Procesos
+institucionales
+Gestión
+de
+Aseguramiento
+Interno
+de
+la
+Calidad - Procesos
+institucionales
+
+de
+con
+de
+
+Esquema
+de
+movilidad
+de
+educativa
+y
+formativa adoptado
+institucionalmente
+
+70%
+
+70%
+
+80%
+
+80%
+
+90%
+
+90%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+de
+la
+de
+la
+de
+de
+
+63
+
+Programa 5:
+Ampliación de la
+oferta educativa
+Línea Estratégica
+3: Capacitación
+profesoral
+
+Programa 6:
+Capacitación
+profesoral
+
+Línea Estratégica
+4: Actualización y
+modernización
+curricular
+
+Programa 7:
+Actualización y
+modernización
+curricular
+
+Programa 8:
+Prácticas
+académicas y
+profesionales
+
+EJE ESTRATÉGICO
+2: APOSTANDO POR
+LA EXTENSIÓN
+
+Línea Estratégica
+5: Extensión
+Académica
+
+Programa 9:
+Educación
+continuada
+
+Línea Estratégica
+6: Extensión Social
+
+Programa 10:
+Proyectos
+solidarios
+
+Sectores
+económicos
+atendidos
+con
+oferta institucional
+Porcentaje
+de
+ejecución del plan
+capacitación
+profesoral
+Porcentaje
+de
+programas
+académicos
+con
+sistemas
+de
+clasificación
+internacional
+y
+nacional integrados
+Evaluación de los
+lineamientos
+curriculares
+anualmente
+Herramienta para la
+medición
+de
+impactos de las
+prácticas
+académicas,
+prácticas
+profesionales
+y
+salidas académicas
+Porcentaje
+de
+programas
+que
+realizan medición
+de impacto a las
+actividades
+de
+prácticas
+Portafolio
+de
+servicios
+de
+educación
+continuada
+Porcentaje
+de
+programas
+con
+oferta de educación
+continuada
+Herramienta para la
+medición
+de
+impactos de los
+proyectos solidarios
+
+5
+
+5
+
+6
+
+7
+
+8
+
+8
+
+8
+
+8
+
+8
+
+8
+
+8
+
+Proceso
+Formación
+
+de
+
+35,8%
+
+80%
+
+80%
+
+80%
+
+80%
+
+80%
+
+80%
+
+80%
+
+80%
+
+80%
+
+80%
+
+Proceso
+Formación
+
+de
+
+92%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+Proceso
+Formación
+
+de
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Proceso
+Formación
+
+de
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Proceso
+Extensión
+Programas
+Académicos
+
+de
+-
+
+0%
+
+50%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+Proceso
+Extensión
+Programas
+Académicos
+
+de
+-
+
+0
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+de
+-
+
+58%
+
+61%
+
+64%
+
+67%
+
+70%
+
+73%
+
+76%
+
+79%
+
+82%
+
+85%
+
+88%
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Proceso
+Extensión
+Programas
+Académicos
+Proceso
+Extensión
+Programas
+Académicos
+Proceso
+Extensión
+Programas
+Académicos
+
+de
+de
+-
+
+64
+
+Línea Estratégica
+7: Graduados
+
+Programa 11: Plan
+institucional de
+graduados
+
+Línea Estratégica
+8:
+Internacionalización
+
+Programa 12: Plan
+estratégico de
+internacionalización
+
+Línea Estratégica
+9: Gestión de la
+Investigación
+
+Programa 13:
+Fortalecimiento y
+consolidación
+Grupos de
+Investigación
+
+EJE ESTRATÉGICO
+3: INVESTIGAR EN
+EL INSTITUTO
+
+Línea Estratégica
+10: Desarrollar la
+investigación
+formativa
+
+Programa 14:
+Fortalecimiento de
+la investigación
+formativa
+
+Porcentaje
+de
+proyectos solidarios
+con
+impactos
+pertinentes en el
+sector externo
+
+0%
+
+5%
+
+10%
+
+15%
+
+20%
+
+25%
+
+30%
+
+35%
+
+40%
+
+45%
+
+50%
+
+Proceso
+Extensión
+Programas
+Académicos
+
+de
+-
+
+Porcentaje
+de
+proyectos solidarios
+que
+vinculan
+estudiantes
+de
+trabajo social
+
+28%
+
+31%
+
+34%
+
+37%
+
+40%
+
+43%
+
+46%
+
+49%
+
+52%
+
+55%
+
+58%
+
+Proceso
+Extensión
+Programas
+Académicos
+
+de
+-
+
+Porcentaje
+de
+ejecución del plan
+institucional
+de
+graduados
+
+0%
+
+50%
+
+53%
+
+56%
+
+59%
+
+62%
+
+65%
+
+68%
+
+71%
+
+74%
+
+77%
+
+Proceso
+Extensión
+Programas
+Académicos
+
+de
+-
+
+65%
+
+80%
+
+83%
+
+86%
+
+89%
+
+92%
+
+95%
+
+98%
+
+100%
+
+100%
+
+100%
+
+Proceso
+Extensión
+Programas
+Académicos
+
+de
+-
+
+2
+
+2
+
+0
+
+0
+
+2
+
+0
+
+0
+
+2
+
+0
+
+0
+
+2
+
+Proceso
+Investigación
+Programas
+Académicos
+
+de
+-
+
+1
+
+3
+
+0
+
+0
+
+5
+
+0
+
+0
+
+7
+
+0
+
+0
+
+9
+
+Proceso
+Investigación
+Programas
+Académicos
+
+de
+-
+
+218
+
+300
+
+350
+
+400
+
+450
+
+500
+
+550
+
+600
+
+650
+
+700
+
+750
+
+Proceso
+Investigación
+Programas
+Académicos
+
+de
+-
+
+Porcentaje
+de
+ejecución del plan
+estratégico
+de
+internacionalización
+Grupos
+de
+Investigación
+categorizados por
+el Sistema Nacional
+de
+Ciencia,
+Tecnología
+e
+Innovación
+Investigadores
+categorizados por
+el Sistema Nacional
+de
+Ciencia,
+Tecnología
+e
+Innovación
+Número
+de
+miembros de la
+comunidad
+académica
+(estudiantes,
+administrativos,
+profesores
+y
+graduados)
+cualificados
+en
+temáticas
+de
+investigación
+
+65
+
+Línea Estratégica
+11: Producción
+académica,
+científica y
+tecnológica
+
+Programa 15:
+Fortalecimiento de
+la producción
+científica
+institucional
+
+Línea Estratégica
+12: Salud integral
+
+Programa 16:
+Salud integral
+ISERISTA
+
+Línea Estratégica
+13: Actividad Física
+
+Programa 17:
+Actividad Física
+ISERISTA
+
+EJE ESTRATÉGICO
+4: BIENESTAR EN
+LA COMUNIDAD
+EDUCATIVA
+
+Productos
+resultados
+de
+actividades
+de
+Generación
+de
+Nuevo
+Conocimiento
+Productos
+resultados
+de
+actividades
+de
+Desarrollo
+Tecnológico
+e
+Innovación
+Productos
+resultados
+de
+actividades
+de
+Apropiación Social
+del Conocimiento
+Productos
+resultados
+de
+actividades
+de
+Divulgación Pública
+de la Ciencia
+Productos
+de
+actividades
+relacionadas con la
+Formación
+de
+Recurso Humano
+en CTeI
+Porcentaje
+de
+personas
+impactadas
+en
+relación con la
+comunidad
+educativa
+(estudiantes,
+profesores,
+administrativos)
+Porcentaje
+de
+miembros de la
+comunidad
+(estudiantes,
+profesores,
+administrativos)
+que participan en
+actividades
+formativas,
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+Proceso
+Investigación
+Programas
+Académicos
+
+de
+-
+
+5
+
+7
+
+9
+
+11
+
+13
+
+15
+
+17
+
+19
+
+21
+
+23
+
+25
+
+Proceso
+Investigación
+Programas
+Académicos
+
+de
+-
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+Proceso
+Investigación
+Programas
+Académicos
+
+de
+-
+
+0
+
+5
+
+7
+
+9
+
+11
+
+13
+
+15
+
+17
+
+19
+
+21
+
+23
+
+Proceso
+Investigación
+Programas
+Académicos
+
+de
+-
+
+4
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+Proceso
+Investigación
+Programas
+Académicos
+
+de
+-
+
+0%
+
+50%
+
+55%
+
+60%
+
+65%
+
+70%
+
+75%
+
+80%
+
+80%
+
+80%
+
+80%
+
+Proceso
+Bienestar
+Institucional
+
+de
+
+6%
+
+6%
+
+11%
+
+16%
+
+21%
+
+26%
+
+31%
+
+36%
+
+41%
+
+46%
+
+51%
+
+Proceso
+Bienestar
+Institucional
+
+de
+
+66
+
+recreativas
+representativas
+
+Línea Estratégica
+14: Orientación
+Educativa
+
+Programa 18:
+Estrategias de
+Orientación
+Educativa
+
+Línea Estratégica
+15: Habilidades
+para la vida
+
+Programa 19:
+Desarrollo humano
+
+Línea Estratégica
+16: Permanencia
+
+Programa 20:
+Permanencia
+
+Porcentaje
+de
+estudiantes
+acceden
+al
+programa
+de
+orientación
+educativa
+en
+relación
+con
+quienes
+lo
+requieren
+Porcentaje
+de
+ejecución
+del
+programa
+de
+desarrollo humano
+Porcentaje
+de
+ejecución de la
+política
+de
+permanencia
+Tasa de deserción
+anual
+Porcentaje
+ejecución
+programa
+bienestar
+sociolaboral
+
+Línea Estratégica
+17: Artes y cultura
+
+Programa 21: Artes
+y cultura ISERISTA
+
+y
+
+de
+del
+de
+
+Porcentaje
+de
+miembros de la
+comunidad
+(estudiantes,
+profesores,
+administrativos)
+que participan en
+actividades
+formativas,
+recreativas
+y
+representativas
+
+0%
+
+50%
+
+55%
+
+60%
+
+65%
+
+70%
+
+75%
+
+80%
+
+80%
+
+80%
+
+80%
+
+Proceso
+Bienestar
+Institucional
+
+de
+
+75%
+
+80%
+
+85%
+
+90%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+Proceso
+Bienestar
+Institucional
+
+de
+
+0%
+
+50%
+
+52%
+
+54%
+
+56%
+
+58%
+
+60%
+
+62%
+
+64%
+
+66%
+
+68%
+
+Procesos
+Institucionales
+
+21,65%
+
+21,15%
+
+20,65%
+
+20,15%
+
+19,65%
+
+19,15%
+
+18,65%
+
+18,15%
+
+17,65%
+
+17,15%
+
+16,65%
+
+Proceso
+Bienestar
+Institucional
+
+de
+
+0%
+
+50%
+
+55%
+
+60%
+
+65%
+
+70%
+
+75%
+
+80%
+
+80%
+
+80%
+
+80%
+
+Proceso
+de
+Bienestar
+Institucional
+Gestión del Talento
+Humano
+Seguridad y Salud
+en el Trabajo
+
+6%
+
+6%
+
+11%
+
+16%
+
+21%
+
+26%
+
+31%
+
+36%
+
+41%
+
+46%
+
+51%
+
+Proceso
+Bienestar
+Institucional
+
+de
+
+67
+
+Línea Estratégica
+18: Promoción
+socioeconómica
+
+Programa 22:
+Promoción
+socioeconómica
+
+Programa 23:
+Mejoramiento del
+desempeño
+institucional
+
+EJE ESTRATÉGICO
+5: GOBERNANZA Y
+SOSTENIBILIDAD
+FINANCIERA
+
+Línea Estratégica
+19: Gestión del
+desempeño
+institucional
+
+Programa 24:
+Rediseño
+organizacional
+
+Programa 25:
+Cambio de carácter
+institucional
+
+Línea Estratégica
+20: Estrategia de
+comunicación y
+posicionamiento
+institucional
+
+Porcentaje
+de
+miembros de la
+comunidad
+(estudiantes,
+administrativos
+y
+profesores)
+que
+acceden
+al
+programa
+de
+apoyos
+socioeconómicos
+en relación con
+quienes
+lo
+requieren
+Resultados de la
+medición del Índice
+de
+Desempeño
+Institucional
+Resultados de la
+medición
+del
+Modelo
+Estándar
+de Control Interno
+Porcentaje
+de
+avance
+en
+el
+Rediseño de la
+Estructura
+Organizacional
+Porcentaje
+de
+avance
+en
+el
+diagnóstico de las
+condiciones para el
+cambio de carácter
+a
+Institución
+universitaria
+
+Programa 26:
+Unidad de
+negocios UNIRURAL
+
+Unidad de negocios
+creada
+y
+en
+funcionamiento
+
+Programa 27:
+Comunicación y
+posicionamiento
+institucional
+
+Nivel
+de
+reconocimiento de
+la
+identidad
+institucional en el
+ámbito interno y
+externo
+
+10%
+
+15%
+
+20%
+
+25%
+
+30%
+
+35%
+
+40%
+
+45%
+
+50%
+
+55%
+
+60%
+
+Proceso
+Bienestar
+Institucional
+
+de
+
+67,9
+
+70,9
+
+73,9
+
+76,9
+
+79,9
+
+82,9
+
+85,9
+
+88,9
+
+91,9
+
+94,9
+
+97,9
+
+Procesos
+Institucionales
+
+72,2
+
+74,2
+
+76,2
+
+78,2
+
+80,2
+
+82,2
+
+84,2
+
+86,2
+
+88,2
+
+90,2
+
+92,2
+
+Procesos
+Institucionales
+
+30%
+
+70%
+
+100%
+
+0%
+
+0%
+
+0%
+
+0%
+
+0%
+
+0%
+
+0%
+
+0%
+
+Rectoría,
+Secretaría General
+
+0%
+
+40%
+
+80%
+
+100%
+
+0%
+
+0%
+
+0%
+
+0%
+
+0%
+
+0%
+
+0%
+
+Rectoría,
+Secretaría
+General,
+Vicerrectoría
+Académica,
+Procesos
+Institucionales
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Rectoría
+
+0%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+100%
+
+100%
+
+Gestión
+de
+la
+Comunicación
+y
+Relaciones
+Públicas - Gestión
+de Mercadeo
+
+68
+
+Línea Estratégica
+21: Infraestructura
+Física
+
+Programa 28:
+Infraestructura
+Física Sostenible
+
+Programa 29:
+Seguridad de la
+información
+
+EJE ESTRATÉGICO
+6: DESARROLLO DE
+LA
+INFRAESTRUCTURA
+FÍSICA,
+TECNOLÓGICA Y
+MEDIOS
+EDUCATIVOS
+
+Programa 30:
+Conectividad e
+internet
+Línea Estratégica
+22: Infraestructura
+Tecnológica
+
+Programa 31:
+Desarrollo de la
+infraestructura
+tecnológica
+
+Porcentaje
+de
+incremento en el
+alcance de las
+publicaciones
+institucionales
+Porcentaje
+de
+ejecución de la
+política
+de
+actualización
+y
+renovación de la
+infraestructura
+física
+Porcentaje
+de
+implementación de
+lineamientos para
+la seguridad de la
+información
+institucional
+NTC
+ISO 27001
+Porcentaje
+de
+implementación del
+sistema único de
+control de acceso a
+internet mediante
+herramientas TI.
+Porcentaje
+de
+cobertura
+con
+conexión a internet
+del
+campus
+institucional y los
+Centros tutoriales.
+Porcentaje
+de
+Implementación del
+sistema
+de
+información
+institucional
+articulado
+con
+todos los procesos.
+Porcentaje
+de
+Renovación
+y
+adecuación
+del
+datacenter
+institucional
+Porcentaje
+de
+implementación de
+un firewall a nivel de
+hardware
+y
+
+5%
+
+15%
+
+25%
+
+35%
+
+45%
+
+55%
+
+65%
+
+75%
+
+85%
+
+95%
+
+100%
+
+Gestión
+de
+la
+Comunicación
+y
+Relaciones
+Públicas - Gestión
+de Mercadeo
+
+0%
+
+20%
+
+35%
+
+50%
+
+65%
+
+80%
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+Direccionamiento
+Estratégico
+y
+Planeación,
+Programas
+Académicos
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+Gestión
+de
+Tecnologías de la
+Información
+y
+Comunicación
+
+0%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+Gestión
+de
+Tecnologías de la
+Información
+y
+Comunicación
+
+85%
+
+95%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+Gestión
+de
+Tecnologías de la
+Información
+y
+Comunicación
+
+50%
+
+75%
+
+85%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+Gestión
+de
+Tecnologías de la
+Información
+y
+Comunicación
+
+0%
+
+25%
+
+50%
+
+75%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+Gestión
+de
+Tecnologías de la
+Información
+y
+Comunicación
+
+0%
+
+25%
+
+50%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+Gestión
+de
+Tecnologías de la
+Información
+y
+Comunicación
+
+69
+
+software para la
+protección de los
+servicios TI.
+Porcentaje
+de
+avance institucional
+en la migración del
+protocolo IPV4 a
+IPV6
+Porcentaje
+implementación del
+sistema espejo en
+la nube para la
+gestión
+de
+la
+continuidad de los
+servicios
+informáticos.
+Programa 32:
+Dotaciones en
+tecnología
+
+Programa 33:
+Ambientes de
+aprendizaje
+Línea Estratégica
+23: Medios
+Educativos
+
+Programa 34: ISER
+hacia la virtualidad
+
+Porcentaje
+actualización
+renovación
+elementos
+tecnológicos
+
+de
+y
+de
+
+Porcentaje
+de
+actualización
+y
+renovación de los
+medios educativos
+Porcentaje de uso
+de
+medios
+educativos físicos y
+digitales
+Porcentaje
+de
+miembros de la
+comunidad iserista
+capacitados en el
+uso y acceso de los
+medios educativos
+físicos y digitales
+Política
+de
+la
+formación de las
+modalidades
+de
+oferta
+de
+programas
+Estructura
+de
+diseño y soporte de
+las modalidades
+
+0%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+Gestión
+de
+Tecnologías de la
+Información
+y
+Comunicación
+
+0%
+
+20%
+
+40%
+
+60%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+Gestión
+de
+Tecnologías de la
+Información
+y
+Comunicación
+Gestión
+de
+Tecnologías de la
+Información
+y
+Comunicación,
+Programas
+Académicos
+Gestión de Medios
+Educativos,
+Programas
+Académicos
+Gestión de Medios
+Educativos,
+Programas
+Académicos
+
+30%
+
+40%
+
+70%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+90%
+
+90%
+
+90%
+
+44%
+
+49%
+
+54%
+
+59%
+
+64%
+
+69%
+
+74%
+
+79%
+
+84%
+
+89%
+
+94%
+
+74%
+
+79%
+
+84%
+
+89%
+
+90%
+
+90%
+
+90%
+
+90%
+
+90%
+
+90%
+
+90%
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Proceso
+Formación
+
+de
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Proceso
+Formación
+
+de
+
+Gestión de Medios
+Educativos,
+Programas
+Académicos
+
+70
+
+Porcentaje
+ejecución de
+política
+
+de
+la
+
+0%
+
+0%
+
+50%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+100%
+
+Proceso
+Formación
+
+de
+
+71
+
+4.1.10 CONTRIBUCIÓN DEL PLAN DE DESARROLLO INSTITUCIONAL A LOS
+OBJETIVOS DE DESARROLLO SOSTENIBLE
+El Instituto Superior de Educación Rural – ISER, dentro de su Plan de Desarrollo
+Institucional con visión a 2034, le apuesta a contribuir tanto a las metas trazadas en los
+planes de los niveles nacional y departamental, como a la Agenda 2030, en la cual se
+plantean 17 Objetivos de Desarrollo Sostenible – ODS, cuyo fin es mejorar la calidad de
+vida de los ciudadanos, especialmente a las poblaciones más vulnerables a través de la
+implementación de diferentes estrategias que conduzcan a una transformación social.
+Dentro del ejercicio realizado se identificó, que el ISER, dentro de las estrategias contenidas
+en el Plan de Desarrollo Institucional, puede contribuir y articularse a los ODS de la siguiente
+manera:
+
+72
+
+73
+
+4.2 ESTRUCTURA FINANCIERA
+Para ejecutar las acciones propuestas dentro del Plan de Desarrollo Institucional 2025 –
+2034 “Hacia una sociedad rural y urbana, más justa, sostenible y equitativa”, se proyecta
+una inversión de ochenta mil cuatrocientos noventa y un millones cuatrocientos ochenta mil
+seiscientos sesenta y seis pesos ($80.491.480.666), distribuidos en los seis (6) ejes que
+fueron identificados, la cual es susceptible de ser financiada con Transferencias, recursos
+adicionales de la nación, estampilla departamental, rentas propias y otros recursos que
+puede recaudar la institución. La ejecución del plan de inversiones depende de la
+disponibilidad de recursos con que cuente la institución en cada vigencia fiscal:
+
+74
+
+CONCEPTO
+
+2025
+
+2026
+
+2027
+
+2028
+
+2029
+
+2030
+
+2031
+
+2032
+
+2033
+
+2034
+
+Plan de Desarrollo
+Institucional 2025-2034
+
+$6.168.294.138
+
+$6.640.831.786
+
+$6.923.997.693
+
+$7.277.636.914
+
+$7.700.135.129
+
+$8.147.983.237
+
+$8.622.702.231
+
+$9.125.904.365
+
+$9.659.298.627
+
+$10.224.696.545
+
+$80.491.480.666
+
+$606.856.498
+
+$598.707.888
+
+$632.470.361
+
+$668.258.583
+
+$706.194.098
+
+$746.405.744
+
+$789.030.088
+
+$834.211.894
+
+$882.104.607
+
+$932.870.884
+
+$7.397.110.644
+
+$121.856.498
+
+$127.007.888
+
+$132.468.361
+
+$138.256.463
+
+$144.391.851
+
+$150.895.362
+
+$157.789.083
+
+$165.096.428
+
+$172.842.214
+
+$181.052.747
+
+$1.491.656.895
+
+Programa 1: Cultura de
+la autoevaluación y
+registros calificados
+
+$45.856.498
+
+$48.607.888
+
+$51.524.361
+
+$54.615.823
+
+$57.892.772
+
+$61.366.339
+
+$65.048.319
+
+$68.951.218
+
+$73.088.291
+
+$77.473.589
+
+$604.425.097
+
+Programa 2:
+Acreditación en Alta
+Calidad
+
+$40.000.000
+
+$42.400.000
+
+$44.944.000
+
+$47.640.640
+
+$50.499.078
+
+$53.529.023
+
+$56.740.764
+
+$60.145.210
+
+$63.753.923
+
+$67.579.158
+
+$527.231.798
+
+Programa 3:
+Seguimiento y
+evaluación continua del
+SIAC
+
+$36.000.000
+
+$36.000.000
+
+$36.000.000
+
+$36.000.000
+
+$36.000.000
+
+$36.000.000
+
+$36.000.000
+
+$36.000.000
+
+$36.000.000
+
+$36.000.000
+
+$360.000.000
+
+Línea Estratégica 2:
+Regionalización
+
+$440.000.000
+
+$424.000.000
+
+$449.440.000
+
+$476.406.400
+
+$504.990.784
+
+$535.290.231
+
+$567.407.645
+
+$601.452.104
+
+$637.539.230
+
+$675.791.584
+
+$5.312.317.977
+
+Programa 4: Articulación
+de la educación media
+con la superior y con la
+formación para el
+trabajo - EMEF
+
+$40.000.000
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$40.000.000
+
+Programa 5: Ampliación
+de la oferta educativa
+
+$400.000.000
+
+$424.000.000
+
+$449.440.000
+
+$476.406.400
+
+$504.990.784
+
+$535.290.231
+
+$567.407.645
+
+$601.452.104
+
+$637.539.230
+
+$675.791.584
+
+$5.272.317.977
+
+Línea Estratégica 3:
+Capacitación
+profesoral
+
+$30.000.000
+
+$31.800.000
+
+$33.708.000
+
+$35.730.480
+
+$37.874.309
+
+$40.146.767
+
+$42.555.573
+
+$45.108.908
+
+$47.815.442
+
+$50.684.369
+
+$395.423.848
+
+Programa 6:
+Capacitación profesoral
+
+$30.000.000
+
+$31.800.000
+
+$33.708.000
+
+$35.730.480
+
+$37.874.309
+
+$40.146.767
+
+$42.555.573
+
+$45.108.908
+
+$47.815.442
+
+$50.684.369
+
+$395.423.848
+
+Línea Estratégica 4:
+Actualización y
+modernización
+curricular
+
+$15.000.000
+
+$15.900.000
+
+$16.854.000
+
+$17.865.240
+
+$18.937.154
+
+$20.073.384
+
+$21.277.787
+
+$22.554.454
+
+$23.907.721
+
+$25.342.184
+
+$197.711.924
+
+Programa 7:
+Actualización y
+modernización curricular
+
+$15.000.000
+
+$15.900.000
+
+$16.854.000
+
+$17.865.240
+
+$18.937.154
+
+$20.073.384
+
+$21.277.787
+
+$22.554.454
+
+$23.907.721
+
+$25.342.184
+
+$197.711.924
+
+EJE ESTRATÉGICO 2:
+APOSTANDO POR LA
+EXTENSIÓN
+
+$821.375.678
+
+$870.658.218
+
+$922.897.711
+
+$978.271.574
+
+$1.036.967.868
+
+$1.099.185.941
+
+$1.165.137.097
+
+$1.235.045.323
+
+$1.309.148.042
+
+$1.387.696.925
+
+$10.826.384.376
+
+EJE ESTRATÉGICO 1:
+FORMACIÓN RURAL
+PARA EL
+DESARROLLO
+HUMANO
+Línea Estratégica 1:
+Fortalecimiento del
+Sistema Interno de
+Aseguramiento de la
+Calidad
+
+Total 2025-2034
+
+Fuentes de
+Financiación
+
+Transferencias Recursos
+adicionales
+Nación Estampilla
+Departamental Rentas propias
+y otros
+
+75
+
+Línea Estratégica 5:
+Extensión Académica
+
+$300.108.162
+
+$318.114.652
+
+$337.201.531
+
+$357.433.623
+
+$378.879.640
+
+$401.612.419
+
+$425.709.164
+
+$451.251.714
+
+$478.326.817
+
+$507.026.426
+
+$3.955.664.147
+
+Programa 8: Prácticas
+académicas y
+profesionales
+
+$150.000.000
+
+$159.000.000
+
+$168.540.000
+
+$178.652.400
+
+$189.371.544
+
+$200.733.837
+
+$212.777.867
+
+$225.544.539
+
+$239.077.211
+
+$253.421.844
+
+$1.977.119.241
+
+Programa 9: Educación
+continuada
+
+$150.108.162
+
+$159.114.652
+
+$168.661.531
+
+$178.781.223
+
+$189.508.096
+
+$200.878.582
+
+$212.931.297
+
+$225.707.175
+
+$239.249.605
+
+$253.604.582
+
+$1.978.544.906
+
+Línea Estratégica 6:
+Extensión Social
+
+$302.188.545
+
+$320.319.857
+
+$339.539.049
+
+$359.911.392
+
+$381.506.075
+
+$404.396.440
+
+$428.660.226
+
+$454.379.840
+
+$481.642.630
+
+$510.541.188
+
+$3.983.085.241
+
+Programa 10: Proyectos
+solidarios
+
+$302.188.545
+
+$320.319.857
+
+$339.539.049
+
+$359.911.392
+
+$381.506.075
+
+$404.396.440
+
+$428.660.226
+
+$454.379.840
+
+$481.642.630
+
+$510.541.188
+
+$3.983.085.241
+
+Línea Estratégica 7:
+Graduados
+
+$119.078.971
+
+$126.223.709
+
+$133.797.131
+
+$141.824.959
+
+$150.334.457
+
+$159.354.524
+
+$168.915.796
+
+$179.050.744
+
+$189.793.788
+
+$201.181.415
+
+$1.569.555.495
+
+Programa 11: Plan
+institucional de
+graduados
+
+$119.078.971
+
+$126.223.709
+
+$133.797.131
+
+$141.824.959
+
+$150.334.457
+
+$159.354.524
+
+$168.915.796
+
+$179.050.744
+
+$189.793.788
+
+$201.181.415
+
+$1.569.555.495
+
+Línea Estratégica 8:
+Internacionalización
+
+$100.000.000
+
+$106.000.000
+
+$112.360.000
+
+$119.101.600
+
+$126.247.696
+
+$133.822.558
+
+$141.851.911
+
+$150.363.026
+
+$159.384.807
+
+$168.947.896
+
+$1.318.079.494
+
+Programa 12: Plan
+estratégico de
+internacionalización
+
+$100.000.000
+
+$106.000.000
+
+$112.360.000
+
+$119.101.600
+
+$126.247.696
+
+$133.822.558
+
+$141.851.911
+
+$150.363.026
+
+$159.384.807
+
+$168.947.896
+
+$1.318.079.494
+
+EJE ESTRATÉGICO 3:
+INVESTIGAR EN EL
+INSTITUTO
+
+$368.529.809
+
+$390.641.597
+
+$414.080.093
+
+$438.924.899
+
+$465.260.393
+
+$493.176.016
+
+$522.766.577
+
+$554.132.572
+
+$587.380.526
+
+$622.623.358
+
+$4.857.515.840
+
+Línea Estratégica 9:
+Gestión de la
+Investigación
+
+$13.568.000
+
+$14.382.080
+
+$15.245.005
+
+$16.159.705
+
+$17.129.287
+
+$18.157.045
+
+$19.246.467
+
+$20.401.255
+
+$21.625.331
+
+$22.922.851
+
+$178.837.026
+
+$13.568.000
+
+$14.382.080
+
+$15.245.005
+
+$16.159.705
+
+$17.129.287
+
+$18.157.045
+
+$19.246.467
+
+$20.401.255
+
+$21.625.331
+
+$22.922.851
+
+$178.837.026
+
+$44.874.309
+
+$47.566.767
+
+$50.420.773
+
+$53.446.020
+
+$56.652.781
+
+$60.051.948
+
+$63.655.065
+
+$67.474.369
+
+$71.522.831
+
+$75.814.201
+
+$591.479.062
+
+Programa 14:
+Fortalecimiento de la
+investigación formativa
+
+$44.874.309
+
+$47.566.767
+
+$50.420.773
+
+$53.446.020
+
+$56.652.781
+
+$60.051.948
+
+$63.655.065
+
+$67.474.369
+
+$71.522.831
+
+$75.814.201
+
+$591.479.062
+
+Línea Estratégica 11:
+Producción
+académica, científica y
+tecnológica
+
+$310.087.500
+
+$328.692.750
+
+$348.414.315
+
+$369.319.174
+
+$391.478.324
+
+$414.967.024
+
+$439.865.045
+
+$466.256.948
+
+$494.232.365
+
+$523.886.307
+
+$4.087.199.752
+
+Programa 13:
+Fortalecimiento y
+consolidación Grupos
+de Investigación
+Línea Estratégica 10:
+Desarrollar la
+investigación
+formativa
+
+76
+
+Programa 15:
+Fortalecimiento de la
+producción científica
+institucional
+EJE ESTRATÉGICO 4:
+BIENESTAR EN LA
+COMUNIDAD
+EDUCATIVA
+
+$310.087.500
+
+$328.692.750
+
+$348.414.315
+
+$369.319.174
+
+$391.478.324
+
+$414.967.024
+
+$439.865.045
+
+$466.256.948
+
+$494.232.365
+
+$523.886.307
+
+$4.087.199.752
+
+$640.045.455
+
+$678.448.182
+
+$719.155.073
+
+$762.304.377
+
+$808.042.640
+
+$856.525.198
+
+$907.916.710
+
+$962.391.713
+
+$1.020.135.215
+
+$1.081.343.328
+
+$8.436.307.890
+
+Línea Estratégica 12:
+Salud integral
+
+$90.300.000
+
+$95.718.000
+
+$101.461.080
+
+$107.548.745
+
+$114.001.669
+
+$120.841.770
+
+$128.092.276
+
+$135.777.812
+
+$143.924.481
+
+$152.559.950
+
+$1.190.225.783
+
+Programa 16: Salud
+integral ISERISTA
+
+$90.300.000
+
+$95.718.000
+
+$101.461.080
+
+$107.548.745
+
+$114.001.669
+
+$120.841.770
+
+$128.092.276
+
+$135.777.812
+
+$143.924.481
+
+$152.559.950
+
+$1.190.225.783
+
+Línea Estratégica 13:
+Actividad Física
+
+$61.172.727
+
+$64.843.091
+
+$68.733.676
+
+$72.857.697
+
+$77.229.159
+
+$81.862.908
+
+$86.774.683
+
+$91.981.164
+
+$97.500.034
+
+$103.350.036
+
+$806.305.174
+
+Programa 17: Actividad
+Física ISERISTA
+
+$61.172.727
+
+$64.843.091
+
+$68.733.676
+
+$72.857.697
+
+$77.229.159
+
+$81.862.908
+
+$86.774.683
+
+$91.981.164
+
+$97.500.034
+
+$103.350.036
+
+$806.305.174
+
+Línea Estratégica 14:
+Orientación Educativa
+
+$48.700.000
+
+$51.622.000
+
+$54.719.320
+
+$58.002.479
+
+$61.482.628
+
+$65.171.586
+
+$69.081.881
+
+$73.226.794
+
+$77.620.401
+
+$82.277.625
+
+$641.904.714
+
+Programa 18:
+Estrategias de
+Orientación Educativa
+
+$48.700.000
+
+$51.622.000
+
+$54.719.320
+
+$58.002.479
+
+$61.482.628
+
+$65.171.586
+
+$69.081.881
+
+$73.226.794
+
+$77.620.401
+
+$82.277.625
+
+$641.904.714
+
+Línea Estratégica 15:
+Habilidades para la
+vida
+
+$48.700.000
+
+$51.622.000
+
+$54.719.320
+
+$58.002.479
+
+$61.482.628
+
+$65.171.586
+
+$69.081.881
+
+$73.226.794
+
+$77.620.401
+
+$82.277.625
+
+$641.904.714
+
+Programa 19: Desarrollo
+humano
+
+$48.700.000
+
+$51.622.000
+
+$54.719.320
+
+$58.002.479
+
+$61.482.628
+
+$65.171.586
+
+$69.081.881
+
+$73.226.794
+
+$77.620.401
+
+$82.277.625
+
+$641.904.714
+
+Línea Estratégica 16:
+Permanencia
+
+$70.000.000
+
+$74.200.000
+
+$78.652.000
+
+$83.371.120
+
+$88.373.387
+
+$93.675.790
+
+$99.296.338
+
+$105.254.118
+
+$111.569.365
+
+$118.263.527
+
+$922.655.646
+
+Programa 20:
+Permanencia
+
+$70.000.000
+
+$74.200.000
+
+$78.652.000
+
+$83.371.120
+
+$88.373.387
+
+$93.675.790
+
+$99.296.338
+
+$105.254.118
+
+$111.569.365
+
+$118.263.527
+
+$922.655.646
+
+Línea Estratégica 17:
+Artes y cultura
+
+$61.172.727
+
+$64.843.091
+
+$68.733.676
+
+$72.857.697
+
+$77.229.159
+
+$81.862.908
+
+$86.774.683
+
+$91.981.164
+
+$97.500.034
+
+$103.350.036
+
+$806.305.174
+
+Programa 21: Artes y
+cultura ISERISTA
+
+$61.172.727
+
+$64.843.091
+
+$68.733.676
+
+$72.857.697
+
+$77.229.159
+
+$81.862.908
+
+$86.774.683
+
+$91.981.164
+
+$97.500.034
+
+$103.350.036
+
+$806.305.174
+
+Línea Estratégica 18:
+Promoción
+socioeconómica
+
+$260.000.000
+
+$275.600.000
+
+$292.136.000
+
+$309.664.160
+
+$328.244.010
+
+$347.938.650
+
+$368.814.969
+
+$390.943.867
+
+$414.400.499
+
+$439.264.529
+
+$3.427.006.685
+
+Programa 22:
+Promoción
+socioeconómica
+
+$260.000.000
+
+$275.600.000
+
+$292.136.000
+
+$309.664.160
+
+$328.244.010
+
+$347.938.650
+
+$368.814.969
+
+$390.943.867
+
+$414.400.499
+
+$439.264.529
+
+$3.427.006.685
+
+77
+
+EJE ESTRATÉGICO 5:
+GOBERNANZA Y
+SOSTENIBILIDAD
+FINANCIERA
+Línea Estratégica 19:
+Gestión del
+desempeño
+institucional
+
+$560.000.000
+
+$593.600.000
+
+$528.092.000
+
+$512.136.880
+
+$542.865.093
+
+$575.436.998
+
+$609.963.218
+
+$646.561.011
+
+$685.354.672
+
+$726.475.952
+
+$5.980.485.825
+
+$522.000.000
+
+$553.320.000
+
+$485.395.200
+
+$466.878.272
+
+$494.890.968
+
+$524.584.426
+
+$556.059.492
+
+$589.423.062
+
+$624.788.445
+
+$662.275.752
+
+$5.479.615.617
+
+Programa 23:
+Mejoramiento del
+desempeño institucional
+
+$350.000.000
+
+$371.000.000
+
+$393.260.000
+
+$416.855.600
+
+$441.866.936
+
+$468.378.952
+
+$496.481.689
+
+$526.270.591
+
+$557.846.826
+
+$591.317.636
+
+$4.613.278.230
+
+Programa 24: Rediseño
+organizacional
+
+$50.000.000
+
+$53.000.000
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$103.000.000
+
+Programa 25: Cambio
+de carácter institucional
+
+$80.000.000
+
+$84.800.000
+
+$44.944.000
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$0
+
+$209.744.000
+
+Programa 26: Unidad de
+negocios - UNIRURAL
+
+$42.000.000
+
+$44.520.000
+
+$47.191.200
+
+$50.022.672
+
+$53.024.032
+
+$56.205.474
+
+$59.577.803
+
+$63.152.471
+
+$66.941.619
+
+$70.958.116
+
+$553.593.388
+
+$38.000.000
+
+$40.280.000
+
+$42.696.800
+
+$45.258.608
+
+$47.974.124
+
+$50.852.572
+
+$53.903.726
+
+$57.137.950
+
+$60.566.227
+
+$64.200.200
+
+$500.870.208
+
+$38.000.000
+
+$40.280.000
+
+$42.696.800
+
+$45.258.608
+
+$47.974.124
+
+$50.852.572
+
+$53.903.726
+
+$57.137.950
+
+$60.566.227
+
+$64.200.200
+
+$500.870.208
+
+$3.171.486.699
+
+$3.508.775.901
+
+$3.707.302.455
+
+$3.917.740.602
+
+$4.140.805.038
+
+$4.377.253.340
+
+$4.627.888.541
+
+$4.893.561.853
+
+$5.175.175.564
+
+$5.473.686.098
+
+$42.993.676.090
+
+Línea Estratégica 21:
+Infraestructura Física
+
+$1.500.000.000
+
+$1.590.000.000
+
+$1.685.400.000
+
+$1.786.524.000
+
+$1.893.715.440
+
+$2.007.338.366
+
+$2.127.778.668
+
+$2.255.445.388
+
+$2.390.772.112
+
+$2.534.218.439
+
+$19.771.192.414
+
+Programa 28:
+Infraestructura Física
+Sostenible
+
+$1.500.000.000
+
+$1.590.000.000
+
+$1.685.400.000
+
+$1.786.524.000
+
+$1.893.715.440
+
+$2.007.338.366
+
+$2.127.778.668
+
+$2.255.445.388
+
+$2.390.772.112
+
+$2.534.218.439
+
+$19.771.192.414
+
+Línea Estratégica 22:
+Infraestructura
+Tecnológica
+
+$870.024.175
+
+$1.069.225.626
+
+$1.121.379.163
+
+$1.176.661.913
+
+$1.235.261.628
+
+$1.297.377.325
+
+$1.363.219.965
+
+$1.433.013.163
+
+$1.506.993.952
+
+$1.585.413.590
+
+$12.658.570.498
+
+Programa 29: Seguridad
+de la información
+
+$50.000.000
+
+$200.000.000
+
+$200.000.000
+
+$200.000.000
+
+$200.000.000
+
+$200.000.000
+
+$200.000.000
+
+$200.000.000
+
+$200.000.000
+
+$200.000.000
+
+$1.850.000.000
+
+Programa 30:
+Conectividad e internet
+
+$100.000.000
+
+$106.000.000
+
+$112.360.000
+
+$119.101.600
+
+$126.247.696
+
+$133.822.558
+
+$141.851.911
+
+$150.363.026
+
+$159.384.807
+
+$168.947.896
+
+$1.318.079.494
+
+Programa 31: Desarrollo
+de la infraestructura
+tecnológica
+
+$290.024.175
+
+$307.425.626
+
+$325.871.163
+
+$345.423.433
+
+$366.148.839
+
+$388.117.769
+
+$411.404.835
+
+$436.089.125
+
+$462.254.473
+
+$489.989.741
+
+$3.822.749.179
+
+Línea Estratégica 20:
+Estrategia de
+comunicación y
+posicionamiento
+institucional
+Programa 27:
+Comunicación y
+posicionamiento
+institucional
+EJE ESTRATÉGICO 6:
+DESARROLLO DE LA
+INFRAESTRUCTURA
+FÍSICA,
+TECNOLÓGICA Y
+MEDIOS EDUCATIVOS
+
+78
+
+Programa 32:
+Dotaciones en
+tecnología
+
+$430.000.000
+
+$455.800.000
+
+$483.148.000
+
+$512.136.880
+
+$542.865.093
+
+$575.436.998
+
+$609.963.218
+
+$646.561.011
+
+$685.354.672
+
+$726.475.952
+
+$5.667.741.825
+
+Línea Estratégica 23:
+Medios Educativos
+
+$801.462.524
+
+$849.550.275
+
+$900.523.292
+
+$954.554.689
+
+$1.011.827.970
+
+$1.072.537.649
+
+$1.136.889.907
+
+$1.205.103.302
+
+$1.277.409.500
+
+$1.354.054.070
+
+$10.563.913.178
+
+Programa 33:
+Ambientes de
+aprendizaje
+
+$740.244.386
+
+$784.659.049
+
+$831.738.592
+
+$881.642.908
+
+$934.541.482
+
+$990.613.971
+
+$1.050.050.809
+
+$1.113.053.858
+
+$1.179.837.089
+
+$1.250.627.315
+
+$9.757.009.459
+
+Programa 34: ISER
+hacia la virtualidad
+
+$61.218.138
+
+$64.891.226
+
+$68.784.699
+
+$72.911.781
+
+$77.286.488
+
+$81.923.678
+
+$86.839.098
+
+$92.049.444
+
+$97.572.411
+
+$103.426.755
+
+$806.903.718
+
+79
+
+4.3 SEGUIMIENTO Y EVALUACIÓN
+La ejecución del Plan de Desarrollo Institucional con visión 2034, se realizará a través de
+los planes de acción que anualmente formulen los procesos institucionales, los cuales
+deben estar alineados con las políticas aprobadas, así como con los planes de trabajo de
+los programas académicos, planes de mejoramiento y demás planes que por normatividad
+deba adoptar e implementar la institución. El proceso de Direccionamiento Estratégico y
+Planeación definirá la metodología de elaboración de dichos planes y consolidará un Plan
+de Acción Institucional anual, el cual deberá ser publicado en la página web, conforme a los
+lineamientos establecidos en la normatividad vigente. Por otra parte, los programas
+académicos realizarán su planificación a través de los Proyectos Educativos de Programa
+– PEP.
+El seguimiento al Plan de Acción Institucional se realizará de manera cuatrimestral por parte
+del proceso de Direccionamiento Estratégico y Planeación y serán los líderes de proceso
+los responsables del cumplimiento de cada una de las acciones propuestas, que conlleven
+al logro de los objetivos institucionales. Producto del seguimiento cuatrimestral, se
+generarán los respectivos informes para facilitar la toma de acciones correctivas o de
+mejora.
+Anualmente se realizará la medición del Plan de Desarrollo Institucional y se generará el
+respectivo Informe de Gestión como base para la Rendición de Cuentas Institucional. El
+Rector del Instituto Superior de Educación Rural – ISER, informará al Consejo Directivo los
+avances frente al cumplimiento de las metas propuestas, en el momento en que se solicite
+por parte de cualquier consejero y semestralmente, como parte del desarrollo de su agenda
+estratégica.
+
+80
+
+
