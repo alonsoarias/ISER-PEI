@@ -37,7 +37,7 @@ Los primeros programas académicos fueron:
 
 Las actividades iniciaron en 1957 con estudiantes de origen rural provenientes de varias regiones del país.
 
-**Fuente:** PEI 2020, Sección 1.1 "Nuestra Travesía Histórica y su Contexto"
+**Fuente:** PEI 2020, Sección 1.1, pp. 4-10 "Nuestra Travesía Histórica y su Contexto", pp. 4-10
 
 ### El apoyo de la UNESCO y la consolidación (1957-1970)
 
@@ -51,7 +51,7 @@ En esta época, el Instituto desarrolló:
 - Coordinación del Curso Internacional de Capacitación de Profesores (Costa Rica)
 - Representación de Colombia en el Seminario Iberoamericano sobre Autogestión Estudiantil (Guayaquil, Ecuador)
 
-**Fuente:** PEI 2020, Sección 1.1
+**Fuente:** PEI 2020, Sección 1.1, pp. 4-10
 
 ### Décadas de crisis y transformación (1970-2000)
 
@@ -62,7 +62,7 @@ A pesar de las dificultades:
 - Con la **Ley 30 de 1992**, se generaron nuevas oportunidades de desarrollo
 - En 1994, se creó oferta de programas universitarios (Licenciaturas en modalidad a distancia)
 
-**Fuente:** PEI 2020, Sección 1.1
+**Fuente:** PEI 2020, Sección 1.1, pp. 4-10
 
 ### Vinculación departamental y renovación (2009-presente)
 
@@ -75,7 +75,7 @@ Logros recientes:
 - Presencia regional en Norte de Santander, Santander y la Costa Atlántica
 - Residencias estudiantiles con condiciones de bienestar y atención integral
 
-**Fuente:** PEI 2020, Sección 1.1
+**Fuente:** PEI 2020, Sección 1.1, pp. 4-10
 
 ---
 
@@ -95,7 +95,7 @@ e) **Criterios fundamentales:** Equidad, justicia, género, participación y sus
 
 El área geográfica de influencia comprende los departamentos de Norte de Santander, Santander, Bolívar, Arauca, Cesar y Magdalena, zonas donde el Instituto ha dejado una significativa huella desde su fundación.
 
-**Fuente:** PEI 2020, Sección 1.2 "Nuestra Identidad Rural"
+**Fuente:** PEI 2020, Sección 1.2 "Nuestra Identidad Rural", pp. 15-18
 
 ---
 
@@ -136,7 +136,7 @@ Modifica el artículo 2.5.1.2.2 del Decreto 1075 de 2015, estableciendo los requ
 
 > Desarrollar con calidad y pertinencia, procesos formativos, de extensión, investigación y bienestar que cualifiquen el talento humano y contribuyan tanto a la generación de cambios en su contexto de actuación como a la consolidación de una sociedad pacífica, justa, democrática e incluyente, atendiendo la propuesta del Desarrollo Humano.
 
-**Fuente:** PEI 2020, Sección 1.4.1
+**Fuente:** PEI 2020, Sección 1.4.1, p. 21
 
 ---
 
@@ -146,7 +146,7 @@ Modifica el artículo 2.5.1.2.2 del Decreto 1075 de 2015, estableciendo los requ
 
 **Nota:** La visión ha sido actualizada para reflejar el cambio de carácter institucional, pasando de "formación técnica y tecnológica" a "formación de educación superior" que incluye programas universitarios y de posgrado.
 
-**Fuente base:** PEI 2020, Sección 1.4.2 (con actualización para cambio de carácter)
+**Fuente base:** PEI 2020, Sección 1.4.2, p. 21 (con actualización para cambio de carácter)
 
 ---
 
@@ -176,7 +176,7 @@ Modifica el artículo 2.5.1.2.2 del Decreto 1075 de 2015, estableciendo los requ
 | **Respeto** | Reconocimiento, valoración y trato digno a todas las personas e instituciones sin importar su condición. |
 | **Diligencia** | Cumplimiento de deberes y responsabilidades con atención, prontitud, destreza y eficiencia. |
 
-**Fuente:** PEI 2020, Secciones 1.4.3 y 1.4.4
+**Fuente:** PEI 2020, Secciones 1.4.3 y 1.4.4, pp. 22-24
 
 ---
 
@@ -224,7 +224,7 @@ Música: Fernando Castro
 > por hacer un Colombia grandioso
 > que en sus campos labora el valiente.
 
-**Fuente:** PEI 2020, Sección 1.5.2
+**Fuente:** PEI 2020, Sección 1.5.2, pp. 25-27
 
 ---
 
@@ -250,7 +250,7 @@ Además de los objetivos establecidos en la Constitución Política de Colombia 
 
 9. Desarrollar políticas y prácticas organizacionales que den coherencia y unidad al funcionamiento institucional, garantizando un ambiente de trabajo respetuoso, digno y de reconocimiento.
 
-**Fuente:** PEI 2020, Sección 1.4.5 (adaptado para el nuevo carácter institucional)
+**Fuente:** PEI 2020, Sección 1.4.5, pp. 23-24 (adaptado para el nuevo carácter institucional)
 
 ---
 
@@ -258,15 +258,15 @@ Además de los objetivos establecidos en la Constitución Política de Colombia 
 
 | Sección | Fuente | Ubicación |
 |---------|--------|-----------|
-| 1.1 Naturaleza | PEI 2020 + Normatividad | Líneas 114-127 |
-| 1.2 Historia | pei_2020.txt | Líneas 102-299 |
-| 1.3 Identidad Rural | pei_2020.txt | Líneas 464-539 |
+| 1.1 Naturaleza | PEI 2020 + Normatividad | pp. 3-4 |
+| 1.2 Historia | PEI 2020 | pp. 4-10 |
+| 1.3 Identidad Rural | PEI 2020 | pp. 15-18 |
 | 1.4 Marco Normativo | Normatividad colombiana | Verificable en MEN |
-| 1.5 Misión | pei_2020.txt | Líneas 621-625 |
-| 1.6 Visión | pei_2020.txt | Líneas 626-629 (actualizada) |
-| 1.7 Principios y Valores | pei_2020.txt | Líneas 630-673 |
-| 1.8 Símbolos | pei_2020.txt | Líneas 725-794 |
-| 1.9 Objetivos | pei_2020.txt | Líneas 674-709 |
+| 1.5 Misión | PEI 2020 | p. 21 |
+| 1.6 Visión | PEI 2020 | p. 21 (actualizada) |
+| 1.7 Principios y Valores | PEI 2020 | pp. 22-24 |
+| 1.8 Símbolos | PEI 2020 | pp. 25-27 |
+| 1.9 Objetivos | PEI 2020 | pp. 23-24 |
 
 ---
 

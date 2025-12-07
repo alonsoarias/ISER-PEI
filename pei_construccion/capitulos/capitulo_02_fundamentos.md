@@ -18,7 +18,7 @@ La institución adopta el **enfoque de capacidades humanas** propuesto por Amart
 > "El aumento de la libertad mejora la capacidad de los individuos para ayudarse a sí mismos, así como para influir en el mundo, y estos temas son fundamentales para el proceso de desarrollo."
 > — Sen, A. (2015, p.35)
 
-**Fuente:** PEI 2020, Sección 2.1 "Pensando la Formación", líneas 812-851
+**Fuente:** PEI 2020, Sección 2.1 "Pensando la Formación", pp. 28-30
 
 ### 2.1.2 La Persona como Ser Multidimensional
 
@@ -34,7 +34,7 @@ La formación integral supone facilitar a la persona, a través de experiencias 
 
 Esto permite que la persona adquiera y apropie los referentes fundamentales que dan sentido a sus acciones, dentro de un proyecto de vida personal y social.
 
-**Fuente:** PEI 2020, Sección 2.1, líneas 872-885
+**Fuente:** PEI 2020, Sección 2.1, pp. 30-31
 
 ---
 
@@ -50,7 +50,7 @@ El Instituto reconoce que la humanidad ha entrado en un nuevo proceso civilizato
 
 Esto plantea la necesidad de preparar el talento humano atendiendo las nuevas perspectivas, para que las sociedades puedan aprovechar favorablemente las nuevas condiciones históricas.
 
-**Fuente:** PEI 2020, Sección 1.3 "Nuestra Identidad Epistemológica", líneas 543-557
+**Fuente:** PEI 2020, Sección 1.3 "Nuestra Identidad Epistemológica", pp. 18-19
 
 ### 2.2.2 El Marco Nacional de Cualificaciones
 
@@ -67,7 +67,7 @@ El **Marco Nacional de Cualificaciones (MNC)** constituye una herramienta estrat
 3. Facilita la movilidad educativa y laboral
 4. Permite la homologación de saberes y competencias
 
-**Fuente:** PEI 2020, Sección 1.3, líneas 574-616; Sección 2.1, líneas 967-1026
+**Fuente:** PEI 2020, Sección 1.3, pp. 19-21; Sección 2.1, pp. 33-36
 
 ### 2.2.3 Los Saberes Técnicos y Tecnológicos
 
@@ -79,7 +79,7 @@ Para el Instituto, los saberes técnicos y tecnológicos adquieren mayor enverga
 
 La institución mantiene una actitud abierta sobre la posibilidad de adelantar procesos que conduzcan a la vinculación de la formación profesional universitaria a su quehacer.
 
-**Fuente:** PEI 2020, Sección 1.3, líneas 586-616
+**Fuente:** PEI 2020, Sección 1.3, pp. 20-21
 
 ---
 
@@ -93,7 +93,7 @@ El ISER entiende la formación como:
 
 La persona se forma (se educa) no por un mero moldeamiento externo, sino que posee una fuerza interior que le posibilita su propio enriquecimiento para incrementar su condición humana.
 
-**Fuente:** PEI 2020, Sección 2.1, líneas 812-859
+**Fuente:** PEI 2020, Sección 2.1, pp. 28-30
 
 ### 2.3.2 Enfoque por Competencias
 
@@ -110,7 +110,7 @@ La competencia se entiende como un **"saber movilizar"**: lo que se sabe se reco
 - Saber Conocer (dimensión cognitiva)
 - Saber Estar (dimensión relacional y contextual)
 
-**Fuente:** PEI 2020, Sección 2.1, líneas 886-966
+**Fuente:** PEI 2020, Sección 2.1, pp. 31-33
 
 ### 2.3.3 Prácticas Formativas
 
@@ -122,7 +122,7 @@ Las prácticas formativas integran los conocimientos pedagógicos, didácticos, 
 - Construida desde problemáticas cotidianas y valores sociales
 - Enfocada hacia la priorización de necesidades del entorno
 
-**Fuente:** PEI 2020, Sección 2.1.1 "De las Prácticas Formativas", líneas 1135-1182
+**Fuente:** PEI 2020, Sección 2.1.1 "De las Prácticas Formativas", pp. 39-41
 
 ### 2.3.4 Prácticas de Aprendizaje
 
@@ -135,7 +135,7 @@ La propuesta educativa Iserista concibe el aprendizaje como un proceso gradual q
 
 La dialéctica entre el saber y la acción alimenta y ayuda a establecer una manera didáctica de construir el conocimiento.
 
-**Fuente:** PEI 2020, Sección 2.1.2 "De las Prácticas de Aprendizaje", líneas 1183-1236
+**Fuente:** PEI 2020, Sección 2.1.2 "De las Prácticas de Aprendizaje", pp. 41-43
 
 ---
 
@@ -155,7 +155,7 @@ El Pensamiento Pedagógico instaura las orientaciones sobre cuya base se reglame
 - La estructura y las relaciones entre el docente, los contenidos y los estudiantes
 - La función de los recursos didácticos a emplear
 
-**Fuente:** PEI 2020, Sección 2.1, líneas 1099-1121
+**Fuente:** PEI 2020, Sección 2.1, pp. 38-39
 
 ### 2.4.2 Enfoque Socio-Crítico
 
@@ -169,7 +169,7 @@ El ISER apuesta por un **Pensamiento Pedagógico de tendencia Socio-Crítico**, 
 
 4. Se centra en velar por la formación de un hombre libre y autónomo, a través del trabajo cooperativo
 
-**Fuente:** PEI 2020, Sección 2.1, líneas 1125-1134
+**Fuente:** PEI 2020, Sección 2.1, pp. 39
 
 ### 2.4.3 Principios Pedagógicos del Enfoque Socio-Crítico
 
@@ -219,7 +219,7 @@ Para la institución es claro que:
 
 4. Debe visibilizar su presencia en las comunidades rurales con una clara y fortalecida identidad institucional
 
-**Fuente:** PEI 2020, Sección 1.2 "Nuestra Identidad Rural", líneas 464-539
+**Fuente:** PEI 2020, Sección 1.2 "Nuestra Identidad Rural", pp. 15-18
 
 ### 2.5.2 Tres Campos de Acción
 
@@ -231,7 +231,7 @@ La acción institucional en el mundo rural implica:
 | **Propuesta formativa** | Adecuación y creación de una propuesta formativa que permita la formación del talento humano que la atención integral de las comunidades rurales requiere. |
 | **Programas y proyectos** | Realización de programas y proyectos que complementen la acción formativa, contribuyan a la formación de territorio y permitan la articulación con otros organismos presentes en los entornos rurales. |
 
-**Fuente:** PEI 2020, Sección 1.2, líneas 495-506
+**Fuente:** PEI 2020, Sección 1.2, pp. 16-17
 
 ### 2.5.3 Articulación con los Objetivos de Desarrollo Sostenible
 
@@ -287,12 +287,12 @@ La Política Institucional de Formación Multimodal se guía por los siguientes 
 
 | Sección | Fuente | Ubicación |
 |---------|--------|-----------|
-| 2.1 Fundamentos Filosóficos | pei_2020.txt | Líneas 812-885 |
-| 2.2 Fundamentos Epistemológicos | pei_2020.txt | Líneas 543-616, 967-1026 |
-| 2.3 Fundamentos Pedagógicos | pei_2020.txt | Líneas 812-966, 1135-1236 |
-| 2.4 Pensamiento Pedagógico | pei_2020.txt + Acuerdo Formación Multimodal | Líneas 1099-1134 |
-| 2.5 Desarrollo Humano Rural | pei_2020.txt + Acuerdo Formación Multimodal | Líneas 464-539 |
-| 2.6 Formación Multimodal | ACUERDO_POLITICA_FORMACION_MULTIMODAL.txt | Artículos 4, 7, 15 |
+| 2.1 Fundamentos Filosóficos | PEI 2020 | pp. 28-31 |
+| 2.2 Fundamentos Epistemológicos | PEI 2020 | pp. 18-21, 33-36 |
+| 2.3 Fundamentos Pedagógicos | PEI 2020 | pp. 28-33, 39-43 |
+| 2.4 Pensamiento Pedagógico | PEI 2020 + Acuerdo Formación Multimodal | pp. 38-39 + Art. 15 |
+| 2.5 Desarrollo Humano Rural | PEI 2020 + Acuerdo Formación Multimodal | pp. 15-18 + Art. 2 |
+| 2.6 Formación Multimodal | Acuerdo Política de Formación Multimodal (2025) | Artículos 4, 7, 15 |
 
 ---
 
