@@ -6,7 +6,7 @@
 
 ### 2.1.1 El Desarrollo Humano como Horizonte
 
-El Instituto Superior de Educación Rural -UniRural fundamenta su propuesta formativa en el enfoque de Desarrollo Humano, entendido no como crecimiento económico, sino como un proceso de ampliación de las capacidades de las personas.
+El Institución Universitaria de Educación Rural - UniRural fundamenta su propuesta formativa en el enfoque de Desarrollo Humano, entendido no como crecimiento económico, sino como un proceso de ampliación de las capacidades de las personas.
 
 La institución adopta el **enfoque de capacidades humanas** propuesto por Amartya Sen y Martha Nussbaum, que:
 
@@ -247,7 +247,7 @@ Conforme a la Política de Formación Multimodal (2025), el proceso de formació
 
 ### 2.6.1 Modalidades Educativas
 
-El Instituto Superior de Educación Rural -UniRural ofrece las siguientes modalidades educativas:
+El Institución Universitaria de Educación Rural - UniRural ofrece las siguientes modalidades educativas:
 
 | Modalidad | Descripción |
 |-----------|-------------|
@@ -285,7 +285,7 @@ La Política Institucional de Formación Multimodal se guía por los siguientes 
 
 ## 2.7 Ámbitos de Pertinencia Institucional
 
-El Instituto Superior de Educación Rural -UniRural orienta su quehacer formativo respondiendo a múltiples ámbitos de pertinencia que garantizan la relevancia y coherencia de su propuesta educativa.
+El Institución Universitaria de Educación Rural - UniRural orienta su quehacer formativo respondiendo a múltiples ámbitos de pertinencia que garantizan la relevancia y coherencia de su propuesta educativa.
 
 ### 2.7.1 Ámbito Global
 

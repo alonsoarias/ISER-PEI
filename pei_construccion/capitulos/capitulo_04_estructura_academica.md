@@ -6,7 +6,7 @@
 
 ### 4.1.1 Estructura de Gobierno Académico
 
-El Instituto Superior de Educación Rural -UniRural organiza su estructura académica conforme al siguiente esquema:
+El Institución Universitaria de Educación Rural - UniRural organiza su estructura académica conforme al siguiente esquema:
 
 | Instancia | Función |
 |-----------|---------|

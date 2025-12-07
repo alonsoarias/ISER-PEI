@@ -6,7 +6,7 @@
 
 ### 6.1.1 Campus Principal - Pamplona
 
-El Instituto Superior de Educación Rural -UniRural cuenta con un campus consolidado en Pamplona, Norte de Santander, que incluye:
+El Institución Universitaria de Educación Rural - UniRural cuenta con un campus consolidado en Pamplona, Norte de Santander, que incluye:
 
 **Edificaciones académicas y administrativas:**
 

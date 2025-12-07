@@ -6,7 +6,7 @@
 
 ### 7.1.1 Naturaleza Jurídica
 
-El Instituto Superior de Educación Rural -UniRural es un establecimiento público del orden nacional con:
+El Institución Universitaria de Educación Rural - UniRural es un establecimiento público del orden nacional con:
 
 - **Personería jurídica** propia
 - **Autonomía administrativa** conforme a la Ley 30 de 1992
@@ -344,7 +344,7 @@ Con el cambio de carácter, el Instituto proyecta:
 
 | Aspecto | Proyección |
 |---------|------------|
-| **Nombre** | Instituto Superior de Educación Rural -UniRural (Institución Universitaria) |
+| **Nombre** | Institución Universitaria de Educación Rural - UniRural (Institución Universitaria) |
 | **Oferta académica** | Programas profesionales universitarios, especializaciones, maestrías |
 | **Investigación** | Fortalecimiento de grupos y líneas de investigación |
 | **Extensión** | Ampliación de servicios de consultoría y asistencia técnica |

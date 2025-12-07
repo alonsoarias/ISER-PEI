@@ -6,7 +6,7 @@
 
 ### 3.1.1 Norte de Santander: Territorio de Influencia Principal
 
-El Instituto Superior de Educación Rural -UniRural tiene su sede principal en Pamplona, Norte de Santander. El departamento presenta características que demandan una oferta educativa amplia y pertinente:
+El Institución Universitaria de Educación Rural - UniRural tiene su sede principal en Pamplona, Norte de Santander. El departamento presenta características que demandan una oferta educativa amplia y pertinente:
 
 **Características demográficas y socioeconómicas:**
 - Población con alta dispersión rural y concentración en zonas de frontera
