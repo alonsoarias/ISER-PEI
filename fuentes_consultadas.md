@@ -121,10 +121,9 @@
 ## HALLAZGOS IMPORTANTES
 
 1. **El ISER ya está preparando documentos para el cambio de carácter:**
-   - El documento de Política de Formación Multimodal ya hace referencia a "Institución Universitaria Instituto Superior de Educación Rural – UNIRURAL"
    - Los documentos de Sistema de Investigación y Sistema de Extensión tienen fechas de diciembre 2025 y mencionan "CAMBIO DE CARACTER"
 
-2. **Nombre propuesto para la nueva institución:** "Institución Universitaria Instituto Superior de Educación Rural – UNIRURAL"
+2. **Nombre oficial confirmado:** "Instituto Superior de Educación Rural -UniRural"
 
 3. **El PEI vigente (2020) contiene:**
    - Historia institucional desde 1956
