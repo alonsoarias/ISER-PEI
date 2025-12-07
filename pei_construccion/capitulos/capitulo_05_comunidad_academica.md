@@ -24,19 +24,23 @@ Todos los estamentos tienen representación en los órganos de gobierno instituc
 
 ### 5.2.1 Perfil del Estudiante Iserista
 
-El estudiante Iserista participa de manera activa en su proceso de formación, compartiendo la responsabilidad de su aprendizaje y siendo partícipe en la construcción de su propio conocimiento.
+El estudiante Iserista participa de manera activa en su proceso de formación, compartiendo la responsabilidad de su aprendizaje y siendo partícipe en la construcción de su propio conocimiento. Representa la razón de ser de la institución, y es a través de su contribución a la transformación social que se valida la calidad del servicio educativo.
 
-**Características del estudiante:**
+**Capacidades y competencias del estudiante:**
 
-| Dimensión | Descripción |
-|-----------|-------------|
-| **Actitud** | Autónoma, reflexiva y crítica |
-| **Compromiso** | Con el desarrollo de su región y del país |
-| **Calidad humana** | Alto sentido de responsabilidad social |
-| **Emprendimiento** | Capacidad de innovación y autogestión |
-| **Investigación** | Habilidades para la investigación formativa y aplicada |
-| **Trabajo en equipo** | Capacidad de colaboración y cooperación |
-| **Adaptabilidad** | Flexibilidad para nuevos contextos |
+| Competencia | Descripción |
+|-------------|-------------|
+| **Responsabilidad** | Capacidad para dirigir su propio aprendizaje y responder por sus actos. |
+| **Autoconfianza** | Capacidad para confiar en las propias capacidades y potencialidades. |
+| **Resolución de problemas** | Capacidad para tomar decisiones ante situaciones con múltiples alternativas para lograr metas determinadas. |
+| **Habilidades comunicativas** | Capacidad para expresar, transmitir mensajes, escribir y relacionarse con empatía. |
+| **Uso de TIC** | Capacidad para incorporar las tecnologías de información en el proceso formativo. |
+| **Razonamiento crítico** | Capacidad para valorar argumentos distinguiendo lo principal de lo secundario e identificando relaciones. |
+| **Flexibilidad** | Capacidad de adaptación a diferentes situaciones, contextos o personas. Incluye interdisciplinariedad, tolerancia, apertura al diálogo intercultural. |
+| **Trabajo en equipo** | Capacidad de actuar colectivamente en diversas situaciones como miembro de un grupo. |
+| **Iniciativa** | Disponibilidad para asumir actividades y persistir a pesar de obstáculos. |
+| **Planificación** | Capacidad para analizar el trabajo, diseñando estrategias eficaces sin desperdiciar recursos. |
+| **Innovación/Creatividad** | Capacidad para investigar, crear e innovar, aplicando y transfiriendo competencias a situaciones reales. |
 
 **Fuente:** PEI 2020, Sección 2.5.1, pp. 53-54
 
@@ -76,7 +80,23 @@ Los derechos y deberes de los estudiantes están consagrados en el Reglamento Es
 
 ### 5.3.1 Perfil del Docente Iserista
 
-El docente del Instituto es un agente dinamizador del proceso educativo, que desarrolla su labor mediante actividades científicas, tecnológicas, humanísticas, culturales, investigativas, de extensión y de cooperación.
+El docente del Instituto es un agente dinamizador del proceso educativo, que desarrolla su labor mediante actividades científicas, tecnológicas, humanísticas, culturales, investigativas, de extensión y de cooperación. Es consciente de la importancia de su rol en la institución y la sociedad, actuando como agente de cambio para potenciar el desarrollo personal y académico de los estudiantes.
+
+**Capacidades y competencias del docente:**
+
+| Competencia | Descripción |
+|-------------|-------------|
+| **Responsabilidad** | Capacidad para contribuir a la formación integral y al logro de aprendizajes significativos en los estudiantes. |
+| **Autoconfianza** | Capacidad para poner al servicio de la docencia, la investigación y la extensión sus potencialidades profesionales y personales. |
+| **Resolución de problemas** | Capacidad para aplicar estrategias metodológicas multivariadas que permitan resolver situaciones y alcanzar aprendizajes significativos. |
+| **Habilidades comunicativas** | Capacidad para entender y ser entendido por los estudiantes a través de escucha activa, empatía, respeto, persuasión y credibilidad. |
+| **Uso de TIC** | Capacidad para incorporar tecnologías en la disciplina, adaptando recursos a objetivos y procesos de enseñanza-aprendizaje e investigación. |
+| **Razonamiento crítico** | Capacidad de tomar decisiones, asumir posiciones claras y acciones propositivas en la práctica docente. |
+| **Flexibilidad** | Capacidad para adaptar la práctica docente a las dinámicas del desarrollo académico, científico y tecnológico, incluyendo formación sincrónica y asincrónica. |
+| **Trabajo en equipo** | Capacidad para crear un entorno favorable al trabajo colaborativo, solidario, con sentido de pertenencia y formación socio-humanista. |
+| **Iniciativa** | Capacidad de persistir en la ejecución de actividades frente a las dinámicas de cambio social y tecnológico. Docente activo, con libertad de cátedra. |
+| **Planificación** | Capacidad para diseñar, desarrollar y evaluar con éxito el proceso de enseñanza-aprendizaje y proyectos de investigación o extensión. |
+| **Innovación/Creatividad** | Capacidad para introducir acciones de mejora en la práctica docente con repercusión transformadora en el currículo, la investigación y la extensión. |
 
 **El docente Iserista está comprometido con:**
 
@@ -147,7 +167,23 @@ El Instituto promueve el desarrollo profesoral mediante:
 
 ### 5.4.1 Perfil del Graduado
 
-El graduado del ISER es un profesional:
+El graduado del ISER conserva un rol importante dentro de los procesos institucionales, pues a partir de sus experiencias se puede validar el proceso de formación, la pertinencia de los programas académicos y los vínculos sociales y empresariales.
+
+**Capacidades y competencias del graduado:**
+
+| Competencia | Descripción |
+|-------------|-------------|
+| **Liderazgo** | Capacidad de guiar y conducir grupos para alcanzar objetivos comunes. Capacidad para liderar, crear, innovar, emprender y gestionar el conocimiento. |
+| **Adaptabilidad** | Capacidad para afrontar situaciones imprevistas y adaptarse al medio. Capacidad para enfrentar retos de un mundo globalizado sin perder la identidad cultural. |
+| **Inteligencia emocional** | Capacidad para manejar las emociones y utilizar de forma positiva las relaciones con los demás. |
+| **Pensamiento crítico** | Capacidad para analizar, entender y evaluar la mejor forma de resolver problemas, expresar posiciones y tomar decisiones. |
+| **Manejo de tecnología** | Capacidad para compartir y apropiar tecnologías, procesos, metodologías o productos. |
+| **Habilidades comunicativas** | Capacidad para manejar las dinámicas del cambio social y tecnológico con visión prospectiva, trabajo en equipo, responsabilidad y compromiso. |
+| **Lengua extranjera** | Capacidades comunicativas en una o más lenguas extranjeras para participar en igualdad de condiciones en la cultura global. |
+| **Manejo de herramientas informáticas** | Capacidad para evaluar y seleccionar plataformas y aplicaciones según los conocimientos del programa. |
+| **Sentido social** | Personas formadas integralmente, interesadas en el bienestar de las comunidades, comprometidas con el desarrollo sostenible de la sociedad. |
+
+**Características del graduado Iserista:**
 
 | Característica | Descripción |
 |----------------|-------------|
