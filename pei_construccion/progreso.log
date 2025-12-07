@@ -26,8 +26,12 @@ Fecha inicio: 07/12/2025
     - Lineamientos Metodológicos agregados (interdisciplinariedad, flexibilidad, competencias)
     - Competencias detalladas para estudiantes, docentes y graduados
     - Sección REFERENCIAS BIBLIOGRÁFICAS agregada (capitulo_08_referencias.md)
-[ ] FASE 4: Ensamblaje - PENDIENTE
-[ ] FASE 5: Generación final - PENDIENTE
+[✓] FASE 4: Ensamblaje - COMPLETADO (07/12/2025)
+    - Documento completo ensamblado: output/PEI_UNIRURAL_2025.md
+    - Tamaño: 129 KB, 2839 líneas
+    - Incluye: Portada, tabla de contenido, 7 capítulos + introducción + referencias
+    - Archivos individuales conservados en: pei_construccion/capitulos/
+[ ] FASE 5: Generación final - PENDIENTE (ODT, PDF)
 
 === DOCUMENTOS PROCESADOS ===
 
@@ -79,6 +83,8 @@ DOCUMENTOS EXCLUIDOS:
 │   │   ├── capitulo_07_gobierno.md
 │   │   └── capitulo_08_referencias.md
 │   └── fuentes_por_capitulo/ # (vacío - pendiente)
-├── output/                    # (vacío - pendiente ensamblaje)
+├── output/                    # Documentos finales ensamblados
+│   ├── PEI_UNIRURAL_2025.md          # Documento completo (129 KB)
+│   └── PEI_UNIRURAL_2025_borrador.md # Sin portada
 ├── anexos/                    # (vacío - pendiente)
 └── fuentes_consultadas.md     # Inventario completo
