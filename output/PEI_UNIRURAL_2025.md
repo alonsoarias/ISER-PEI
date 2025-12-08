@@ -2887,5 +2887,13 @@ Gobierno Nacional de Colombia. (1988). Decreto 758 de 1988. Por el cual se reest
 
 ---
 
+## Proyectos Educativos Institucionales de Referencia
+
+Institución Universitaria ITM. (2019). *Proyecto Educativo Institucional PEI*. Medellín: ITM. Institución reacreditada en Alta Calidad por ocho (8) años mediante Resolución 23779 del 29 de noviembre de 2019.
+
+Politécnico Colombiano Jaime Isaza Cadavid. (2018). *Proyecto Educativo Institucional PEI*. Acuerdo del Consejo Directivo No. 14 del 08 de agosto de 2018. Medellín: PCJIC. Institución de Educación Superior pública de orden departamental.
+
+---
+
 **Nota:** Las referencias bibliográficas siguen el formato APA 7ª edición. Los documentos institucionales están disponibles en los archivos de la Institución Universitaria de Educación Rural - UniRural.
 
