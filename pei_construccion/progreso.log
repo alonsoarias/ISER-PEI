@@ -1,6 +1,6 @@
 === PROGRESO DE CONSTRUCCIÓN DEL PEI ===
 Fecha inicio: 07/12/2025
-Última actualización: 07/12/2025 04:30
+Última actualización: 08/12/2025
 
 [✓] FASE 1: Exploración completada
 [✓] FASE 1.5: Extracción de texto completada
@@ -31,6 +31,15 @@ Fecha inicio: 07/12/2025
     - Tamaño: 129 KB, 2839 líneas
     - Incluye: Portada, tabla de contenido, 7 capítulos + introducción + referencias
     - Archivos individuales conservados en: pei_construccion/capitulos/
+[✓] FASE 4.5: MEJORAS POR ANÁLISIS DE PEI-ITM (08/12/2025)
+    - Análisis del PEI de la Institución Universitaria ITM (Medellín) - 67 páginas
+    - PEI-ITM: Institución reacreditada en Alta Calidad (8 años)
+    - Sección 4.8.3 Voluntariado Institucional agregada (objetivos + líneas de acción)
+    - Sección 4.9.3 Diplomacia Científica y Cooperación Internacional agregada
+    - Correcciones gramaticales: "La Institución Universitaria" en todos los archivos
+    - Visión actualizada: 2030 → 2034 en archivos de borrador
+    - Texto redundante corregido en introducción
+    - Tablas de fuentes actualizadas en Capítulo IV
 [ ] FASE 5: Generación final - PENDIENTE (ODT, PDF)
 
 === DOCUMENTOS PROCESADOS ===
@@ -46,6 +55,9 @@ DOCUMENTOS ISER (FUENTES PRIMARIAS):
 DOCUMENTOS REFERENCIA (OTRAS INSTITUCIONES):
 ✓ acuerdo-consejo-directivo-14-del-08-de-agosto-de-2018.pdf → textos_extraidos/acuerdo_consejo_directivo_14.txt (104 KB) [OCR]
   NOTA: Es el PEI del Politécnico Colombiano Jaime Isaza Cadavid - SOLO REFERENCIA DE ESTRUCTURA
+✓ PEI-ITM.pdf (67 páginas) - PEI de la Institución Universitaria ITM (Medellín)
+  NOTA: Institución reacreditada en Alta Calidad por 8 años - REFERENCIA para secciones de:
+        Voluntariado, Diplomacia Científica, Internacionalización
 
 DOCUMENTOS EXCLUIDOS:
 ✗ 2. PEI REDEFINICIÓN CICLOS PROPEDÉUTICOS (1).pdf - NO USAR (ciclos propedéuticos ≠ cambio carácter)
