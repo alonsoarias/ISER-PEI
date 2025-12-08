@@ -6,7 +6,7 @@
 
 ### 2.1.1 El Desarrollo Humano como Horizonte
 
-El Instituto Superior de Educación Rural -UniRural fundamenta su propuesta formativa en el enfoque de Desarrollo Humano, entendido no como crecimiento económico, sino como un proceso de ampliación de las capacidades de las personas.
+El Institución Universitaria de Educación Rural - UniRural fundamenta su propuesta formativa en el enfoque de Desarrollo Humano, entendido no como crecimiento económico, sino como un proceso de ampliación de las capacidades de las personas.
 
 La institución adopta el **enfoque de capacidades humanas** propuesto por Amartya Sen y Martha Nussbaum, que:
 
@@ -247,7 +247,7 @@ Conforme a la Política de Formación Multimodal (2025), el proceso de formació
 
 ### 2.6.1 Modalidades Educativas
 
-El Instituto Superior de Educación Rural -UniRural ofrece las siguientes modalidades educativas:
+El Institución Universitaria de Educación Rural - UniRural ofrece las siguientes modalidades educativas:
 
 | Modalidad | Descripción |
 |-----------|-------------|
@@ -283,6 +283,140 @@ La Política Institucional de Formación Multimodal se guía por los siguientes 
 
 ---
 
+## 2.7 Ámbitos de Pertinencia Institucional
+
+El Institución Universitaria de Educación Rural - UniRural orienta su quehacer formativo respondiendo a múltiples ámbitos de pertinencia que garantizan la relevancia y coherencia de su propuesta educativa.
+
+### 2.7.1 Ámbito Global
+
+UniRural es pertinente con las exigencias de un mundo globalizado por cuanto está comprometido con:
+
+- Las nuevas tendencias del desarrollo científico y tecnológico
+- La flexibilidad y actualización permanente del currículo
+- La integración de la dimensión internacional en docencia, investigación y extensión
+- La preparación para la sociedad del conocimiento
+- Las competencias para el siglo XXI: pensamiento crítico, creatividad, comunicación y colaboración
+
+La institución promueve la internacionalización como proceso transversal articulado con las funciones misionales, incorporando la dimensión internacional y global para generar valor en la formación de profesionales rurales.
+
+### 2.7.2 Ámbito Normativo
+
+UniRural es pertinente con los mandatos constitucionales y legales:
+
+- Reconoce la educación como bien público, derecho fundamental y base para otros derechos
+- En el marco de la autonomía universitaria, garantiza el derecho al acceso, permanencia y calidad
+- Respeta la libertad de enseñanza, investigación, cátedra y expresión
+- Cumple con las condiciones de calidad establecidas por el MEN para registro calificado
+- Se orienta hacia la acreditación de alta calidad institucional y de programas
+
+### 2.7.3 Ámbito Político
+
+UniRural es pertinente con la necesidad de convivir en paz, armonía y democracia:
+
+- Contribuye a la construcción de una paz estable y duradera en las regiones donde tiene presencia
+- Aporta a la reducción de inequidades en la sociedad colombiana
+- Trabaja en el cierre de brechas regionales: pobreza, seguridad humana, justicia social
+- Mejora la calidad de vida y reduce la brecha urbano-rural
+- Respeta las identidades culturales y los sistemas de valores construidos colectivamente
+
+### 2.7.4 Ámbito de Visión de País
+
+UniRural es pertinente con el desarrollo económico, social y humano sostenible:
+
+| Articulación | Descripción |
+|--------------|-------------|
+| **Plan Nacional de Desarrollo** | Objetivos de educación rural, desarrollo territorial y equidad |
+| **Planes Departamentales** | Norte de Santander, Bolívar, Arauca, Santander, Cesar, Magdalena |
+| **Acuerdo por lo Superior 2034** | Lineamientos de política para educación superior |
+| **ODS 2030** | Especialmente ODS 4 (Educación de calidad) y ODS 10 (Reducción de desigualdades) |
+| **Reforma Rural Integral** | Formación de talento humano para el desarrollo rural con enfoque territorial |
+
+### 2.7.5 Ámbito Contextual
+
+UniRural es pertinente con los entornos cultural, social y geográfico:
+
+- Los programas académicos responden a las condiciones concretas de las comunidades rurales
+- Se desarrollan proyectos formativos, investigativos y de extensión pertinentes con las características culturales, sociales y ambientales del territorio
+- Se reconocen los saberes locales y el patrimonio tecnológico de las comunidades
+- Se trabaja en 16 Centros de Atención Tutorial distribuidos en 6 departamentos
+- Se mantiene presencia activa en zonas de ruralidad dispersa y zonas afectadas por el conflicto armado
+
+**Contexto territorial de influencia:**
+
+| Departamento | Característica |
+|--------------|----------------|
+| **Norte de Santander** | Zona de frontera, economía agrícola, afectación por conflicto |
+| **Arauca** | Zona petrolera y ganadera, ruralidad dispersa |
+| **Bolívar** | Zona minera (Sur de Bolívar), economía campesina |
+| **Santander** | Zona agroindustrial, turismo rural |
+| **Cesar** | Zona minera y agrícola |
+| **Magdalena** | Zona agrícola y pesquera |
+
+### 2.7.6 Ámbito Pedagógico y Didáctico
+
+UniRural guarda pertinencia con las características diversas de los educandos:
+
+- Utiliza enfoques pedagógicos apropiados para enriquecer y potenciar el aprendizaje
+- Contempla acciones educativas para poblaciones con particularidades: comunidades rurales, afrocolombianos, indígenas, víctimas del conflicto, personas con discapacidad
+- Diversifica la oferta educativa según el contexto y momento
+- Innova con programas diferenciados sensibles a cada territorio
+- Implementa metodologías activas adaptadas a las condiciones de conectividad y acceso
+
+**Fuente:** Adaptación institucional basada en Plan de Desarrollo Institucional 2024, Política de Formación Multimodal 2025, y lineamientos del CNA para pertinencia.
+
+---
+
+## 2.8 Lineamientos Metodológicos Generales
+
+Los lineamientos metodológicos del PEI se basan en los siguientes elementos fundamentales:
+
+### 2.8.1 Interdisciplinariedad
+
+La interdisciplinariedad se asume como diálogo, cooperación e interacción entre disciplinas en torno a problemas, casos o situaciones de indagación conjunta. Implica:
+
+- Reciprocidad e intercambio entre campos del saber
+- Enriquecimiento mutuo de perspectivas teóricas y metodológicas
+- Reconstrucción del objeto de estudio desde múltiples visiones
+- Ruptura de los límites disciplinarios tradicionales
+
+**Estrategias interdisciplinarias:**
+- Abordaje de problemas del territorio desde múltiples perspectivas
+- Diálogo entre áreas del conocimiento en los planes de estudio
+- Aprendizaje basado en problemas que requieren aportes de varias disciplinas
+- Trabajo por proyectos que integra visiones complementarias
+- Eventos académicos con participación de diversos actores
+
+### 2.8.2 Flexibilidad
+
+La flexibilidad hace referencia a la capacidad de adaptación a las dinámicas del desarrollo académico, científico, tecnológico y a los cambios en procesos organizativos, sociales y productivos.
+
+| Dimensión | Expresión |
+|-----------|-----------|
+| **Flexibilidad curricular** | Organización de contenidos, movilidad horizontal y vertical, créditos académicos |
+| **Flexibilidad pedagógica** | Metodologías activas, relación horizontal docente-estudiante |
+| **Flexibilidad académica** | Interacción entre áreas del conocimiento, trayectorias formativas |
+| **Flexibilidad administrativa** | Alternativas de horarios, dedicación, modalidades |
+| **Flexibilidad territorial** | Presencia en 16 CAT, adaptación a contextos locales |
+
+### 2.8.3 Formación por Competencias
+
+El proceso formativo incorpora los siguientes tipos de competencias:
+
+**Competencias básicas:**
+Conocimientos, habilidades y actitudes necesarias para desempeñarse en cualquier actividad productiva y desenvolverse en espacios sociales y ciudadanos.
+
+**Competencias genéricas o transversales:**
+- *Instrumentales:* Análisis, síntesis, planificación, comunicación, uso de TIC, resolución de problemas
+- *Interpersonales:* Trabajo en equipo, manejo de conflictos, compromiso social y ético
+- *Sistémicas:* Creatividad, liderazgo, autonomía, emprendimiento, orientación a la calidad
+
+**Competencias específicas:**
+Requeridas para el desempeño profesional en cada campo disciplinar, definidas en los perfiles de egreso de cada programa.
+
+**Fuente:** Adaptación de lineamientos pedagógicos institucionales, PEI 2020, Política de Formación Multimodal 2025
+
+---
+
 ## FUENTES DEL CAPÍTULO II
 
 | Sección | Fuente | Ubicación |
@@ -293,6 +427,8 @@ La Política Institucional de Formación Multimodal se guía por los siguientes 
 | 2.4 Pensamiento Pedagógico | PEI 2020 + Acuerdo Formación Multimodal | pp. 38-39 + Art. 15 |
 | 2.5 Desarrollo Humano Rural | PEI 2020 + Acuerdo Formación Multimodal | pp. 15-18 + Art. 2 |
 | 2.6 Formación Multimodal | Acuerdo Política de Formación Multimodal (2025) | Artículos 4, 7, 15 |
+| 2.7 Ámbitos de Pertinencia | Plan de Desarrollo + Política Multimodal + CNA | Múltiples |
+| 2.8 Lineamientos Metodológicos | PEI 2020 + Política de Formación Multimodal | Lineamientos institucionales |
 
 ---
 

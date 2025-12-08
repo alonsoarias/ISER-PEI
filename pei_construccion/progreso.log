@@ -1,6 +1,6 @@
 === PROGRESO DE CONSTRUCCIÓN DEL PEI ===
 Fecha inicio: 07/12/2025
-Última actualización: 07/12/2025 03:00
+Última actualización: 07/12/2025 04:30
 
 [✓] FASE 1: Exploración completada
 [✓] FASE 1.5: Extracción de texto completada
@@ -9,17 +9,29 @@ Fecha inicio: 07/12/2025
     - DOCX extraídos: 3 archivos (unzip XML)
 [✓] FASE 1.6: Fragmentación - NO REQUERIDA (textos completos disponibles)
 [✓] FASE 2: Inventario - APROBADO POR USUARIO (07/12/2025)
-    - Nombre oficial confirmado: "Instituto Superior de Educación Rural -UniRural"
+    - Nombre oficial confirmado: "Institución Universitaria de Educación Rural - UniRural"
 [✓] FASE 2.5: Estructura de referencia - APROBADO (07/12/2025)
 [✓] FASE 3.1: Capítulo I - REDACTADO Y VALIDADO (07/12/2025)
 [✓] FASE 3.2: Capítulo II - REDACTADO Y VALIDADO (07/12/2025)
 [✓] FASE 3.3: Capítulo III - REDACTADO Y VALIDADO (07/12/2025)
-[✓] FASE 3.4: Capítulo IV - REDACTADO, PENDIENTE VALIDACIÓN
-[ ] FASE 3.5: Capítulo V - PENDIENTE
-[ ] FASE 3.6: Capítulo VI - PENDIENTE
-[ ] FASE 3.7: Capítulo VII - PENDIENTE
-[ ] FASE 4: Ensamblaje - PENDIENTE
-[ ] FASE 5: Generación final - PENDIENTE
+[✓] FASE 3.4: Capítulo IV - REDACTADO Y VALIDADO (07/12/2025)
+[✓] FASE 3.5: Capítulo V - REDACTADO Y VALIDADO (07/12/2025)
+[✓] FASE 3.6: Capítulo VI - REDACTADO Y VALIDADO (07/12/2025)
+[✓] FASE 3.7: Capítulo VII - REDACTADO Y VALIDADO (07/12/2025)
+[✓] FASE 3.8: MEJORAS POR ANÁLISIS DE REFERENCIA (07/12/2025)
+    - Análisis del PEI del Politécnico Colombiano Jaime Isaza Cadavid (Acuerdo 14/2018)
+    - Sección INTRODUCCIÓN agregada (capitulo_00_introduccion.md)
+    - Marco Normativo mejorado con tablas detalladas (nacional + institucional)
+    - Ámbitos de Pertinencia agregados (global, normativo, político, visión país, contextual, pedagógico)
+    - Lineamientos Metodológicos agregados (interdisciplinariedad, flexibilidad, competencias)
+    - Competencias detalladas para estudiantes, docentes y graduados
+    - Sección REFERENCIAS BIBLIOGRÁFICAS agregada (capitulo_08_referencias.md)
+[✓] FASE 4: Ensamblaje - COMPLETADO (07/12/2025)
+    - Documento completo ensamblado: output/PEI_UNIRURAL_2025.md
+    - Tamaño: 129 KB, 2839 líneas
+    - Incluye: Portada, tabla de contenido, 7 capítulos + introducción + referencias
+    - Archivos individuales conservados en: pei_construccion/capitulos/
+[ ] FASE 5: Generación final - PENDIENTE (ODT, PDF)
 
 === DOCUMENTOS PROCESADOS ===
 
@@ -57,11 +69,22 @@ DOCUMENTOS EXCLUIDOS:
 /home/user/ISER-PEI/
 ├── textos_extraidos/          # 7 archivos de texto (~682 KB total)
 ├── fragmentos_pdf/            # (no utilizado - textos completos disponibles)
-├── estructura_referencia/     # (pendiente)
+├── estructura_referencia/     # Estructura extraída del Politécnico
 ├── pei_construccion/
 │   ├── progreso.log          # Este archivo
-│   ├── capitulos/            # (vacío - pendiente)
+│   ├── capitulos/            # 10 archivos markdown del PEI
+│   │   ├── capitulo_00_introduccion.md
+│   │   ├── capitulo_01_identidad.md
+│   │   ├── capitulo_02_fundamentos.md
+│   │   ├── capitulo_03_justificacion.md
+│   │   ├── capitulo_04_estructura_academica.md
+│   │   ├── capitulo_05_comunidad_academica.md
+│   │   ├── capitulo_06_recursos.md
+│   │   ├── capitulo_07_gobierno.md
+│   │   └── capitulo_08_referencias.md
 │   └── fuentes_por_capitulo/ # (vacío - pendiente)
-├── output/                    # (vacío - pendiente)
+├── output/                    # Documentos finales ensamblados
+│   ├── PEI_UNIRURAL_2025.md          # Documento completo (129 KB)
+│   └── PEI_UNIRURAL_2025_borrador.md # Sin portada
 ├── anexos/                    # (vacío - pendiente)
 └── fuentes_consultadas.md     # Inventario completo

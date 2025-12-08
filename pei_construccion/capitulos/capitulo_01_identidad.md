@@ -4,7 +4,7 @@
 
 ## 1.1 Naturaleza Jurídica y Cambio de Carácter
 
-El Instituto Superior de Educación Rural -UniRural es un establecimiento público de educación superior del orden departamental, adscrito al Departamento de Norte de Santander, conforme a la Ordenanza 0015 del 11 de agosto de 2009.
+El Institución Universitaria de Educación Rural - UniRural es un establecimiento público de educación superior del orden departamental, adscrito al Departamento de Norte de Santander, conforme a la Ordenanza 0015 del 11 de agosto de 2009.
 
 **Origen legal:** Decreto Ley 2365 del 18 de septiembre de 1956, mediante el cual el Gobierno Nacional creó el Instituto de Educación Rural como "plantel piloto" para la educación rural del país.
 
@@ -101,34 +101,50 @@ El área geográfica de influencia comprende los departamentos de Norte de Santa
 
 ## 1.4 Marco Normativo
 
-El Instituto Superior de Educación Rural -UniRural rige su actuación por el siguiente marco normativo:
+El Institución Universitaria de Educación Rural - UniRural rige su actuación por un marco normativo nacional e institucional que fundamenta su quehacer académico y administrativo.
 
-### Constitución Política de Colombia (1991)
-- **Artículo 27:** Garantía de libertades de enseñanza, aprendizaje, investigación y cátedra
-- **Artículo 67:** La educación como derecho y servicio público con función social
-- **Artículo 69:** Autonomía universitaria
+### 1.4.1 Normatividad Nacional
 
-### Ley 30 de 1992
-Organiza el servicio público de la Educación Superior. Establece los principios de autonomía institucional y define las tipologías de instituciones de educación superior.
+| Norma | Aspecto que reglamenta |
+|-------|------------------------|
+| **Constitución Política de Colombia (1991)** | Art. 27: Libertades de enseñanza, aprendizaje, investigación y cátedra. Art. 67: Educación como derecho y servicio público. Art. 69: Autonomía universitaria. |
+| **Ley 30 de 1992** | Organiza el servicio público de la Educación Superior. Establece principios de autonomía y tipologías de IES. |
+| **Ley 115 de 1994** | Ley General de Educación. |
+| **Ley 749 de 2002** | Organiza la formación técnica profesional y tecnológica. Art. 13: Cambio de carácter académico. |
+| **Decreto 1075 de 2015** | Decreto Único Reglamentario del Sector Educación. |
+| **Decreto 1330 de 2019** | Condiciones de calidad para registro calificado de programas académicos. |
+| **Decreto 2038 de 2023** | Requisitos para cambio de carácter académico de IES. |
+| **Resolución 21795 de 2020** | Parámetros de autoevaluación, verificación y evaluación de condiciones de calidad. |
+| **Acuerdo CESU 02 de 2020** | Actualización del modelo de acreditación de alta calidad. |
 
-### Ley 749 de 2002
-Organiza el servicio público de la educación superior en las modalidades de formación técnica profesional y tecnológica. Su artículo 13 autoriza a las instituciones técnicas profesionales y tecnológicas a solicitar el cambio de carácter académico.
+### 1.4.2 Normatividad Institucional
 
-### Decreto 1330 de 2019
-Sustituye la Sección 3 y otras disposiciones del Libro 2 del Decreto 1075 de 2015 - Único Reglamentario del Sector Educación. Establece las condiciones de calidad para el registro calificado de programas académicos.
+| Norma | Aspecto que define u organiza |
+|-------|-------------------------------|
+| **Ordenanza 0015 del 11/08/2009** | Vinculación del Instituto al orden departamental de Norte de Santander. |
+| **Estatuto General** | Naturaleza, principios, objetivos, estructura orgánica y gobierno institucional. |
+| **Acuerdo 031 del 19/12/2023** | Modificación del Estatuto General para el proceso de cambio de carácter. |
+| **Acuerdo 005 del 04/07/2020** | Resignificación del Proyecto Educativo Institucional. |
+| **Reglamento Estudiantil** | Derechos, deberes, régimen académico y disciplinario de estudiantes. |
+| **Estatuto Docente** | Régimen de vinculación, categorías, funciones y desarrollo profesoral. |
+| **Acuerdo Política de Formación Multimodal (Oct/2025)** | Lineamientos para formación presencial, virtual, a distancia, dual e híbrida. |
+| **Acuerdo Sistema de Investigación (Dic/2025)** | Políticas, estructura y funcionamiento del sistema de investigación institucional. |
+| **Acuerdo Sistema de Extensión (Dic/2025)** | Políticas, programas y servicios de extensión y proyección social. |
+| **Plan de Desarrollo Institucional 2021-2030** | Direccionamiento estratégico, ejes, objetivos y metas institucionales. |
 
-### Decreto 2038 del 27 de noviembre de 2023
-Modifica el artículo 2.5.1.2.2 del Decreto 1075 de 2015, estableciendo los requisitos para el cambio de carácter académico:
-- Reglamentos estudiantil y docente ajustados al carácter académico solicitado
-- Políticas y programas para la interacción con el entorno
-- Plan de Desarrollo Institucional con proyección académica, investigativa, administrativa, económica y financiera
+### 1.4.3 Articulación Normativa para el Cambio de Carácter
 
-### Normas internas
-- **Ordenanza 0015 del 11 de agosto de 2009:** Vinculación al orden departamental
-- **Acuerdo 005 del 4 de julio de 2020:** Resignificación del PEI vigente
-- Estatuto General
-- Reglamento Estudiantil
-- Reglamento Docente
+El Decreto 2038 de 2023 establece los requisitos específicos para el cambio de carácter académico:
+
+| Requisito | Estado en UniRural |
+|-----------|-------------------|
+| Reglamentos estudiantil y docente ajustados | En proceso de actualización |
+| Políticas y programas de interacción con el entorno | Aprobados (2025) |
+| Plan de Desarrollo con proyección institucional | Vigente 2021-2030 |
+| Verificación de condiciones institucionales | Verificadas por MEN (Pamplona y Cúcuta) |
+| Programas con registro calificado vigente | 11 programas activos |
+
+**Fuente:** Normatividad colombiana, Acuerdos institucionales 2020-2025
 
 ---
 
@@ -142,7 +158,7 @@ Modifica el artículo 2.5.1.2.2 del Decreto 1075 de 2015, estableciendo los requ
 
 ## 1.6 Visión
 
-> En el año 2030, el Instituto Superior de Educación Rural -UniRural será reconocido en el oriente colombiano como una institución acreditada, incluyente y líder en la formación de educación superior, con un enfoque del desarrollo humano que apuesta por la ruralidad.
+> En el año 2030, el Institución Universitaria de Educación Rural - UniRural será reconocido en el oriente colombiano como una institución acreditada, incluyente y líder en la formación de educación superior, con un enfoque del desarrollo humano que apuesta por la ruralidad.
 
 **Nota:** La visión ha sido actualizada para reflejar el cambio de carácter institucional, pasando de "formación técnica y tecnológica" a "formación de educación superior" que incluye programas universitarios y de posgrado.
 
