@@ -79,7 +79,7 @@
 
 ---
 
-El Proyecto Educativo Institucional (PEI) del Institución Universitaria de Educación Rural - UniRural constituye el instrumento fundamental de planificación y gestión estratégica que orienta el quehacer institucional. Este documento responde con coherencia a lo expresado en la Constitución Política de Colombia, a las normas sobre educación superior, así como a las disposiciones internas establecidas en el Estatuto General, el Plan de Desarrollo Institucional 2021-2030 y los acuerdos del Consejo Directivo.
+El Proyecto Educativo Institucional (PEI) de la Institución Universitaria de Educación Rural - UniRural constituye el instrumento fundamental de planificación y gestión estratégica que orienta el quehacer institucional. Este documento responde con coherencia a lo expresado en la Constitución Política de Colombia, a las normas sobre educación superior, así como a las disposiciones internas establecidas en el Estatuto General, el Plan de Desarrollo Institucional 2021-2030 y los acuerdos del Consejo Directivo.
 
 ## Naturaleza del PEI
 
@@ -91,7 +91,7 @@ El presente PEI establece el horizonte institucional orientado hacia 2034, compr
 
 ## Contexto del Cambio de Carácter
 
-Este PEI se actualiza en el marco del proceso de cambio de carácter institucional, mediante el cual el Institución Universitaria de Educación Rural - UniRural aspira a convertirse en Institución Universitaria, conforme a lo establecido en el Decreto 2038 de 2023 que modifica el artículo 2.5.3.2.4.1 del Decreto 1075 de 2015. Este proceso representa la culminación de más de 50 años de trayectoria institucional al servicio de la educación superior para el sector rural colombiano.
+Este PEI se actualiza en el marco del proceso de cambio de carácter institucional, mediante el cual la Institución Universitaria de Educación Rural - UniRural consolida su transformación académica, conforme a lo establecido en el Decreto 2038 de 2023 que modifica el artículo 2.5.3.2.4.1 del Decreto 1075 de 2015. Este proceso representa la culminación de más de 50 años de trayectoria institucional al servicio de la educación superior para el sector rural colombiano.
 
 ## Articulación con Planes Institucionales
 
@@ -1545,6 +1545,29 @@ El Instituto está habilitado como Entidad Prestadora de Servicios de Extensión
 
 **Fuente:** Plan de Desarrollo Institucional 2024, p. 9
 
+### 4.8.3 Voluntariado Institucional
+
+La Institución Universitaria de Educación Rural - UniRural promueve el voluntariado institucional como estrategia de proyección social que busca la participación activa de la comunidad universitaria en el desarrollo de acciones que contribuyan a la solución de problemáticas sociales en los territorios rurales.
+
+**Objetivos del Voluntariado:**
+
+| Objetivo | Descripción |
+|----------|-------------|
+| **Servicio comunitario** | Contribuir a la solución de problemáticas sociales en comunidades rurales |
+| **Formación integral** | Desarrollar competencias ciudadanas, éticas y de responsabilidad social en estudiantes |
+| **Articulación territorial** | Fortalecer vínculos con organizaciones comunitarias y entidades del sector |
+| **Bienestar colectivo** | Generar impacto positivo en la calidad de vida de las comunidades atendidas |
+
+**Líneas de acción del voluntariado:**
+
+1. **Acompañamiento educativo:** Tutorías, alfabetización digital y apoyo académico a comunidades rurales
+2. **Desarrollo agropecuario:** Asistencia técnica solidaria a pequeños productores
+3. **Gestión ambiental:** Proyectos de conservación, reforestación y educación ambiental
+4. **Gestión del riesgo:** Apoyo en situaciones de emergencia y prevención de desastres
+5. **Cultura y recreación:** Actividades culturales y deportivas para comunidades vulnerables
+
+**Fuente:** Elaboración institucional con base en Política de Extensión y Proyección Social
+
 ---
 
 ## 4.9 Internacionalización
@@ -1570,6 +1593,35 @@ Conforme a la Política de Formación Multimodal, la internacionalización compr
 - Alianzas con instituciones de educación superior de otros países
 
 **Fuente:** Plan de Desarrollo Institucional 2024, p. 11
+
+### 4.9.3 Diplomacia Científica y Cooperación Internacional
+
+La Institución Universitaria de Educación Rural - UniRural incorpora la diplomacia científica como estrategia para fortalecer sus capacidades de investigación e innovación mediante la cooperación internacional.
+
+**Ejes de la diplomacia científica:**
+
+| Eje | Descripción |
+|-----|-------------|
+| **Ciencia en la diplomacia** | Aportar conocimiento científico sobre desarrollo rural para la toma de decisiones en organismos internacionales |
+| **Diplomacia para la ciencia** | Establecer alianzas que faciliten el acceso a recursos, infraestructura y redes internacionales de investigación |
+| **Ciencia para la diplomacia** | Utilizar la cooperación científica como mecanismo de integración regional y construcción de paz |
+
+**Estrategias de cooperación:**
+
+1. **Proyectos conjuntos:** Participación en convocatorias de cooperación científica internacional
+2. **Redes de investigación:** Articulación con redes globales en desarrollo rural sostenible, agroindustria y energías renovables
+3. **Intercambio de conocimiento:** Pasantías de investigación, publicaciones conjuntas y transferencia tecnológica
+4. **Formación avanzada:** Alianzas para programas de doble titulación y cotutela de tesis
+
+**Áreas prioritarias de cooperación:**
+
+- Seguridad alimentaria y desarrollo agroindustrial
+- Transición energética y energías renovables en zonas rurales
+- Adaptación al cambio climático en comunidades campesinas
+- Innovación social y economía solidaria
+- Construcción de paz territorial
+
+**Fuente:** Elaboración institucional con base en Política de Formación Multimodal y Plan de Desarrollo Institucional
 
 ---
 
@@ -1625,8 +1677,8 @@ NEXO es una unidad operativa, técnico-pedagógica y estratégica adscrita a la 
 | 4.5 Formación Multimodal | Acuerdo Política de Formación Multimodal | Arts. 4, 7, 11, 12 |
 | 4.6 Docencia | Acuerdo Política de Formación Multimodal | Arts. 9, 15 |
 | 4.7 Investigación | Acuerdo Sistema de Investigación | Arts. 2, 9, 10-18 |
-| 4.8 Extensión | Plan de Desarrollo Institucional 2024 | p. 9 |
-| 4.9 Internacionalización | Acuerdo Política de Formación Multimodal | Art. 29 |
+| 4.8 Extensión y Voluntariado | Plan de Desarrollo Institucional 2024, Política de Extensión | p. 9, Elaboración institucional |
+| 4.9 Internacionalización | Acuerdo Política de Formación Multimodal, Plan de Desarrollo | Art. 29, p. 11 |
 | 4.10 Articulación Media | Acuerdo Política de Formación Multimodal | Arts. 38-42 |
 | 4.11 NEXO | Acuerdo Política de Formación Multimodal | Arts. 32-37 |
 

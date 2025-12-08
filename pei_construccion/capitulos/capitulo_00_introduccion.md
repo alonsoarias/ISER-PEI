@@ -2,7 +2,7 @@
 
 ---
 
-El Proyecto Educativo Institucional (PEI) del Institución Universitaria de Educación Rural - UniRural constituye el instrumento fundamental de planificación y gestión estratégica que orienta el quehacer institucional. Este documento responde con coherencia a lo expresado en la Constitución Política de Colombia, a las normas sobre educación superior, así como a las disposiciones internas establecidas en el Estatuto General, el Plan de Desarrollo Institucional 2021-2030 y los acuerdos del Consejo Directivo.
+El Proyecto Educativo Institucional (PEI) de la Institución Universitaria de Educación Rural - UniRural constituye el instrumento fundamental de planificación y gestión estratégica que orienta el quehacer institucional. Este documento responde con coherencia a lo expresado en la Constitución Política de Colombia, a las normas sobre educación superior, así como a las disposiciones internas establecidas en el Estatuto General, el Plan de Desarrollo Institucional 2021-2030 y los acuerdos del Consejo Directivo.
 
 ## Naturaleza del PEI
 
@@ -14,7 +14,7 @@ El presente PEI establece el horizonte institucional orientado hacia 2034, compr
 
 ## Contexto del Cambio de Carácter
 
-Este PEI se actualiza en el marco del proceso de cambio de carácter institucional, mediante el cual el Institución Universitaria de Educación Rural - UniRural aspira a convertirse en Institución Universitaria, conforme a lo establecido en el Decreto 2038 de 2023 que modifica el artículo 2.5.3.2.4.1 del Decreto 1075 de 2015. Este proceso representa la culminación de más de 50 años de trayectoria institucional al servicio de la educación superior para el sector rural colombiano.
+Este PEI se actualiza en el marco del proceso de cambio de carácter institucional, mediante el cual la Institución Universitaria de Educación Rural - UniRural consolida su transformación académica, conforme a lo establecido en el Decreto 2038 de 2023 que modifica el artículo 2.5.3.2.4.1 del Decreto 1075 de 2015. Este proceso representa la culminación de más de 50 años de trayectoria institucional al servicio de la educación superior para el sector rural colombiano.
 
 ## Articulación con Planes Institucionales
 
