@@ -60,7 +60,7 @@ La actualización del presente PEI responde a un proceso de construcción partic
 
 ## Compromiso Institucional
 
-El Institución Universitaria de Educación Rural - UniRural, en ejercicio de la autonomía consagrada en el artículo 69 de la Constitución Política y desarrollada en la Ley 30 de 1992, presenta este Proyecto Educativo Institucional como expresión de su compromiso con:
+La Institución Universitaria de Educación Rural - UniRural, en ejercicio de la autonomía consagrada en el artículo 69 de la Constitución Política y desarrollada en la Ley 30 de 1992, presenta este Proyecto Educativo Institucional como expresión de su compromiso con:
 
 - La formación integral de profesionales para el desarrollo rural
 - La investigación aplicada al sector agropecuario y rural

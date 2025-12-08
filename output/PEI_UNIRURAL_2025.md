@@ -137,7 +137,7 @@ La actualización del presente PEI responde a un proceso de construcción partic
 
 ## Compromiso Institucional
 
-El Institución Universitaria de Educación Rural - UniRural, en ejercicio de la autonomía consagrada en el artículo 69 de la Constitución Política y desarrollada en la Ley 30 de 1992, presenta este Proyecto Educativo Institucional como expresión de su compromiso con:
+La Institución Universitaria de Educación Rural - UniRural, en ejercicio de la autonomía consagrada en el artículo 69 de la Constitución Política y desarrollada en la Ley 30 de 1992, presenta este Proyecto Educativo Institucional como expresión de su compromiso con:
 
 - La formación integral de profesionales para el desarrollo rural
 - La investigación aplicada al sector agropecuario y rural
@@ -157,7 +157,7 @@ El Institución Universitaria de Educación Rural - UniRural, en ejercicio de la
 
 ## 1.1 Naturaleza Jurídica y Cambio de Carácter
 
-El Institución Universitaria de Educación Rural - UniRural es un establecimiento público de educación superior del orden departamental, adscrito al Departamento de Norte de Santander, conforme a la Ordenanza 0015 del 11 de agosto de 2009.
+La Institución Universitaria de Educación Rural - UniRural es un establecimiento público de educación superior del orden departamental, adscrito al Departamento de Norte de Santander, conforme a la Ordenanza 0015 del 11 de agosto de 2009.
 
 **Origen legal:** Decreto Ley 2365 del 18 de septiembre de 1956, mediante el cual el Gobierno Nacional creó el Instituto de Educación Rural como "plantel piloto" para la educación rural del país.
 
@@ -254,7 +254,7 @@ El área geográfica de influencia comprende los departamentos de Norte de Santa
 
 ## 1.4 Marco Normativo
 
-El Institución Universitaria de Educación Rural - UniRural rige su actuación por un marco normativo nacional e institucional que fundamenta su quehacer académico y administrativo.
+La Institución Universitaria de Educación Rural - UniRural rige su actuación por un marco normativo nacional e institucional que fundamenta su quehacer académico y administrativo.
 
 ### 1.4.1 Normatividad Nacional
 
@@ -303,19 +303,19 @@ El Decreto 2038 de 2023 establece los requisitos específicos para el cambio de 
 
 ## 1.5 Misión
 
-> Desarrollar con calidad y pertinencia, procesos formativos, de extensión, investigación y bienestar que cualifiquen el talento humano y contribuyan tanto a la generación de cambios en su contexto de actuación como a la consolidación de una sociedad pacífica, justa, democrática e incluyente, atendiendo la propuesta del Desarrollo Humano.
+> Formar Personas Integrales, competentes y socialmente responsables, con capacidad de generar y adaptar conocimientos, conservar y reinterpretar la cultura y participar activamente en el desarrollo armónico de la comunidad, privilegiando el sector rural y las poblaciones vulnerables, orientados desde la docencia, la investigación, la extensión y el bienestar institucional.
 
-**Fuente:** PEI 2020, Sección 1.4.1, p. 21
+La institución asume la **formación integral** como: *"el proceso continuo y participativo que busca el desarrollo armónico y pleno de todas las dimensiones del ser humano (académico, emocional, social, ética, física y cultural) para que este pueda realizarse plenamente en la sociedad"* — Ministerio de Educación Nacional.
+
+**Fuente:** Misión oficial de la Institución Universitaria de Educación Rural - UniRural
 
 ---
 
 ## 1.6 Visión
 
-> En el año 2030, el Institución Universitaria de Educación Rural - UniRural será reconocido en el oriente colombiano como una institución acreditada, incluyente y líder en la formación de educación superior, con un enfoque del desarrollo humano que apuesta por la ruralidad.
+> En el año 2034, La Institución Universitaria de Educación Rural - UniRural será reconocida en el oriente colombiano como una institución acreditada, incluyente y líder en la formación técnica, tecnológica y profesional, con un enfoque del desarrollo humano que apuesta por la ruralidad.
 
-**Nota:** La visión ha sido actualizada para reflejar el cambio de carácter institucional, pasando de "formación técnica y tecnológica" a "formación de educación superior" que incluye programas universitarios y de posgrado.
-
-**Fuente base:** PEI 2020, Sección 1.4.2, p. 21 (con actualización para cambio de carácter)
+**Fuente:** Visión oficial de la Institución Universitaria de Educación Rural - UniRural
 
 ---
 
@@ -449,7 +449,7 @@ Además de los objetivos establecidos en la Constitución Política de Colombia 
 
 ### 2.1.1 El Desarrollo Humano como Horizonte
 
-El Institución Universitaria de Educación Rural - UniRural fundamenta su propuesta formativa en el enfoque de Desarrollo Humano, entendido no como crecimiento económico, sino como un proceso de ampliación de las capacidades de las personas.
+La Institución Universitaria de Educación Rural - UniRural fundamenta su propuesta formativa en el enfoque de Desarrollo Humano, entendido no como crecimiento económico, sino como un proceso de ampliación de las capacidades de las personas.
 
 La institución adopta el **enfoque de capacidades humanas** propuesto por Amartya Sen y Martha Nussbaum, que:
 
@@ -690,7 +690,7 @@ Conforme a la Política de Formación Multimodal (2025), el proceso de formació
 
 ### 2.6.1 Modalidades Educativas
 
-El Institución Universitaria de Educación Rural - UniRural ofrece las siguientes modalidades educativas:
+La Institución Universitaria de Educación Rural - UniRural ofrece las siguientes modalidades educativas:
 
 | Modalidad | Descripción |
 |-----------|-------------|
@@ -728,7 +728,7 @@ La Política Institucional de Formación Multimodal se guía por los siguientes 
 
 ## 2.7 Ámbitos de Pertinencia Institucional
 
-El Institución Universitaria de Educación Rural - UniRural orienta su quehacer formativo respondiendo a múltiples ámbitos de pertinencia que garantizan la relevancia y coherencia de su propuesta educativa.
+La Institución Universitaria de Educación Rural - UniRural orienta su quehacer formativo respondiendo a múltiples ámbitos de pertinencia que garantizan la relevancia y coherencia de su propuesta educativa.
 
 ### 2.7.1 Ámbito Global
 
@@ -885,7 +885,7 @@ Requeridas para el desempeño profesional en cada campo disciplinar, definidas e
 
 ### 3.1.1 Norte de Santander: Territorio de Influencia Principal
 
-El Institución Universitaria de Educación Rural - UniRural tiene su sede principal en Pamplona, Norte de Santander. El departamento presenta características que demandan una oferta educativa amplia y pertinente:
+La Institución Universitaria de Educación Rural - UniRural tiene su sede principal en Pamplona, Norte de Santander. El departamento presenta características que demandan una oferta educativa amplia y pertinente:
 
 **Características demográficas y socioeconómicas:**
 - Población con alta dispersión rural y concentración en zonas de frontera
@@ -1235,7 +1235,7 @@ El ISER cumple con los requisitos establecidos en el Decreto 2038 del 27 de novi
 
 ### 4.1.1 Estructura de Gobierno Académico
 
-El Institución Universitaria de Educación Rural - UniRural organiza su estructura académica conforme al siguiente esquema:
+La Institución Universitaria de Educación Rural - UniRural organiza su estructura académica conforme al siguiente esquema:
 
 | Instancia | Función |
 |-----------|---------|
@@ -1640,7 +1640,7 @@ NEXO es una unidad operativa, técnico-pedagógica y estratégica adscrita a la 
 
 ## 5.1 La Comunidad Educativa Iserista
 
-La comunidad educativa del Institución Universitaria de Educación Rural - UniRural está conformada por los diferentes actores que participan en el proceso formativo y en la vida institucional:
+La comunidad educativa de la Institución Universitaria de Educación Rural - UniRural está conformada por los diferentes actores que participan en el proceso formativo y en la vida institucional:
 
 | Estamento | Descripción |
 |-----------|-------------|
@@ -2037,7 +2037,7 @@ El Instituto implementa las siguientes estrategias:
 
 ### 6.1.1 Campus Principal - Pamplona
 
-El Institución Universitaria de Educación Rural - UniRural cuenta con un campus consolidado en Pamplona, Norte de Santander, que incluye:
+La Institución Universitaria de Educación Rural - UniRural cuenta con un campus consolidado en Pamplona, Norte de Santander, que incluye:
 
 **Edificaciones académicas y administrativas:**
 
@@ -2370,7 +2370,7 @@ El Plan de Desarrollo Institucional proyecta inversiones en:
 
 ### 7.1.1 Naturaleza Jurídica
 
-El Institución Universitaria de Educación Rural - UniRural es un establecimiento público del orden nacional con:
+La Institución Universitaria de Educación Rural - UniRural es un establecimiento público del orden nacional con:
 
 - **Personería jurídica** propia
 - **Autonomía administrativa** conforme a la Ley 30 de 1992
@@ -2835,5 +2835,5 @@ Gobierno Nacional de Colombia. (1988). Decreto 758 de 1988. Por el cual se reest
 
 ---
 
-**Nota:** Las referencias bibliográficas siguen el formato APA 7ª edición. Los documentos institucionales están disponibles en los archivos del Institución Universitaria de Educación Rural - UniRural.
+**Nota:** Las referencias bibliográficas siguen el formato APA 7ª edición. Los documentos institucionales están disponibles en los archivos de la Institución Universitaria de Educación Rural - UniRural.
 

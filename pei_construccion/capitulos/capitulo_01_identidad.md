@@ -4,7 +4,7 @@
 
 ## 1.1 Naturaleza Jurídica y Cambio de Carácter
 
-El Institución Universitaria de Educación Rural - UniRural es un establecimiento público de educación superior del orden departamental, adscrito al Departamento de Norte de Santander, conforme a la Ordenanza 0015 del 11 de agosto de 2009.
+La Institución Universitaria de Educación Rural - UniRural es un establecimiento público de educación superior del orden departamental, adscrito al Departamento de Norte de Santander, conforme a la Ordenanza 0015 del 11 de agosto de 2009.
 
 **Origen legal:** Decreto Ley 2365 del 18 de septiembre de 1956, mediante el cual el Gobierno Nacional creó el Instituto de Educación Rural como "plantel piloto" para la educación rural del país.
 
@@ -101,7 +101,7 @@ El área geográfica de influencia comprende los departamentos de Norte de Santa
 
 ## 1.4 Marco Normativo
 
-El Institución Universitaria de Educación Rural - UniRural rige su actuación por un marco normativo nacional e institucional que fundamenta su quehacer académico y administrativo.
+La Institución Universitaria de Educación Rural - UniRural rige su actuación por un marco normativo nacional e institucional que fundamenta su quehacer académico y administrativo.
 
 ### 1.4.1 Normatividad Nacional
 
@@ -150,19 +150,19 @@ El Decreto 2038 de 2023 establece los requisitos específicos para el cambio de 
 
 ## 1.5 Misión
 
-> Desarrollar con calidad y pertinencia, procesos formativos, de extensión, investigación y bienestar que cualifiquen el talento humano y contribuyan tanto a la generación de cambios en su contexto de actuación como a la consolidación de una sociedad pacífica, justa, democrática e incluyente, atendiendo la propuesta del Desarrollo Humano.
+> Formar Personas Integrales, competentes y socialmente responsables, con capacidad de generar y adaptar conocimientos, conservar y reinterpretar la cultura y participar activamente en el desarrollo armónico de la comunidad, privilegiando el sector rural y las poblaciones vulnerables, orientados desde la docencia, la investigación, la extensión y el bienestar institucional.
 
-**Fuente:** PEI 2020, Sección 1.4.1, p. 21
+La institución asume la **formación integral** como: *"el proceso continuo y participativo que busca el desarrollo armónico y pleno de todas las dimensiones del ser humano (académico, emocional, social, ética, física y cultural) para que este pueda realizarse plenamente en la sociedad"* — Ministerio de Educación Nacional.
+
+**Fuente:** Misión oficial de la Institución Universitaria de Educación Rural - UniRural
 
 ---
 
 ## 1.6 Visión
 
-> En el año 2030, el Institución Universitaria de Educación Rural - UniRural será reconocido en el oriente colombiano como una institución acreditada, incluyente y líder en la formación de educación superior, con un enfoque del desarrollo humano que apuesta por la ruralidad.
+> En el año 2034, La Institución Universitaria de Educación Rural - UniRural será reconocida en el oriente colombiano como una institución acreditada, incluyente y líder en la formación técnica, tecnológica y profesional, con un enfoque del desarrollo humano que apuesta por la ruralidad.
 
-**Nota:** La visión ha sido actualizada para reflejar el cambio de carácter institucional, pasando de "formación técnica y tecnológica" a "formación de educación superior" que incluye programas universitarios y de posgrado.
-
-**Fuente base:** PEI 2020, Sección 1.4.2, p. 21 (con actualización para cambio de carácter)
+**Fuente:** Visión oficial de la Institución Universitaria de Educación Rural - UniRural
 
 ---
 

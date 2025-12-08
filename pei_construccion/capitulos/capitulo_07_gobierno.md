@@ -6,7 +6,7 @@
 
 ### 7.1.1 Naturaleza Jurídica
 
-El Institución Universitaria de Educación Rural - UniRural es un establecimiento público del orden nacional con:
+La Institución Universitaria de Educación Rural - UniRural es un establecimiento público del orden nacional con:
 
 - **Personería jurídica** propia
 - **Autonomía administrativa** conforme a la Ley 30 de 1992

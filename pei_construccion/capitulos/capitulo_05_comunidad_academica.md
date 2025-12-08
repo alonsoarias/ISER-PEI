@@ -4,7 +4,7 @@
 
 ## 5.1 La Comunidad Educativa Iserista
 
-La comunidad educativa del Institución Universitaria de Educación Rural - UniRural está conformada por los diferentes actores que participan en el proceso formativo y en la vida institucional:
+La comunidad educativa de la Institución Universitaria de Educación Rural - UniRural está conformada por los diferentes actores que participan en el proceso formativo y en la vida institucional:
 
 | Estamento | Descripción |
 |-----------|-------------|

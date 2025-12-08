@@ -98,5 +98,5 @@ Gobierno Nacional de Colombia. (1988). Decreto 758 de 1988. Por el cual se reest
 
 ---
 
-**Nota:** Las referencias bibliográficas siguen el formato APA 7ª edición. Los documentos institucionales están disponibles en los archivos del Institución Universitaria de Educación Rural - UniRural.
+**Nota:** Las referencias bibliográficas siguen el formato APA 7ª edición. Los documentos institucionales están disponibles en los archivos de la Institución Universitaria de Educación Rural - UniRural.
 
